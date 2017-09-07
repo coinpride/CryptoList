@@ -16,9 +16,10 @@ Curated collection of blockchain &amp; cryptocurrency links.
   - [Chats](#user)
   - [Forums](#user)
 - [Wallets](#user)
+- [Resources Stacks](#user)
 - [Altfolio Apps](#user)
 - [Useful Tools](#user)
-- [YouTUbe Channels](#user)
+- [YouTube Channels](#user)
 - [Conferences and Meetus](#user)
 - [Learning](#user)
   - [Books](#user)
@@ -26,6 +27,7 @@ Curated collection of blockchain &amp; cryptocurrency links.
   - [Other](#user)
 - [For Developers](#user)
   - [API](#user)
+- [Podcasts](#user)
 - [Misc](#user)
 
 
