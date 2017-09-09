@@ -2,11 +2,18 @@
 Curated collection of blockchain &amp; cryptocurrency links.
 
 [<img src="https://github.com/coinpride/CryptoList/blob/master/cryptolist_logo.png?raw=true" width="500">](https://github.com/coinpride/CryptoList)
-[![Twitter URL](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://github.com/coinpride/CryptoList)
 
-TELEGA CHANEL
-TELEGA CHAT
-JOIN CLUB
+
+[<img src="https://raw.githubusercontent.com/coinpride/CryptoList/master/social_icons/twitter_follow.svg?sanitize=true">](https://twitter.com/coinpridecom)
+[<img src="https://raw.githubusercontent.com/coinpride/CryptoList/master/social_icons/twitter_share.svg?sanitize=true">](https://twitter.com/home?status=The%20Grand%20List%20of%20cryptocurrency%20links%20%0A%F0%9F%91%91%0A%0Ahttps%3A//github.com/coinpride/CryptoList)
+[<img src="https://raw.githubusercontent.com/coinpride/CryptoList/master/social_icons/facebook_like.svg?sanitize=true">](https://www.facebook.com/coinpride/)
+[<img src="https://raw.githubusercontent.com/coinpride/CryptoList/master/social_icons/facebook_send.svg?sanitize=true">](https://www.facebook.com/sharer/sharer.php?u=https%3A//github.com/coinpride/CryptoList)
+[<img src="https://raw.githubusercontent.com/coinpride/CryptoList/master/social_icons/newsletter.svg?sanitize=true">](https://club.coinpride.com/)
+[<img src="https://raw.githubusercontent.com/coinpride/CryptoList/master/social_icons/telegram_join.svg?sanitize=true">](https://t.me/joinchat/BW0hrkLusgsLEYYvs1k9cw)
+
+
+
+
 
 
 # Contents
