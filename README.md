@@ -223,6 +223,7 @@ invest in cryptocurrency.
 # Mining
 * [CoinWarz](https://www.coinwarz.com) - Mining profitability calculators. Help choosing perfect coin to mine.
 * [WhatToMine?](https://whattomine.com) - Find the most profitable cryptocurrencies to mine.
-
+# Contribute
+Found a nice link? Noticed a bug? Feel free to contribute! You are so much welcome! But read the [CONTRIBUTING.md](https://github.com/coinpride/CryptoList/blob/master/CONTRIBUTING.md) first.
 # License
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
