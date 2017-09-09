@@ -28,7 +28,7 @@ Curated collection of blockchain &amp; cryptocurrency links.
 - [Altfolio](#altfolio)
 - [Useful Tools](#useful-tools)
 - [Video](#video)
-  - [YouTube Channels](#toutube-channels)
+  - [YouTube Channels](#youtube-channels)
   - [Movies](#movies)
 - [Learning](#learning)
   - [Books](#books)
