@@ -13,7 +13,7 @@ Curated collection of blockchain &amp; cryptocurrency links.
 # Contents
 - [Media](#media)
   - [Magazines and Blogs](#magazines-and-blogs)
-  - [Medium](#mediums)
+  - [Medium](#medium)
   - [Telegram Channels](#telegram-channels)
 - [News Aggregators](#news-aggregators)
 - [Price Trackers](#price-trackers)
