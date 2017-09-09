@@ -76,9 +76,9 @@ Curated collection of blockchain &amp; cryptocurrency links.
 * [Token Economy](https://tokeneconomy.co/) - Making sense of the latest in crypto-land: cryptocurrencies, blockchains, ICOs, dapps & the growing token economy.
 ## Telegram Channels
 * [Crypto](https://t.me/Crypto) - The god of all crypto channels.
-* [UpcomingICOs](https:/t.me/UpcomingICOs) - This channel is dedicated to informing people of up and coming ICO's.
-* [CryptoNews](https:/t.me/bitcoinnews) - Cryptocurrency news megafeed that is posted in real time, even before they hit social media.
-* [Ethereum dapps](https:/t.me/ethereumdapps) - Ethereum & DAPPS news and updates.
+* [UpcomingICOs](https://t.me/UpcomingICOs) - This channel is dedicated to informing people of up and coming ICO's.
+* [CryptoNews](https://t.me/bitcoinnews) - Cryptocurrency news megafeed that is posted in real time, even before they hit social media.
+* [Ethereum dapps](https://t.me/ethereumdapps) - Ethereum & DAPPS news and updates.
 # News Aggregators
 * [CryptoBuzz](https://cryptobuzz.stream/) - CryptoBuzz aggregates news from many sources (Twitter, Reddit, Google Trends etc) and displays it in the Trello style.
 * [CryptoPanic](https://cryptopanic.com/) - CryptoPanic is news aggregator platform indicating impact on price and market for traders and cryptocurrency enthusiasts.
