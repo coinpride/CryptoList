@@ -39,7 +39,7 @@ Curated collection of blockchain &amp; cryptocurrency links.
   - [Other](#other)
 - [Podcasts](#podcasts)
 - [Mining](#mining)
-- [sponsors](#sponsors)
+- [Sponsors](#sponsors)
 - [Contribute](#contribute)
 - [License](#license)
 
