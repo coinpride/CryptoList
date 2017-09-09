@@ -113,8 +113,8 @@ Curated collection of blockchain &amp; cryptocurrency links.
 * [Bittrex](https://www.bittrex.com) - USA. Trust: 4/5. Many altcoins. Responsible founders.
 * [CEX.IO](https://cex.io/) - UK. Trust: 5/5. Fiat. Newbie friendly.
 * [BestBitcoinExchange](https://www.bestbitcoinexchange.io/) - Curated list of 35 popular exchanges. Looks SEOish but does the job well.
-* [Shapeshift](https://shapeshift.io) - Online exchange. No login, fast, awesome API.
-* [Changelly](https://changelly.com/) - Online exchange. Fiat, n
+* [Shapeshift](https://shapeshift.io) - No login, fast, awesome API.
+* [Changelly](https://changelly.com/) - Fiat, nice affiliate program.
 # Communities
 ## Chats
 * [The CPT Community](https://t.me/joinchat/BW0hrkLusgsLEYYvs1k9cw) - Official CoinPride Telegram chat. Synced with all its webapps' chatboxes via Telegram API.
