@@ -80,7 +80,7 @@ Curated collection of blockchain &amp; cryptocurrency links.
 * [CryptoNews](https:/t.me/bitcoinnews) - Cryptocurrency news megafeed that is posted in real time, even before they hit social media.
 * [Ethereum dapps](https:/t.me/ethereumdapps) - Ethereum & DAPPS news and updates.
 # News Aggregators
-* [CryptoBuzz](https://cryptobuzz.stream/) - CryptoBuzz aggregates news from many sources (Twitter, Reddit, Google Trends etc) and displays it in the Trello style.
+* [CoinBuzz](https://coinbuzz.stream/) - CoinBuzz aggregates news from many sources (Twitter, Reddit, Google Trends etc) and displays it in the Trello style.
 * [CryptoPanic](https://cryptopanic.com/) - CryptoPanic is news aggregator platform indicating impact on price and market for traders and cryptocurrency enthusiasts.
 * [ETHNews](https://www.ethnews.com) - ETHNews is emerging provider of Ethereum and Blockchain ecosystem news. 
 * [Coin Spectator](https://coinspectator.com/) - Get the latest cryptocurrency, bitcoin & blockchain news from many news sources.
@@ -190,7 +190,7 @@ invest in cryptocurrency.
 * [Pluralsight Course](https://www.pluralsight.com/courses/bitcoin-decentralized-technology) - Introduction to Bitcoin and decentralized technology for beginners.
 ## Other
 * [CoinPride Newsletter](https://club.coinpride.com) - The most important crypto news and events. One handcrafted email per week.
-* [Bitcoin Wiki](https://en.bitcoin.it/wiki/Main_Page/) - Technical specifications of the protocol as well as more basic information about how to buy, sell or use bitcoins.
+* [Bitcoin Wiki](https://en.bitcoin.it/wiki/Main_Page) - Technical specifications of the protocol as well as more basic information about how to buy, sell or use bitcoins.
 * [Blockchain Demo](http://blockchaindemo.io/) - This interactive demo will guide you through each component of blockchain step-by-step.
 * [MyCryptoGuide](https://mycrypto.guide/) - The guide is meant to serve as both easy-to-understand introduction to the world of cryptocurrencies.
 * [Bad Bitcoin](http://www.badbitcoin.org) - List of known scams, HYIPs and Ponzi schemes.
