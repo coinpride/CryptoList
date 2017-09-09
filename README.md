@@ -76,9 +76,9 @@ Curated collection of blockchain &amp; cryptocurrency links.
 * [Token Economy](https://tokeneconomy.co/) - Making sense of the latest in crypto-land: cryptocurrencies, blockchains, ICOs, dapps & the growing token economy.
 ## Telegram Channels
 * [Crypto](https://t.me/Crypto) - The god of all crypto channels.
-* [UpcomingICOs](htts:/t.me/UpcomingICOs) - This channel is dedicated to informing people of up and coming ICO's.
-* [CryptoNews](htts:/t.me/bitcoinnews) - Cryptocurrency news megafeed that is posted in real time, even before they hit social media.
-* [Ethereum dapps](htts:/t.me/ethereumdapps) - Ethereum & DAPPS news and updates.
+* [UpcomingICOs](https:/t.me/UpcomingICOs) - This channel is dedicated to informing people of up and coming ICO's.
+* [CryptoNews](https:/t.me/bitcoinnews) - Cryptocurrency news megafeed that is posted in real time, even before they hit social media.
+* [Ethereum dapps](https:/t.me/ethereumdapps) - Ethereum & DAPPS news and updates.
 # News Aggregators
 * [CryptoBuzz](https://cryptobuzz.stream/) - CryptoBuzz aggregates news from many sources (Twitter, Reddit, Google Trends etc) and displays it in the Trello style.
 * [CryptoPanic](https://cryptopanic.com/) - CryptoPanic is news aggregator platform indicating impact on price and market for traders and cryptocurrency enthusiasts.
@@ -165,7 +165,7 @@ Curated collection of blockchain &amp; cryptocurrency links.
 * [World Crypto Network](https://www.youtube.com/user/WorldCryptoNetwork) - Informative news digests.
 * [Crypt0](https://www.youtube.com/user/obham001) -  Omar is one of the most popular crypto bloggers. He creates fascinating interviews.
 * [Ameer Rosic](https://www.youtube.com/user/AmeerRosic) -  News, interviews, podcasts and reviews. 
-* [Aantonop](https://www.youtube.com/user/aantonop/featured) -  Presentations, discussions, QA by Andreas, the author of "Mastering Bitcoin".
+* [aantonop](https://www.youtube.com/user/aantonop/featured) -  Presentations, discussions, QA by Andreas, the author of "Mastering Bitcoin".
 * [CoinSummit](https://www.youtube.com/channel/UCr4QRCZDXrCecaV2w4nuLeQ/) - CoinSummit records: startups showcases, discussions and presentations.
 * [BitcoinFilm](https://www.youtube.com/channel/UC42Y8ajCzQ_rjS_wVTamglQ) - Short films about people using Bitcoin.
 * [Bitcoin and Cryptocurrency Course](https://www.youtube.com/channel/UCNcSSleedtfyDuhBvOQzFzQ/videos) - Bitcoin and Cryptocurrency Technologies course. 12 videos, each 45-90 mins.
