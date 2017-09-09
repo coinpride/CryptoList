@@ -165,7 +165,7 @@ Curated collection of blockchain &amp; cryptocurrency links.
 * [World Crypto Network](https://www.youtube.com/user/WorldCryptoNetwork) - Informative news digests.
 * [Crypt0](https://www.youtube.com/user/obham001) -  Omar is one of the most popular crypto bloggers. He creates fascinating interviews.
 * [Ameer Rosic](https://www.youtube.com/user/AmeerRosic) -  News, interviews, podcasts and reviews. 
-* [aantonop](https://www.youtube.com/user/aantonop/featured) -  Presentations, discussions, QA by Andreas, the author of "Mastering Bitcoin".
+* [Aantonop](https://www.youtube.com/user/aantonop/featured) -  Presentations, discussions, QA by Andreas, the author of "Mastering Bitcoin".
 * [CoinSummit](https://www.youtube.com/channel/UCr4QRCZDXrCecaV2w4nuLeQ/) - CoinSummit records: startups showcases, discussions and presentations.
 * [BitcoinFilm](https://www.youtube.com/channel/UC42Y8ajCzQ_rjS_wVTamglQ) - Short films about people using Bitcoin.
 * [Bitcoin and Cryptocurrency Course](https://www.youtube.com/channel/UCNcSSleedtfyDuhBvOQzFzQ/videos) - Bitcoin and Cryptocurrency Technologies course. 12 videos, each 45-90 mins.
