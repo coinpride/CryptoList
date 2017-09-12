@@ -99,13 +99,13 @@ Curated collection of blockchain &amp; cryptocurrency links.
 # ICO Trackers
 * [ICOtracker](https://icotracker.net) - Very informative and trusted tracker.
 * [The ICO digest](https://theicodigest.com) - Weekly ICO digest.
+* [TokenData](https://www.tokendata.io/) - See ICO stats: ROI, total investments, status and other information.
 * [CoinSchedule](https://www.coinschedule.com) - Live Token Sales & ICOs.
 * [Picoloresearch](https://picoloresearch.com/) - Independent research on blockchain startups and ICOs.
 * [Smith + Crown ICO list]() - Curated list of ongoing and upcoming token sales. Have some research tiers.
 * [ICORating](http://icorating.com/) - ICOrating specializes in evaluating companies with planned ICO.
 * [ICO Alert](https://www.icoalert.com/) - Source for analysis of active and upcoming Initial Coin Offerings.
 * [TokenMarket](https://tokenmarket.net) - TokenMarket is marketplace for tokens, digital assets and blockchain based investing.
-* [TokenData](https://www.tokendata.io/) - See ICO stats: ROI, total investments, status and other information.
 # Exchanges
 * [Local Bitcoins](https://localbitcoins.com/) - Buy and sell bitcoins near you. Trusted by 10M monthly users.
 * [Poloniex](https://www.poloniex.com/) - USA. Trust: 3.5/5. Tons of altcoins. Poor support.
