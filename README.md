@@ -131,6 +131,8 @@ Curated collection of blockchain &amp; cryptocurrency links.
 * [CryptoChan](https://cryptochan.party) - The only crypto-related anonymous imageboard in the world.
 * [Bitcoin Talk](https://bitcoinTalk.org/) - The homepage for the Bitcoin community from the start. Made by Satoshi Nakamoto in 2009.
 * [Bitcoin.com Forum](https://forum.bitcoin.com/) - Strong community of 30,000+ users.
+* [BitcoinGarden](https://bitcoingarden.org) - This young forum has appeared in Jan 2017.
+
 ## Other
 * [Cryptocompare](https://www.cryptocompare.com) - CryptoCompare is interactive platform where you can discuss the latest crypto trends and monitor all markets streaming in real time. Also includes perfect altfoilio app.
 * [Trading View](https://www.tradingview.com/u/DLavrov/) - Follow pro traders and learn from their analyzes. (Mr. Lavrov is great specialist).
