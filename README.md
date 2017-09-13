@@ -101,6 +101,7 @@ Curated collection of blockchain &amp; cryptocurrency links.
 * [The ICO digest](https://theicodigest.com) - Weekly ICO digest.
 * [TokenData](https://www.tokendata.io/) - See ICO stats: ROI, total investments, status and other information.
 * [CoinSchedule](https://www.coinschedule.com) - Live Token Sales & ICOs.
+* [ICO Bazaar](https://icobazaar.com/list) - ICOs alerts.
 * [Picoloresearch](https://picoloresearch.com/) - Independent research on blockchain startups and ICOs.
 * [Smith + Crown ICO list]() - Curated list of ongoing and upcoming token sales. Have some research tiers.
 * [ICORating](http://icorating.com/) - ICOrating specializes in evaluating companies with planned ICO.
