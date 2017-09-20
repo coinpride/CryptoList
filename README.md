@@ -189,6 +189,7 @@ invest in cryptocurrency.
 * [Mastering Bitcoin](https://github.com/bitcoinbook/bitcoinbook) - Mostly for developers. The second edition was published in June 2017.
 * [The Internet of Money](https://www.amazon.com/Internet-Money-Andreas-M-Antonopoulos/dp/1537000454) - Significance of bitcoin through series of essays spanning the exhilarating maturation of this technology.
 * [Ethereum](https://www.amazon.com/Ethereum-Blockchains-Decentralized-Autonomous-Organizations/dp/1523930470) - Non-technical guide to understand blockchains. Mostly focused on Ethereum.
+* [The Age of Cryptocurrency](https://www.amazon.com/Age-Cryptocurrency-Blockchain-Challenging-Economic/dp/1250081556) - Insight into the modern financial system and the Bitcoin industry.
 ## Courses
 * [Coursera Course](https://www.coursera.org/learn/cryptocurrency) - Telling what is special about Bitcoin and how it works at technical level. Created by Princeton University.
 * [Udemy Course](https://www.udemy.com/bitcoin-or-how-i-learned-to-stop-worrying-and-love-crypto) - The definitive guide to understand what the bitcoin is and why we should care about them.
