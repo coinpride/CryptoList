@@ -147,6 +147,9 @@ Curated collection of blockchain &amp; cryptocurrency links.
 * [Blockchain Dev Jobs](https://blockchaindevjobs.com/) - Curated list of jobs from around the web for blockchain engineers.
 * [Ethlance](https://ethlance.com) - Hire or work for ETH. 
 * [/r/Jobs4Bitcoins/](https://www.reddit.com/r/Jobs4Bitcoins/) - Place on Reddit to offer your talents and skills in exchange for the fastest growing currency in the world.
+* [BlockchainJob](https://blockchainjob.co/) - Find your perfect non-technical role in the Crypto space.
+Operations, Marketing, UX/UI Design and more.
+
 # Wallets
 * [Bitcoin Core](https://bitcoin.org/en/download) - Bitcoin Core is MIT licensed open source Bitcoin wallet. It runs own full node so 145GG of free disk space is required. OSX/Linux/Windows/Ubuntu.
 * [Electrum](https://electrum.org/#home) - Thin Bitcoin client. Opensource, MIT, has 100+ contributors. 
