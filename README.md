@@ -75,7 +75,7 @@ Curated collection of blockchain &amp; cryptocurrency links.
 * [Fred Ehrsam](https://medium.com/@FEhrsam) - Previously co-founder @Coinbase, trader @GoldmanSachs, computer science @DukeU.
 * [Token Economy](https://tokeneconomy.co/) - Making sense of the latest in crypto-land: cryptocurrencies, blockchains, ICOs, dapps & the growing token economy.
 ## Telegram Channels
-* [CryptoLion](https://t.me/join_cryptolion) - Cryptoworld news & funny pictures.
+* [Crypto Memes](https://t.me/join_cryptomemes) - Cryptoworld funny pictures.
 * [Crypto](https://t.me/Crypto) - The god of all crypto channels.
 * [UpcomingICOs](https://t.me/UpcomingICOs) - This channel is dedicated to informing people of up and coming ICO's.
 * [CryptoNews](https://t.me/bitcoinnews) - Cryptocurrency news megafeed that is posted in real time, even before they hit social media.
