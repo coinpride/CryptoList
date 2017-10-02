@@ -86,6 +86,8 @@ Curated collection of blockchain &amp; cryptocurrency links.
 * [ETHNews](https://www.ethnews.com) - ETHNews is emerging provider of Ethereum and Blockchain ecosystem news. 
 * [Coin Spectator](https://coinspectator.com/) - Get the latest cryptocurrency, bitcoin & blockchain news from many news sources.
 * [CoinTerminal](https://site.cointerminal.co/) - CoinTerminal instantly aggregates, summarizes and analyzes market chatter for sentiment and streams it in real-time.
+* [CoinsCalendar](http://www.coinscalendar.com/) - CoinsCalendar displays all upcoming coins events and updates.
+
 # Price Trackers
 * [Altcoins Racing](https://altcoins.racing/) - Altcoins Racing shows the price change winners and losers.
 * [CoinMarketcap](https://coinmarketcap.com/) - Old and cool. All coins prices, graphs, market caps. API, widgets, tools. Used by 90M monthly users.
