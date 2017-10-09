@@ -110,6 +110,7 @@ Curated collection of blockchain &amp; cryptocurrency links.
 * [ICORating](http://icorating.com/) - ICOrating specializes in evaluating companies with planned ICO.
 * [ICO Alert](https://www.icoalert.com/) - Source for analysis of active and upcoming Initial Coin Offerings.
 * [TokenMarket](https://tokenmarket.net) - TokenMarket is marketplace for tokens, digital assets and blockchain based investing.
+* [ICOdrops](https://icodrops.com/) - Constantly updating kanban style ICO board.
 # Exchanges
 * [Local Bitcoins](https://localbitcoins.com/) - Buy and sell bitcoins near you. Trusted by 10M monthly users.
 * [Poloniex](https://www.poloniex.com/) - USA. Trust: 3.5/5. Tons of altcoins. Poor support.
