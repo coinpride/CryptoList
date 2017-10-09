@@ -136,7 +136,7 @@ Curated collection of blockchain &amp; cryptocurrency links.
 * [Bitcoin Talk](https://bitcoinTalk.org/) - The homepage for the Bitcoin community from the start. Made by Satoshi Nakamoto in 2009.
 * [Bitcoin.com Forum](https://forum.bitcoin.com/) - Strong community of 30,000+ users.
 * [BitcoinGarden](https://bitcoingarden.org) - This young forum has appeared in Jan 2017.
-* [CryptoCurrencyTalk](https://cryptocurrencytalk.com/) - Yet born in Apr 2017, this forum is quite active.
+* [CryptoCurrencyTalk](https://cryptocurrencytalk.com/) - Born in 2013, very active forum. Modern engine.
 
 ## Other
 * [Cryptocompare](https://www.cryptocompare.com) - CryptoCompare is interactive platform where you can discuss the latest crypto trends and monitor all markets streaming in real time. Also includes perfect altfoilio app.
