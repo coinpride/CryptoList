@@ -253,6 +253,7 @@ invest in cryptocurrency.
 * [CoinWarz](https://www.coinwarz.com) - Mining profitability calculators. Help choosing perfect coin to mine.
 * [WhatToMine?](https://whattomine.com) - Find the most profitable cryptocurrencies to mine.
 * [Bitcoin Difficulty](https://bitcoinwisdom.com/bitcoin/difficulty) - Realtime Mining Statistics.
+* [Mining pools](https://blockchain.info/pools) - Mining pool hashrate distribution.
 
 
 # Sponsors
