@@ -170,7 +170,7 @@ Operations, Marketing, UX/UI Design and more.
 * [Trezor Hardware](https://trezor.io) - The first & most secure hardware wallet. Supports BTC/ETH/ETC/DASH/ and many more coins and ERC20 tokens.
 * [CoinBase](https://www.coinbase.com/) - Buy Bitcoin for $, NFC payments, requested payments.
 * [MyCelium](https://wallet.mycelium.com) - Geeky wallet, easy to set miners fee, rich transaction details.
-
+* [Samourai](https://samouraiwallet.com/) - Secure Bitcoin wallet for Android.
 
 # Altfolio
 * [Blockfolio](https://www.blockfolio.com/) - Cryptocurrency management, with easy to use tools to keep track of all your cryptocurrency investments. Nice widgets. Simple. Android/iOS.
