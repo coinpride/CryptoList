@@ -179,6 +179,8 @@ Operations, Marketing, UX/UI Design and more.
 * [Coinfyi](https://coin.fyi) - Track your performance, news & market signals related to your cryptocurrency investments. Anonymous. Simple. Free.
 * [f0lio](https://f0l.io) - Beatutiful cryptocurrency portfolio management for mobile devices.
 * [BitWorth](http://www.bitworth.io/) - Cryptocurrency Net Worth Tracker for iOS.
+* [CoinDex](https://coindexapp.com) - iOS app that lets you stay up to date with the cryptocurrency markets you want to watch.
+
 # Useful Tools
 * [QR Code Generator](https://bitcoinqrcodegenerator.win/) - With this free tool you can instantly generate QR code for your Bitcoin/Litecoin/Ethereum/Dogecoin address.
 * [Block Explorer](https://tradeblock.com/bitcoin/) - Discover the Bitcoin blockchain blocks online. Includes fees and miners information.
