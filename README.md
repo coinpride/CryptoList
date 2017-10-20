@@ -263,6 +263,7 @@ invest in cryptocurrency.
 * [WhatToMine?](https://whattomine.com) - Find the most profitable cryptocurrencies to mine.
 * [Bitcoin Difficulty](https://bitcoinwisdom.com/bitcoin/difficulty) - Realtime Mining Statistics.
 * [Mining pools](https://blockchain.info/pools) - Mining pool hashrate distribution.
+* [WhatIsMyHashRate?](http://www.whatismyhashrate.com/) - Measure your browser's hashrate.
 
 
 # Sponsors
