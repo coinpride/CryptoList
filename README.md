@@ -157,7 +157,7 @@ Curated collection of blockchain &amp; cryptocurrency links.
 * [BlockchainJob](https://blockchainjob.co/) - Find your perfect non-technical role in the Crypto space.
 Operations, Marketing, UX/UI Design and more.
 * [Crypto.jobs](https://crypto.jobs) - Well categorized jobs list. Owner does a lot to promote it.
-* [Beincrypto.com](https://beincrypto.com) - The world's largest crypto job aggregator.
+* [Beincrypto](https://beincrypto.com) - Aggregates all the crypto jobs from major job boards.
 
 
 
