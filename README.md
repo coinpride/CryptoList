@@ -191,6 +191,7 @@ Operations, Marketing, UX/UI Design and more.
 * [Metamask](https://metamask.io/) - Run Ethereum dApps right in your browser without running full node.
 * [ATM Map](https://bitcoinatmmap.com/) - Find Bitcoin ATM’s in your country.
 * [Statoshi](https://statoshi.info) - Realtime Bitcoin node stats. Made by Jameson Lopp.
+* [RSIhunter](http://rsihunter.com/) - Find "oversold" and "overbought" cryptocurrencies.
 
 # Video
 ## YouTube Channels
