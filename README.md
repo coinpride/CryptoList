@@ -156,6 +156,7 @@ Curated collection of blockchain &amp; cryptocurrency links.
 Operations, Marketing, UX/UI Design and more.
 * [Crypto.jobs](https://crypto.jobs) - Well categorized jobs list. Owner does a lot to promote it.
 * [Beincrypto](https://beincrypto.com) - Aggregates all the crypto jobs from major job boards.
+* [Jobs by BlockRepublic](http://blockrepublic.io/blockchain-jobs/) - Useful filters, locations & categories.
 
 
 
