@@ -152,8 +152,6 @@ Curated collection of blockchain &amp; cryptocurrency links.
 * [Blockchain Dev Jobs](https://blockchaindevjobs.com/) - Curated list of jobs from around the web for blockchain engineers.
 * [Ethlance](https://ethlance.com) - Hire or work for ETH. 
 * [/r/Jobs4Bitcoins/](https://www.reddit.com/r/Jobs4Bitcoins/) - Place on Reddit to offer your talents and skills in exchange for the fastest growing currency in the world.
-* [BlockchainJob](https://blockchainjob.co/) - Find your perfect non-technical role in the Crypto space.
-Operations, Marketing, UX/UI Design and more.
 * [Crypto.jobs](https://crypto.jobs) - Well categorized jobs list. Owner does a lot to promote it.
 * [Beincrypto](https://beincrypto.com) - Aggregates all the crypto jobs from major job boards.
 * [Jobs by BlockRepublic](http://blockrepublic.io/blockchain-jobs/) - Useful filters, locations & categories.
