@@ -109,7 +109,7 @@ Curated collection of blockchain &amp; cryptocurrency links.
 * [CoinSchedule](https://www.coinschedule.com) - Live Token Sales & ICOs.
 * [ICO Bazaar](https://icobazaar.com/list) - Informative website + ICOs alerts.
 * [Picoloresearch](https://picoloresearch.com/) - Independent research on blockchain startups and ICOs.
-* [Smith + Crown ICO list]() - Curated list of ongoing and upcoming token sales. Have some research tiers.
+* [Smith + Crown ICO list](https://www.smithandcrown.com/icos/) - Curated list of ongoing and upcoming token sales. Have some research tiers.
 * [ICORating](http://icorating.com/) - ICOrating specializes in evaluating companies with planned ICO.
 * [ICO Alert](https://www.icoalert.com/) - Source for analysis of active and upcoming Initial Coin Offerings.
 * [TokenMarket](https://tokenmarket.net) - TokenMarket is marketplace for tokens, digital assets and blockchain based investing.
