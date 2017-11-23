@@ -256,6 +256,7 @@ invest in cryptocurrency.
 * [GETH](https://www.ethereum.org/cli) - CLI tools for Ethereum. Python, C++, Go implementations.
 * [Embark](https://github.com/iurimatias/embark-framework) - Framework for serverless Decentralized Applications using Ethereum, IPFS and other platforms. JS.
 * [Truffle](http://truffleframework.com/) - The most popular framework for Ethereum. JS.
+* [Faucet list](https://faucetlist.me/) - Large cryptocurrency faucet list with JSON API.
 # Podcasts
 * [Epicenter](https://epicenter.tv/) - The Podcast at the Forefront of the Decentralized Technology Revolution.
 * [Bitcoin Knowledge](http://www.bitcoin.kn/) - Learn about blockchain and fintech.
