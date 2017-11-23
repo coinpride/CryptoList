@@ -266,6 +266,7 @@ invest in cryptocurrency.
 * [Bitcoin Difficulty](https://bitcoinwisdom.com/bitcoin/difficulty) - Realtime Mining Statistics.
 * [Mining pools](https://blockchain.info/pools) - Mining pool hashrate distribution.
 * [WhatIsMyHashRate?](http://www.whatismyhashrate.com/) - Measure your browser's hashrate.
+* [What is cryptojacking?](https://hackerbits.com/programming/what-is-cryptojacking/) - Learn about cryptojacking.
 
 
 # Sponsors
