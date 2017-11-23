@@ -126,7 +126,7 @@ Curated collection of blockchain &amp; cryptocurrency links.
 * [Changelly](https://changelly.com/) - Fiat, nice affiliate program.
 # Communities
 ## Chats
-* [The Moon Trollbox 🌑](https://t.me/join_trollbox) - Hot news discussions, rumors and friendly talks. No cersorship.
+* [The Moon Trollbox ](https://t.me/join_trollbox) - Hot news discussions, rumors and friendly talks. No cersorship.
 * [The CHT Community](https://t.me/join_cht) - Official CryptoHackers Telegram chat. The place to talk to founders of your favourite crypto startups & apps.
 * [Crypto Aquarium](https://cryptoaquarium.com) - Great community (Telegram, Slack). Curated by Joshua Petty, the Coindex creator. 800+ members.
 * [Bitpam](https://discordapp.com/invite/VpPrGmF?ref=cryptominded) - Friendly Discord community. 300+ members.
@@ -192,6 +192,8 @@ Curated collection of blockchain &amp; cryptocurrency links.
 * [ATM Map](https://bitcoinatmmap.com/) - Find Bitcoin ATM’s in your country.
 * [Statoshi](https://statoshi.info) - Realtime Bitcoin node stats. Made by Jameson Lopp.
 * [RSIhunter](http://rsihunter.com/) - Find "oversold" and "overbought" cryptocurrencies.
+* [CryptoFinance](https://chrome.google.com/webstore/detail/cryptofinance/bhjnahcnhemcnnenhgbmmdapapblnlcn) - Intelligent power up for Google Sheets.
+
 
 # Video
 ## YouTube Channels
