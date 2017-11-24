@@ -192,7 +192,7 @@ Curated collection of blockchain &amp; cryptocurrency links.
 * [ATM Map](https://bitcoinatmmap.com/) - Find Bitcoin ATM’s in your country.
 * [Statoshi](https://statoshi.info) - Realtime Bitcoin node stats. Made by Jameson Lopp.
 * [RSIhunter](http://rsihunter.com/) - Find "oversold" and "overbought" cryptocurrencies.
-* [CryptoFinance](https://chrome.google.com/webstore/detail/cryptofinance/bhjnahcnhemcnnenhgbmmdapapblnlcn) - Intelligent power up for Google Sheets.
+* [CryptoFinance](https://chrome.google.com/webstore/detail/cryptofinance/bhjnahcnhemcnnenhgbmmdapapblnlcn) - Google Sheets add-on to get cryptocurrencies rate in spreadsheets.
 
 
 # Video
