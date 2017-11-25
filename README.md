@@ -61,6 +61,7 @@ Curated collection of blockchain &amp; cryptocurrency links.
 * [Peter Todd Blog](https://petertodd.org/) - Blog of Todd, the applied cryptography consultant.
 * [Richard Brown Blog](https://gendal.me/tag/bitcoin/) - Blog of Head of Technology at R3CEV.
 * [Laanwj Blog](https://laanwj.github.io/) - Blog of Bitcoin core developer and reverse engineer.
+* [Crypto Analyst](https://www.cryptoanalyst.co/) - World’s premier cryptocurrency news analysis.
 ## Medium
 * [Vitalik Buterin](https://medium.com/@VitalikButerin) - Ethereum creator, cryptocurrency evangelist.
 * [Bitcoin Tech Talk](https://bitcointechtalk.com/) - All About Bitcoin Development.
