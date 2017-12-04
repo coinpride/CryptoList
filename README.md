@@ -105,7 +105,6 @@ Curated collection of blockchain &amp; cryptocurrency links.
 * [WorldCoinIndex](https://www.worldcoinindex.com/) - Realtime cryptocurrency price monitoring tool. Lots of altcoins and many fiat currencies.
 * [CryptoTrader](https://cryptrader.com/) - Cryptocurrency trading platform. Charts, news and trollbox. Add widgets to customize the look.
 * [Coin Daily Update](https://coindailyupdate.com) - Daily email update with price changes of customizable coins.
-* [Crypto Central](https://cryptocentral.ai) - Bitcoin & cryptocurrency portfolio tracker for iOS/Android.
 # ICO Trackers
 * [ICOtracker](https://icotracker.net) - Very informative and trusted tracker.
 * [The ICO digest](https://theicodigest.com) - Weekly ICO digest.
@@ -187,7 +186,7 @@ Curated collection of blockchain &amp; cryptocurrency links.
 * [CoinDex](https://coindexapp.com) - iOS app that lets you stay up to date with the cryptocurrency markets you want to 
 watch.
 * [Delta](https://getdelta.io/) -  Ultimate cryptocurrency portfolio tracker tool for iOS & Android.
-
+* [Crypto Central](https://cryptocentral.ai) - Bitcoin & cryptocurrency portfolio tracker for iOS/Android.
 # Useful Tools
 * [QR Code Generator](https://bitcoinqrcodegenerator.win/) - With this free tool you can instantly generate QR code for your Bitcoin/Litecoin/Ethereum/Dogecoin address.
 * [Block Explorer](https://tradeblock.com/bitcoin/) - Discover the Bitcoin blockchain blocks online. Includes fees and miners information.
