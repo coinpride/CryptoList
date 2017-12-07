@@ -178,7 +178,7 @@ Curated collection of blockchain &amp; cryptocurrency links.
 
 # Altfolio
 * [Blockfolio](https://www.blockfolio.com/) - Cryptocurrency management, with easy to use tools to keep track of all your cryptocurrency investments. Nice widgets. Simple. Android/iOS.
-* [ACrypto](https://dworks.in/acrypto) - Track bitcoin and altcoins prices, custom alarms, detailed charts. Flexible, many settings, informative. Android only. 
+* [ACrypto](https://dworks.in/acrypto) - Track bitcoin and altcoins prices, custom alarms, detailed charts. Flexible, many settings, informative. Available for iOS & Android.
 * [Altpocket](http://www.altpocket.io) - The only tool you need for showcasing, tracking and sharing your cryptocurrency investments.
 * [Coinfyi](https://coin.fyi) - Track your performance, news & market signals related to your cryptocurrency investments. Anonymous. Simple. Free.
 * [f0lio](https://f0l.io) - Beatutiful cryptocurrency portfolio management for mobile devices.
