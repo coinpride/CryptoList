@@ -92,6 +92,7 @@ Curated collection of blockchain &amp; cryptocurrency links.
 * [CoinTerminal](https://site.cointerminal.co/) - CoinTerminal instantly aggregates, summarizes and analyzes market chatter for sentiment and streams it in real-time.
 * [CoinsCalendar](http://www.coinscalendar.com/) - CoinsCalendar displays all upcoming coins events and updates.
 * [CoinDar](https://coindar.org/) - Be first to know about coming cryptocurrency news, updates, hard forks, meetups, coins listing on exchanges and other important events.
+* [BTcnews for iOS](http://btcnews.emoof.com/) - news from dozens of major news sources, ticker, charts, podcasts, learning center, and more.
 
 # Price Trackers
 * [Altcoins Racing](https://altcoins.racing/) - Altcoins Racing shows the price change winners and losers.
