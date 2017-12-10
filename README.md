@@ -107,6 +107,7 @@ Curated collection of blockchain &amp; cryptocurrency links.
 * [Coin Daily Update](https://coindailyupdate.com) - Daily email update with price changes of customizable coins.
 # ICO Trackers
 * [ICOtracker](https://icotracker.net) - Very informative and trusted tracker.
+* [ICOtracker.org](https://icotracker.com) - View upcoming ICO's and track old ICO's with a detailed statistics report.
 * [The ICO digest](https://theicodigest.com) - Weekly ICO digest.
 * [TokenData](https://www.tokendata.io/) - See ICO stats: ROI, total investments, status and other information.
 * [CoinSchedule](https://www.coinschedule.com) - Live Token Sales & ICOs.
@@ -181,6 +182,7 @@ Curated collection of blockchain &amp; cryptocurrency links.
 * [ACrypto](https://dworks.in/acrypto) - Track bitcoin and altcoins prices, custom alarms, detailed charts. Flexible, many settings, informative. Available for iOS & Android.
 * [Altpocket](http://www.altpocket.io) - The only tool you need for showcasing, tracking and sharing your cryptocurrency investments.
 * [Coinfyi](https://coin.fyi) - Track your performance, news & market signals related to your cryptocurrency investments. Anonymous. Simple. Free.
+* [Cryptotrackr](https://cryptotrackr.com) - Clear and intuïtive crypto currency portfolio tracker, with automatic exchange balances.
 * [f0lio](https://f0l.io) - Beatutiful cryptocurrency portfolio management for mobile devices.
 * [BitWorth](http://www.bitworth.io/) - Cryptocurrency Net Worth Tracker for iOS.
 * [CoinDex](https://coindexapp.com) - iOS app that lets you stay up to date with the cryptocurrency markets you want to 
