@@ -140,6 +140,7 @@ Curated collection of blockchain &amp; cryptocurrency links.
 * [CryptoMinded](http://community.cryptominded.com/) - All things crypto: events, jobs, trades, news. 1000+ Slack members.
 * [IRC #bitcoin channel](https://webchat.freenode.net/?channels=bitcoin&uio=d4/) - Old good IRC. The channel of 200 silent people.
 ## Forums
+* [CryptoHeresy ⚡️](https://cryptoheresy.com) - Fresh Bitcoin forum with focus on cryptocurrency tools and resources.
 * [Bitcoin Talk](https://bitcoinTalk.org/) - The homepage for the Bitcoin community from the start. Made by Satoshi Nakamoto in 2009.
 * [Bitcoin.com Forum](https://forum.bitcoin.com/) - Strong community of 30,000+ users.
 * [BitcoinGarden](https://bitcoingarden.org) - This young forum has appeared in Jan 2017.
