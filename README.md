@@ -141,7 +141,7 @@ Curated collection of blockchain &amp; cryptocurrency links.
 * [IRC #bitcoin channel](https://webchat.freenode.net/?channels=bitcoin&uio=d4/) - Old good IRC. The channel of 200 silent people.
 ## Forums
 * [CryptoHeresy ⚡️](https://cryptoheresy.com) - Fresh Bitcoin forum with focus on cryptocurrency tools and resources.
-* [Bitcoin Talk](https://bitcoinTalk.org/) - The homepage for the Bitcoin community from the start. Made by Satoshi Nakamoto in 2009.
+* [Bitcoin Talk](https://bitcoinTalk.org/) - Homepage of the Bitcoin community from the start. Made by Satoshi Nakamoto in 2009.
 * [Bitcoin.com Forum](https://forum.bitcoin.com/) - Strong community of 30,000+ users.
 * [BitcoinGarden](https://bitcoingarden.org) - This young forum has appeared in Jan 2017.
 * [CryptoCurrencyTalk](https://cryptocurrencytalk.com/) - Born in 2013, very active forum. Modern engine.
