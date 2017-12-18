@@ -130,7 +130,7 @@ Curated collection of blockchain &amp; cryptocurrency links.
 * [Cryptoradar](https://cryptoradar.co) - Compares prices and features from > 25 exchanges and brokers.
 # Communities
 ## Chats
-* [The Moon Trollbox ](https://t.me/join_trollbox) - Hot news discussions, rumors and friendly talks. No cersorship.
+* [The Moon Trollbox](https://t.me/join_trollbox) - Hot news discussions, rumors and friendly talks. No cersorship.
 * [The CHT Community](https://t.me/join_cht) - Official CryptoHackers Telegram chat. The place to talk to founders of your favourite crypto startups & apps.
 * [Crypto Aquarium](https://cryptoaquarium.com) - Great community (Telegram, Slack). Curated by Joshua Petty, the Coindex creator. 800+ members.
 * [Bitpam](https://discordapp.com/invite/VpPrGmF?ref=cryptominded) - Friendly Discord community. 300+ members.
