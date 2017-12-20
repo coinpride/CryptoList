@@ -190,6 +190,8 @@ Curated collection of blockchain &amp; cryptocurrency links.
 watch.
 * [Delta](https://getdelta.io/) -  Ultimate cryptocurrency portfolio tracker tool for iOS & Android.
 * [Crypto Central](https://cryptocentral.ai) - Bitcoin & cryptocurrency portfolio tracker for iOS/Android.
+* [Cryptagon](https://cryptagon.io) - Powerful app to track portfolio. Automatic imports from exchanges.
+
 # Useful Tools
 * [QR Code Generator](https://bitcoinqrcodegenerator.win/) - With this free tool you can instantly generate QR code for your Bitcoin/Litecoin/Ethereum/Dogecoin address.
 * [Block Explorer](https://tradeblock.com/bitcoin/) - Discover the Bitcoin blockchain blocks online. Includes fees and miners information.
@@ -200,7 +202,6 @@ watch.
 * [Statoshi](https://statoshi.info) - Realtime Bitcoin node stats. Made by Jameson Lopp.
 * [RSIhunter](http://rsihunter.com/) - Find "oversold" and "overbought" cryptocurrencies.
 * [CryptoFinance](https://chrome.google.com/webstore/detail/cryptofinance/bhjnahcnhemcnnenhgbmmdapapblnlcn) - Google Sheets add-on to get cryptocurrencies rate in spreadsheets.
-
 
 # Video
 ## YouTube Channels
