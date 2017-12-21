@@ -123,6 +123,7 @@ Curated collection of blockchain &amp; cryptocurrency links.
 * [Local Bitcoins](https://localbitcoins.com/) - Buy and sell bitcoins near you. Trusted by 10M monthly users.
 * [Poloniex](https://www.poloniex.com/) - USA. Trust: 3.5/5. Tons of altcoins. Poor support.
 * [CoinBase](https://www.coinbase.com) - USA. Trust: 5/5. Pay with fiat.
+* [Kraken](https://www.kraken.com/) - USA. Trust: 5/5. Founded in 2011.
 * [Bittrex](https://www.bittrex.com) - USA. Trust: 4/5. Many altcoins. Responsible founders.
 * [CEX.IO](https://cex.io/) - UK. Trust: 5/5. Fiat. Newbie friendly.
 * [BestBitcoinExchange](https://www.bestbitcoinexchange.io/) - Curated list of 35 popular exchanges. Looks SEOish but does the job well.
