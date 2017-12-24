@@ -249,6 +249,8 @@ invest in cryptocurrency.
 * [Satoshi Nakamoto WhitePaper](https://bitcoin.org/bitcoin.pdf) - Bitcoin fundamentals described by the creator.
 * [Bitcoin Developer Docs](https://bitcoin.org/en/developer-guide) - Detailed information about the Bitcoin protocol and related specifications.
 * [Bitcoin Forks](http://mapofcoins.com/bitcoin) - All bitcoin forks visualisation.
+* [Coin Demo](https://coindemo.io) - Visual demonstration of how bitcoin transactions work.
+
 # For Developers
 ## API
 * [Stripe Bitcoin](https://stripe.com/bitcoin/) - Accepting Bitcoin payments made easy. Great integration from Stripe.
