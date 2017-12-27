@@ -99,6 +99,7 @@ Curated collection of blockchain &amp; cryptocurrency links.
 * [Altcoins Racing](https://altcoins.racing/) - Altcoins Racing shows the price change winners and losers.
 * [CoinMarketcap](https://coinmarketcap.com/) - Old and cool. All coins prices, graphs, market caps. API, widgets, tools. Used by 90M monthly users.
 * [Coincap](http://coincap.io/) - CoinCap tracks market data for hundreds of cryptocurrencies in real-time. They also have very useful mobile app.
+* [Coincall](http://coincall.io/) - Monitor market data and follow coins that interest you. Track your portfolio with a simple and easy to use interface.
 * [Cryptowatch](https://cryptowat.ch) - Live price charts and market data for Bitcoin, Ethereum, and more. Many exchanges, flexible settings and cool API.
 * [Bfxdata](https://www.bfxdata.com/) - Charts and Stats for Bitfinex market data and margin funding.
 * [Bitcoinwisdom](https://bitcoinwisdom.com) - Live Bitcoin/Litecoin charts with EMA, MACD and other indicators. Support many exchanges (Bitfinex, Bitstamp, Coinbase, Bittrex, Poloniex etc).
@@ -206,6 +207,7 @@ watch.
 * [Statoshi](https://statoshi.info) - Realtime Bitcoin node stats. Made by Jameson Lopp.
 * [RSIhunter](http://rsihunter.com/) - Find "oversold" and "overbought" cryptocurrencies.
 * [CryptoFinance](https://chrome.google.com/webstore/detail/cryptofinance/bhjnahcnhemcnnenhgbmmdapapblnlcn) - Google Sheets add-on to get cryptocurrencies rate in spreadsheets.
+* [TokenSpread](https://www.tokenspread.com/) - Monitor price spread in real-time across exchanges.
 
 # Video
 ## YouTube Channels
