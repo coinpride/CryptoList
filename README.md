@@ -265,7 +265,7 @@ invest in cryptocurrency.
 * [Bitpay](https://bitpay.com/) - Use BitPay's retail, ecommerce, billing, and donation tools to accept payments.
 * [Gekko](https://github.com/askmike/gekko) - Free and open source trading bot. GUI, CLI, NodeJS, nice docs. 18 exchanges (including Bitfinex, Bitstamp and Poloniex).
 * [Zenbot](https://github.com/carlos8f/zenbot) - Free and open source trading bot. CLI, NodeJS. GDAX, Poloniex, Kraken, Bittrex, Quadriga and Gemini.
-* [Web3.js](https://github.com/ethereum/web3.js) - Ethereum JS API. Requires nodejs, nmp and being node.
+* [Web3.js](https://github.com/ethereum/web3.js) - Ethereum JS API. Requires nodejs, npm and running node.
 * [OpenZeppelin](https://openzeppelin.org) - OpenZeppelin is open framework of reusable and secure smart contracts in the Solidity language. 1500+ Slack community members.
 * [GETH](https://www.ethereum.org/cli) - CLI tools for Ethereum. Python, C++, Go implementations.
 * [Embark](https://github.com/iurimatias/embark-framework) - Framework for serverless Decentralized Applications using Ethereum, IPFS and other platforms. JS.
