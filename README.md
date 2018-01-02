@@ -180,6 +180,7 @@ Curated collection of blockchain &amp; cryptocurrency links.
 * [Trezor Hardware](https://trezor.io) - The first & most secure hardware wallet. Supports BTC/ETH/ETC/DASH/ and many more coins and ERC20 tokens.
 * [CoinBase](https://www.coinbase.com/) - Buy Bitcoin for $, NFC payments, requested payments.
 * [MyCelium](https://wallet.mycelium.com) - Geeky wallet, easy to set miners fee, rich transaction details.
+* [WalletGenerator.net](https://walletgenerator.net) - Universal JavaScript Client-Side Wallet Generator for 100+ coins
 * [Samourai](https://samouraiwallet.com/) - Secure Bitcoin wallet for Android.
 * [WalletList](https://walletlist.me) - Showcase your public cryptocurrency addresses.
 
@@ -198,6 +199,7 @@ watch.
 
 # Useful Tools
 * [QR Code Generator](https://bitcoinqrcodegenerator.win/) - With this free tool you can instantly generate QR code for your Bitcoin/Litecoin/Ethereum/Dogecoin address.
+* [Vanitygen PLUS](https://github.com/exploitagency/vanitygen-plus) - generate custom key addresses, 90+ coins!
 * [Block Explorer](https://tradeblock.com/bitcoin/) - Discover the Bitcoin blockchain blocks online. Includes fees and miners information.
 * [EtherScan](https://etherscan.io) - Block Explorer and Analytics Platform for Ethereum.
 * [ETH Gas Station](http://ethgasstation.info) - Consumer oriented metrics for the Ethereum Gas Market.
