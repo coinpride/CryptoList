@@ -250,6 +250,7 @@ invest in cryptocurrency.
 * [Bitcoin Developer Docs](https://bitcoin.org/en/developer-guide) - Detailed information about the Bitcoin protocol and related specifications.
 * [Bitcoin Forks](http://mapofcoins.com/bitcoin) - All bitcoin forks visualisation.
 * [Coin Demo](https://coindemo.io) - Visual demonstration of how bitcoin transactions work.
+* [Rhymes With Fiat](https://www.rhymeswithfiat.com) - A Bitcoin webcomic (with educational notes).
 
 # For Developers
 ## API
