@@ -199,6 +199,7 @@ watch.
 
 # Useful Tools
 * [QR Code Generator](https://bitcoinqrcodegenerator.win/) - With this free tool you can instantly generate QR code for your Bitcoin/Litecoin/Ethereum/Dogecoin address.
+* [Vanitygen PLUS](https://github.com/exploitagency/vanitygen-plus) - generate custom key addresses, 90+ coins!
 * [Block Explorer](https://tradeblock.com/bitcoin/) - Discover the Bitcoin blockchain blocks online. Includes fees and miners information.
 * [EtherScan](https://etherscan.io) - Block Explorer and Analytics Platform for Ethereum.
 * [ETH Gas Station](http://ethgasstation.info) - Consumer oriented metrics for the Ethereum Gas Market.
