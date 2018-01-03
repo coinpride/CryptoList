@@ -207,7 +207,7 @@ watch.
 * [Statoshi](https://statoshi.info) - Realtime Bitcoin node stats. Made by Jameson Lopp.
 * [RSIhunter](http://rsihunter.com/) - Find "oversold" and "overbought" cryptocurrencies.
 * [CryptoFinance](https://chrome.google.com/webstore/detail/cryptofinance/bhjnahcnhemcnnenhgbmmdapapblnlcn) - Google Sheets add-on to get cryptocurrencies rate in spreadsheets.
-* [Vanitygen PLUS](https://github.com/exploitagency/vanitygen-plus) - generate custom addresses, 90+ coins!
+* [Vanitygen PLUS](https://github.com/exploitagency/vanitygen-plus) - Generate custom addresses, 90+ coins!
 
 # Video
 ## YouTube Channels
