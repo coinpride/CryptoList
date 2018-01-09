@@ -97,6 +97,7 @@ Curated collection of blockchain &amp; cryptocurrency links.
 
 # Price Trackers
 * [Altcoins Racing](https://altcoins.racing/) - Altcoins Racing shows the price change winners and losers.
+* [CoinPuffs](https://coinpuffs.com/) - A daily source of your crypto vitamins and minerals! Fast, and zero banner ads!
 * [CoinMarketcap](https://coinmarketcap.com/) - Old and cool. All coins prices, graphs, market caps. API, widgets, tools. Used by 90M monthly users.
 * [Coincap](http://coincap.io/) - CoinCap tracks market data for hundreds of cryptocurrencies in real-time. They also have very useful mobile app.
 * [Cryptowatch](https://cryptowat.ch) - Live price charts and market data for Bitcoin, Ethereum, and more. Many exchanges, flexible settings and cool API.
@@ -145,6 +146,7 @@ Curated collection of blockchain &amp; cryptocurrency links.
 * [CryptoMinded](http://community.cryptominded.com/) - All things crypto: events, jobs, trades, news. 1000+ Slack members.
 * [IRC #bitcoin channel](https://webchat.freenode.net/?channels=bitcoin&uio=d4/) - Old good IRC. The channel of 200 silent people.
 ## Forums
+* [The Bitcoin Pub](https://thebitcoin.pub) - Fast, mobile-friendly, multiple sign-on options. Built on best-in-class cloud architecture using Ember.js, Ruby on Rails, Postgres, Redis, and Docker.
 * [CryptoHeresy ⚡️](https://cryptoheresy.com) - Fresh Bitcoin forum with focus on cryptocurrency tools and resources.
 * [Bitcoin Talk](https://bitcoinTalk.org/) - Homepage of the Bitcoin community from the start. Made by Satoshi Nakamoto in 2009.
 * [Bitcoin.com Forum](https://forum.bitcoin.com/) - Strong community of 30,000+ users.
@@ -212,6 +214,7 @@ watch.
 
 # Video
 ## YouTube Channels
+* [DECENTRALIZED tv](https://dctv.show) - Daily bitcoin, blockchain, and cryptocurrency news. 10+ new videos per day.
 * [The Cryptoverse](https://www.youtube.com/channel/UCLnQ34ZBSjy2JQjeRudFEDw) - Your cryptocurrency news dose.
 * [World Crypto Network](https://www.youtube.com/user/WorldCryptoNetwork) - Informative news digests.
 * [Crypt0](https://www.youtube.com/user/obham001) -  Omar is one of the most popular crypto bloggers. He creates fascinating interviews.
@@ -225,7 +228,7 @@ watch.
 invest in cryptocurrency.
 * [EtherCasts](https://www.youtube.com/user/EtherCasts) - Ancient Ethereum news, reviews and interviews channel.
 * [Bitcoin Playlist](https://www.youtube.com/playlist?list=PL05dEp7goGNiKWYdiE4nurEPFMmF9XpzF) - Great list of 55 Bitcoin talks.
-* [BiteSizeBitcoin](https://www.youtube.com/channel/UCnePINazJJpbn9FWaq_skQA/featured) - Great beginner guides. Trading and investing advices, podcasts and meetups.
+* [BiteSizeBitcoin](https://www.youtube.com/channel/UCnePINazJJpbn9FWaq_skQA/featured) - Great beginner guides. Trading and investing advices, podcasts and meetups. Streams nightly.
 
 ## Movies
 * [Ulterior States](http://www.iamsatoshi.com/) - Real-life conversations with some thought leaders within the Bitcoin ecosystem. The film took 3 years to complete.
@@ -238,6 +241,7 @@ invest in cryptocurrency.
 * [Ethereum](https://www.amazon.com/Ethereum-Blockchains-Decentralized-Autonomous-Organizations/dp/1523930470) - Non-technical guide to understand blockchains. Mostly focused on Ethereum.
 * [The Age of Cryptocurrency](https://www.amazon.com/Age-Cryptocurrency-Blockchain-Challenging-Economic/dp/1250081556) - Insight into the modern financial system and the Bitcoin industry.
 ## Courses
+* [The Basics of Bitcoin](https://gohighbrow.com/portfolio/the-basics-of-bitcoin/) - Free, 10 day email course that covers the basics (history, technology, and how to buy).
 * [Coursera Course](https://www.coursera.org/learn/cryptocurrency) - Telling what is special about Bitcoin and how it works at technical level. Created by Princeton University.
 * [Udemy Course](https://www.udemy.com/bitcoin-or-how-i-learned-to-stop-worrying-and-love-crypto) - The definitive guide to understand what the bitcoin is and why we should care about them.
 * [Khan's Academy Course](https://www.khanacademy.org/economics-finance-domain/core-finance/money-and-banking/bitcoin/v/bitcoin-what-is-it) - The very basics of how blockchain, Bitcoin and encryption works. 
