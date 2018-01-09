@@ -183,6 +183,7 @@ Curated collection of blockchain &amp; cryptocurrency links.
 * [MyCelium](https://wallet.mycelium.com) - Geeky wallet, easy to set miners fee, rich transaction details.
 * [Samourai](https://samouraiwallet.com/) - Secure Bitcoin wallet for Android.
 * [WalletList](https://walletlist.me) - Showcase your public cryptocurrency addresses.
+* [WalletGenerator.net](https://walletgenerator.net) - Universal JavaScript Client-Side Wallet Generator for 100+ coins
 
 # Altfolio
 * [Blockfolio](https://www.blockfolio.com/) - Cryptocurrency management, with easy to use tools to keep track of all your cryptocurrency investments. Nice widgets. Simple. Android/iOS.
@@ -207,6 +208,7 @@ watch.
 * [Statoshi](https://statoshi.info) - Realtime Bitcoin node stats. Made by Jameson Lopp.
 * [RSIhunter](http://rsihunter.com/) - Find "oversold" and "overbought" cryptocurrencies.
 * [CryptoFinance](https://chrome.google.com/webstore/detail/cryptofinance/bhjnahcnhemcnnenhgbmmdapapblnlcn) - Google Sheets add-on to get cryptocurrencies rate in spreadsheets.
+* [Vanitygen PLUS](https://github.com/exploitagency/vanitygen-plus) - Generate custom addresses, 90+ coins!
 
 # Video
 ## YouTube Channels
