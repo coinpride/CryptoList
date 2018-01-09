@@ -63,6 +63,7 @@ Curated collection of blockchain &amp; cryptocurrency links.
 * [Richard Brown Blog](https://gendal.me/tag/bitcoin/) - Blog of Head of Technology at R3CEV.
 * [Laanwj Blog](https://laanwj.github.io/) - Blog of Bitcoin core developer and reverse engineer.
 * [Crypto Analyst](https://www.cryptoanalyst.co/) - World’s premier cryptocurrency news analysis.
+* [CriptoNoticias](https://www.criptonoticias.com/) - Leading digital news site in Spanish with exclusive information about Bitcoin in Latinamerica and Spain. Founded in 2015.
 ## Medium
 * [Vitalik Buterin](https://medium.com/@VitalikButerin) - Ethereum creator, cryptocurrency evangelist.
 * [Bitcoin Tech Talk](https://bitcointechtalk.com/) - All About Bitcoin Development.
