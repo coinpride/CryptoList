@@ -24,6 +24,7 @@ Curated collection of blockchain &amp; cryptocurrency links.
   - [Chats](#chats)
   - [Forums](#forums)
   - [Other](#other)
+  - [Twitter Users and Lists](#twitter-users-and-lists)
 - [Jobs](#jobs)
 - [Wallets](#wallets)
 - [Altfolio](#altfolio)
@@ -157,6 +158,8 @@ Curated collection of blockchain &amp; cryptocurrency links.
 * [Bitcoin on StackExchange](https://bitcoin.stackexchange.com/) - Question and answer site for Bitcoin crypto-currency enthusiasts.
 * [/r/Bitcoin/](https://www.reddit.com/r/Bitcoin/) - Discuss Bitcoin news on Reddit. 300,000+ readers.
 * [Steemit](https://steemit.com) - Fancy Reddit running on a blockchain. Post to earn $. Spend $ to promote yourself.
+## Twitter Users and Lists
+* [Quality Crypto](https://twitter.com/followingell/lists/quality-crypto) - List of >50 prominent, high signal-to-noise-ratio accounts.
 # Jobs
 * [Coinality](https://coinality.com/) - Coinality is free service connecting crypto employers and job seekers.
 * [Cryptogrind](https://www.cryptogrind.com/) - Bitcoin freelance platform.
