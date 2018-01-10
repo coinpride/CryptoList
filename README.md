@@ -274,11 +274,12 @@ invest in cryptocurrency.
 * [Embark](https://github.com/iurimatias/embark-framework) - Framework for serverless Decentralized Applications using Ethereum, IPFS and other platforms. JS.
 * [Truffle](http://truffleframework.com/) - The most popular framework for Ethereum. JS.
 # Podcasts
-* [Epicenter](https://epicenter.tv/) - The Podcast at the Forefront of the Decentralized Technology Revolution.
 * [Bitcoin Knowledge](http://www.bitcoin.kn/) - Learn about blockchain and fintech.
-* [BlockChannel](https://soundcloud.com/blockchannelshow) - Dedicated to educating the world on the power of blockchain based technologies like Bitcoin, Ethereum, and ZCash.
-* [Ether Review](https://etherreview.info/tagged/podcast) - Exploring the verifiable computing space through the lens of Ethereum.
 * [Bitcoin Uncensored](https://etherreview.info/tagged/podcast) - Exploring the verifiable computing space through the lens of Ethereum.
+* [BlockChannel](https://soundcloud.com/blockchannelshow) - Dedicated to educating the world on the power of blockchain based technologies like Bitcoin, Ethereum, and ZCash.
+* [Epicenter](https://epicenter.tv/) - The Podcast at the Forefront of the Decentralized Technology Revolution.
+* [Ether Review](https://etherreview.info/tagged/podcast) - Exploring the verifiable computing space through the lens of Ethereum.
+* [Flippening](https://p.nomics.com/podcast/) - Weekly discussion of the cryptocurrency economy and investment strategies.
 * [ICO Alert Podcast](https://www.icoalert.com/podcast) - Podcast from the popular ICO tracking platform.
 # Mining
 * [CoinWarz](https://www.coinwarz.com) - Mining profitability calculators. Help choosing perfect coin to mine.
