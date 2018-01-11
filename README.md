@@ -290,7 +290,14 @@ invest in cryptocurrency.
 
 
 # Sponsors
-[<img src="https://raw.githubusercontent.com/coinpride/CryptoList/master/social_icons/sponsored.svg?sanitize=true">](https://coinpride.com)
+[<img src="https://raw.githubusercontent.com/coinpride/CryptoList/master/merch/tee.png" height="300">](https://www.redbubble.com/people/cryptomerchco/shop/mens-clothes?accordion=department&ref=artist_shop_department_refinement)
+
+[<img src="https://raw.githubusercontent.com/coinpride/CryptoList/master/merch/iphone.png" height="300">](https://www.redbubble.com/people/cryptomerchco/shop/iphone-cases?accordion=product&ref=artist_shop_product_refinement)
+
+[<img src="https://raw.githubusercontent.com/coinpride/CryptoList/master/merch/laptop.png" height="240">](https://www.redbubble.com/people/cryptomerchco/shop/laptop-skins?accordion=product&ref=artist_shop_product_refinement)
+
+[<img src="https://raw.githubusercontent.com/coinpride/CryptoList/master/merch/mug.png" height="170">](https://www.redbubble.com/people/cryptomerchco/shop/mugs?accordion=product&ref=artist_shop_product_refinement)
+
 # Contribute
 Found a nice link? Noticed a bug? Feel free to contribute! You are so much welcome! But read the [CONTRIBUTING.md](https://github.com/coinpride/CryptoList/blob/master/CONTRIBUTING.md) first.
 # License
