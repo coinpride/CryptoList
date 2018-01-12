@@ -198,6 +198,7 @@ watch.
 * [Crypto Central](https://cryptocentral.ai) - Bitcoin & cryptocurrency portfolio tracker for iOS/Android.
 * [Cryptagon](https://cryptagon.io) - Powerful app to track portfolio. Automatic imports from exchanges.
 * [Cryptonomy](https://www.cryptonomynow.com/) - Portfolio tracking, social, forum, chat, ico listings, news aggregator, crypto academy. Android/iOS.
+* [Cryptocurrency CLI](https://github.com/christ0ph3r/cryptocurrency-cli) - Cryptocurrency Portfolio On The Command Line.
 # Useful Tools
 * [QR Code Generator](https://bitcoinqrcodegenerator.win/) - With this free tool you can instantly generate QR code for your Bitcoin/Litecoin/Ethereum/Dogecoin address.
 * [Block Explorer](https://tradeblock.com/bitcoin/) - Discover the Bitcoin blockchain blocks online. Includes fees and miners information.
