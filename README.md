@@ -12,6 +12,7 @@ Curated collection of blockchain &amp; cryptocurrency links.
 [<img src="https://raw.githubusercontent.com/coinpride/CryptoList/master/social_icons/telegram_join.svg?sanitize=true">](https://t.me/join_cht)
 
 # Contents
+[中文版](https://github.com/42Vision/CryptoList/blob/master/README-zh.md)
 - [Media](#media)
   - [Magazines and Blogs](#magazines-and-blogs)
   - [Medium](#medium)
