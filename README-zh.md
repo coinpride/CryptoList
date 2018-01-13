@@ -12,7 +12,7 @@
 [<img src="https://raw.githubusercontent.com/coinpride/CryptoList/master/social_icons/telegram_join.svg?sanitize=true">](https://t.me/join_cht)
 
 # 内容
-(English Version)[]
+[English Version](https://github.com/42Vision/CryptoList-zh-cn/blob/master/README-en.md)
 - [媒体](#media)
   - [杂志博客](#magazines-and-blogs)
   - [Medium](#medium)
