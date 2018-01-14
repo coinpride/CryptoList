@@ -209,7 +209,7 @@ watch.
 * [RSIhunter](http://rsihunter.com/) - Find "oversold" and "overbought" cryptocurrencies.
 * [CryptoFinance](https://chrome.google.com/webstore/detail/cryptofinance/bhjnahcnhemcnnenhgbmmdapapblnlcn) - Google Sheets add-on to get cryptocurrencies rate in spreadsheets.
 * [BroBot](https://beta.brobot.tech/) - Personalized chatbot that controls your portfolio. Receive news and signal notifications.
-
+* [Vanitygen Plus](https://github.com/exploitagency/vanitygen-plus) - Generate custom key addresses for 90+ coins.
 
 # Video
 ## YouTube Channels
