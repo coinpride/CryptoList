@@ -89,7 +89,7 @@ Curated collection of blockchain &amp; cryptocurrency links.
 # News Aggregators
 * [CoinBuzz](https://coinbuzz.stream/) - CoinBuzz aggregates news from many sources (Twitter, Reddit, Google Trends etc) and displays it in the Trello style.
 * [CryptoPanic](https://cryptopanic.com/) - CryptoPanic is news aggregator platform indicating impact on price and market for traders and cryptocurrency enthusiasts.
-* [ETHNews](https://www.ethnews.com) - ETHNews is emerging provider of Ethereum and Blockchain ecosystem news. 
+* [ETHNews](https://www.ethnews.com) - ETHNews is emerging provider of Ethereum and Blockchain ecosystem news.
 * [Coin Spectator](https://coinspectator.com/) - Get the latest cryptocurrency, bitcoin & blockchain news from many news sources.
 * [CoinTerminal](https://site.cointerminal.co/) - CoinTerminal instantly aggregates, summarizes and analyzes market chatter for sentiment and streams it in real-time.
 * [CoinsCalendar](http://www.coinscalendar.com/) - CoinsCalendar displays all upcoming coins events and updates.
@@ -163,7 +163,7 @@ Curated collection of blockchain &amp; cryptocurrency links.
 * [Coinality](https://coinality.com/) - Coinality is free service connecting crypto employers and job seekers.
 * [Cryptogrind](https://www.cryptogrind.com/) - Bitcoin freelance platform.
 * [Blockchain Dev Jobs](https://blockchaindevjobs.com/) - Curated list of jobs from around the web for blockchain engineers.
-* [Ethlance](https://ethlance.com) - Hire or work for ETH. 
+* [Ethlance](https://ethlance.com) - Hire or work for ETH.
 * [/r/Jobs4Bitcoins/](https://www.reddit.com/r/Jobs4Bitcoins/) - Place on Reddit to offer your talents and skills in exchange for the fastest growing currency in the world.
 * [Crypto.jobs](https://crypto.jobs) - Well categorized jobs list. Owner does a lot to promote it.
 * [Beincrypto](https://beincrypto.com) - Aggregates all the crypto jobs from major job boards.
@@ -174,8 +174,8 @@ Curated collection of blockchain &amp; cryptocurrency links.
 # Wallets
 * [Bitcoin Core](https://bitcoin.org/en/download) - Bitcoin Core is MIT licensed open source Bitcoin wallet. It runs own full node so 145GG of free disk space is required. OSX/Linux/Windows/Ubuntu.
 * [Blockchain.info](https://blockchain.info/wallet/#/) - World’s most popular digital wallet. Mobile apps included.
-* [Electrum](https://electrum.org/#home) - Thin Bitcoin client. Opensource, MIT, has 100+ contributors. 
-* [Exodus](https://www.exodus.io) - Exodus is the first desktop multi-asset wallet with ShapeShift built in. 
+* [Electrum](https://electrum.org/#home) - Thin Bitcoin client. Opensource, MIT, has 100+ contributors.
+* [Exodus](https://www.exodus.io) - Exodus is the first desktop multi-asset wallet with ShapeShift built in.
 * [MyEtherWallet](https://www.myetherwallet.com) - Opensource webapp to access Ethereum. Old and reliable. ERC20 support. Loved by phishers!
 * [Coinomi](https://coinomi.com/) - Opensource, supports many altcoins, fast and has perfect UI.
 * [Jaxx](https://jaxx.io) - Reliable, Jaxx supports many of the leading cryptocurrency platforms. Crossplatform.
@@ -194,7 +194,7 @@ Curated collection of blockchain &amp; cryptocurrency links.
 * [Coinfyi](https://coin.fyi) - Track your performance, news & market signals related to your cryptocurrency investments. Anonymous. Simple. Free.
 * [f0lio](https://f0l.io) - Beatutiful cryptocurrency portfolio management for mobile devices.
 * [BitWorth](http://www.bitworth.io/) - Cryptocurrency Net Worth Tracker for iOS.
-* [CoinDex](https://coindexapp.com) - iOS app that lets you stay up to date with the cryptocurrency markets you want to 
+* [CoinDex](https://coindexapp.com) - iOS app that lets you stay up to date with the cryptocurrency markets you want to
 watch.
 * [Delta](https://getdelta.io/) -  Ultimate cryptocurrency portfolio tracker tool for iOS & Android.
 * [Crypto Central](https://cryptocentral.ai) - Bitcoin & cryptocurrency portfolio tracker for iOS/Android.
@@ -219,13 +219,13 @@ watch.
 * [The Cryptoverse](https://www.youtube.com/channel/UCLnQ34ZBSjy2JQjeRudFEDw) - Your cryptocurrency news dose.
 * [World Crypto Network](https://www.youtube.com/user/WorldCryptoNetwork) - Informative news digests.
 * [Crypt0](https://www.youtube.com/user/obham001) -  Omar is one of the most popular crypto bloggers. He creates fascinating interviews.
-* [Ameer Rosic](https://www.youtube.com/user/AmeerRosic) -  News, interviews, podcasts and reviews. 
+* [Ameer Rosic](https://www.youtube.com/user/AmeerRosic) -  News, interviews, podcasts and reviews.
 * [aantonop](https://www.youtube.com/user/aantonop/featured) -  Presentations, discussions, QA by Andreas, the author of "Mastering Bitcoin".
 * [CoinSummit](https://www.youtube.com/channel/UCr4QRCZDXrCecaV2w4nuLeQ/) - CoinSummit records: startups showcases, discussions and presentations.
 * [BitcoinFilm](https://www.youtube.com/channel/UC42Y8ajCzQ_rjS_wVTamglQ) - Short films about people using Bitcoin.
 * [Bitcoin and Cryptocurrency Course](https://www.youtube.com/channel/UCNcSSleedtfyDuhBvOQzFzQ/videos) - Bitcoin and Cryptocurrency Technologies course. 12 videos, each 45-90 mins.
 * [CryptoPortfolio](https://www.youtube.com/channel/UCI9POyyP-f93JHfkhr2ma2g/featured) - YouTube channel reviewing ICOs and various cryptocurrencies.
-* [CryptoBud](https://www.youtube.com/channel/UCAEktd4wejD_N4aPyDPD3zw) - Technical and fundamental analysis on how to 
+* [CryptoBud](https://www.youtube.com/channel/UCAEktd4wejD_N4aPyDPD3zw) - Technical and fundamental analysis on how to
 invest in cryptocurrency.
 * [EtherCasts](https://www.youtube.com/user/EtherCasts) - Ancient Ethereum news, reviews and interviews channel.
 * [Bitcoin Playlist](https://www.youtube.com/playlist?list=PL05dEp7goGNiKWYdiE4nurEPFMmF9XpzF) - Great list of 55 Bitcoin talks.
@@ -244,7 +244,7 @@ invest in cryptocurrency.
 ## Courses
 * [Coursera Course](https://www.coursera.org/learn/cryptocurrency) - Telling what is special about Bitcoin and how it works at technical level. Created by Princeton University.
 * [Udemy Course](https://www.udemy.com/bitcoin-or-how-i-learned-to-stop-worrying-and-love-crypto) - The definitive guide to understand what the bitcoin is and why we should care about them.
-* [Khan's Academy Course](https://www.khanacademy.org/economics-finance-domain/core-finance/money-and-banking/bitcoin/v/bitcoin-what-is-it) - The very basics of how blockchain, Bitcoin and encryption works. 
+* [Khan's Academy Course](https://www.khanacademy.org/economics-finance-domain/core-finance/money-and-banking/bitcoin/v/bitcoin-what-is-it) - The very basics of how blockchain, Bitcoin and encryption works.
 * [Pluralsight Course](https://www.pluralsight.com/courses/bitcoin-decentralized-technology) - Introduction to Bitcoin and decentralized technology for beginners.
 ## Other
 * [CoinPride Newsletter](https://club.coinpride.com) - The most important crypto news and events. One handcrafted email per week.
@@ -284,6 +284,7 @@ invest in cryptocurrency.
 * [Ether Review](https://etherreview.info/tagged/podcast) - Exploring the verifiable computing space through the lens of Ethereum.
 * [Bitcoin Uncensored](https://etherreview.info/tagged/podcast) - Exploring the verifiable computing space through the lens of Ethereum.
 * [ICO Alert Podcast](https://www.icoalert.com/podcast) - Podcast from the popular ICO tracking platform.
+* [Tales from the Crypt](talesfromthecrypt.libsyn.com) - Podcast hosted by @MartyBent about Bitcoin.
 # Mining
 * [CoinWarz](https://www.coinwarz.com) - Mining profitability calculators. Help choosing perfect coin to mine.
 * [WhatToMine?](https://whattomine.com) - Find the most profitable cryptocurrencies to mine.
