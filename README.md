@@ -113,6 +113,7 @@ Curated collection of blockchain &amp; cryptocurrency links.
 * [WorldCoinIndex](https://www.worldcoinindex.com/) - Realtime cryptocurrency price monitoring tool. Lots of altcoins and many fiat currencies.
 * [CryptoTrader](https://cryptrader.com/) - Cryptocurrency trading platform. Charts, news and trollbox. Add widgets to customize the look.
 * [Coin Daily Update](https://coindailyupdate.com) - Daily email update with price changes of customizable coins.
+* [Coindera](https://coindera.com/) - Real time cryptocurrency price alerts for 2,000+ coins on 25+ exchanges.
 * [KUNA exchange tracker](https://chrome.google.com/webstore/detail/bitcoin-ticker-for-kuna-e/fgdaflnjoincloakmmndamfgofijeine) - Price tracker for Kuna exchange. Open Source Google Chrome extension.
 * [Tracker for WEX exchange](https://chrome.google.com/webstore/detail/bitcoin-ticker-for-wex-ex/nogdkjfnegdjdgegekcclglocakclegl) - Real time price tracker at WEX exchange for Google Chrome.
 
@@ -138,7 +139,7 @@ Curated collection of blockchain &amp; cryptocurrency links.
 * [Poloniex](https://www.poloniex.com/) - USA. Trust: 3.5/5. Tons of altcoins. Poor support.
 * [CoinBase](https://www.coinbase.com) - USA. Trust: 5/5. Pay with fiat.
 * [Kraken](https://www.kraken.com/) - USA. Trust: 5/5. Founded in 2011.
-* [Bittrex](https://www.bittrex.com) - USA. Trust: 4/5. Many altcoins. Responsible founders.
+* [Bittrex](https://www.bittrex.com) - USA. Trust: 3.8/5. Many altcoins.
 * [CEX.IO](https://cex.io/) - UK. Trust: 5/5. Fiat. Newbie friendly.
 * [BestBitcoinExchange](https://www.bestbitcoinexchange.io/) - Curated list of 35 popular exchanges. Looks SEOish but does the job well.
 * [Shapeshift](https://shapeshift.io) - No login, fast, awesome API.
@@ -202,6 +203,7 @@ Curated collection of blockchain &amp; cryptocurrency links.
 * [MyCelium](https://wallet.mycelium.com) - Geeky wallet, easy to set miners fee, rich transaction details.
 * [Samourai](https://samouraiwallet.com/) - Secure Bitcoin wallet for Android.
 * [WalletList](https://walletlist.me) - Showcase your public cryptocurrency addresses.
+* [WalletGenerator.net](https://walletgenerator.net) - Universal JavaScript client-side wallet generator for 100+ coins.
 
 
 # Altfolio
@@ -230,6 +232,9 @@ watch.
 * [RSIhunter](http://rsihunter.com/) - Find "oversold" and "overbought" cryptocurrencies.
 * [CryptoFinance](https://chrome.google.com/webstore/detail/cryptofinance/bhjnahcnhemcnnenhgbmmdapapblnlcn) - Google Sheets add-on to get cryptocurrencies rate in spreadsheets.
 * [BroBot](https://beta.brobot.tech/) - Personalized chatbot that controls your portfolio. Receive news and signal notifications.
+* [Vanitygen Plus](https://github.com/exploitagency/vanitygen-plus) - Generate custom key addresses for 90+ coins.
+* [CoinPop.me](https://coinpop.me/) - Create shareable page for all your cryptocurrency donation addresses.
+
 
 # Video
 
