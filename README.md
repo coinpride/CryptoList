@@ -159,6 +159,7 @@ Curated collection of blockchain &amp; cryptocurrency links.
 * [Bitcoin on StackExchange](https://bitcoin.stackexchange.com/) - Question and answer site for Bitcoin crypto-currency enthusiasts.
 * [/r/Bitcoin/](https://www.reddit.com/r/Bitcoin/) - Discuss Bitcoin news on Reddit. 300,000+ readers.
 * [Steemit](https://steemit.com) - Fancy Reddit running on a blockchain. Post to earn $. Spend $ to promote yourself.
+* [Coinvision](https://coinvision.co/) - Get alerts about the most credible crypto coins and ICOs and also access a private great community.
 # Jobs
 * [Coinality](https://coinality.com/) - Coinality is free service connecting crypto employers and job seekers.
 * [Cryptogrind](https://www.cryptogrind.com/) - Bitcoin freelance platform.
