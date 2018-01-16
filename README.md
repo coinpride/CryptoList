@@ -188,6 +188,7 @@ Curated collection of blockchain &amp; cryptocurrency links.
 * [WalletGenerator.net](https://walletgenerator.net) - Universal JavaScript client-side wallet generator for 100+ coins.
 
 # Altfolio
+* [Coins - altcoin portfolio](https://itunes.apple.com/us/app/id1252011703) - Minimal cryptocurrency price and portfolio app for iOS. 32 fiat currencies. iCloud backup. Price charts and more.
 * [Blockfolio](https://www.blockfolio.com/) - Cryptocurrency management, with easy to use tools to keep track of all your cryptocurrency investments. Nice widgets. Simple. Android/iOS.
 * [ACrypto](https://dworks.in/acrypto) - Track bitcoin and altcoins prices, custom alarms, detailed charts. Flexible, many settings, informative. Available for iOS & Android.
 * [Altpocket](http://www.altpocket.io) - The only tool you need for showcasing, tracking and sharing your cryptocurrency investments.
