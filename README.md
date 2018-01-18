@@ -201,6 +201,7 @@ watch.
 * [Cryptagon](https://cryptagon.io) - Powerful app to track portfolio. Automatic imports from exchanges.
 * [Cryptonomy](https://www.cryptonomynow.com/) - Portfolio tracking, social, forum, chat, ico listings, news aggregator, crypto academy. Android/iOS.
 * [wallmine](https://wallmine.com/stocks-and-cryptocurrency-portfolio-tracker) - Track both cryptocurrencies and stocks; screeners, heatmaps, news, push notifications.
+* [TrackACoin](https://trackacoin.com) - Crypto portfolio manager & price tracking journal. Comprehensive stats & graphs, import/export CSV, trading alerts & more.
 
 # Useful Tools
 * [QR Code Generator](https://bitcoinqrcodegenerator.win/) - With this free tool you can instantly generate QR code for your Bitcoin/Litecoin/Ethereum/Dogecoin address.
