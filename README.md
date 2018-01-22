@@ -192,6 +192,7 @@ Curated collection of blockchain &amp; cryptocurrency links.
 * [WalletGenerator.net](https://walletgenerator.net) - Universal JavaScript client-side wallet generator for 100+ coins.
 
 # Altfolio
+* [Coin Beat](http://www.coinbeatapp.com/) - Beautiful, crypto tracker for managing over 1300 crypto currencies. Get instant push notification on price activity. Available for iOS and Android.
 * [Blockfolio](https://www.blockfolio.com/) - Cryptocurrency management, with easy to use tools to keep track of all your cryptocurrency investments. Nice widgets. Simple. Android/iOS.
 * [ACrypto](https://dworks.in/acrypto) - Track bitcoin and altcoins prices, custom alarms, detailed charts. Flexible, many settings, informative. Available for iOS & Android.
 * [Altpocket](http://www.altpocket.io) - The only tool you need for showcasing, tracking and sharing your cryptocurrency investments.
