@@ -81,6 +81,7 @@ Curated collection of blockchain &amp; cryptocurrency links.
 * [The Midas Guide](https://medium.com/the-midas-guide) - Blockchain & crypto original researches.
 
 ## Telegram Channels
+* [Best of CryptoHeresy](https://t.me/cryptoheresy) - Transmits best topics from CryptoHeresy forum.
 * [Crypto Memes](https://t.me/join_cryptomemes) - Cryptoworld funny pictures.
 * [Crypto](https://t.me/Crypto) - The god of all crypto channels.
 * [UpcomingICOs](https://t.me/UpcomingICOs) - This channel is dedicated to informing people of up and coming ICO's.
