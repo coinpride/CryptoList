@@ -113,6 +113,7 @@ Curated collection of blockchain &amp; cryptocurrency links.
 * [Coin Daily Update](https://coindailyupdate.com) - Daily email update with price changes of customizable coins.
 * [Coindera](https://coindera.com/) - Real time cryptocurrency price alerts for 2,000+ coins on 25+ exchanges.
 * [Cryptocurrency CLI](https://github.com/christ0ph3r/cryptocurrency-cli) - Cryptocurrency portfolio on the command line.
+* [ckandr](https://github.com/screwgoth/ckandr) - A command-line cryptocurrency price ticker specifically for popular Indian cryptocurrency exchanges.
 # ICO Trackers
 * [ICOtracker](https://icotracker.net) - Very informative and trusted tracker.
 * [The ICO digest](https://theicodigest.com) - Weekly ICO digest.
