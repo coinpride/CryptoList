@@ -222,6 +222,7 @@ watch.
 * [BroBot](https://beta.brobot.tech/) - Personalized chatbot that controls your portfolio. Receive news and signal notifications.
 * [Vanitygen Plus](https://github.com/exploitagency/vanitygen-plus) - Generate custom key addresses for 90+ coins.
 * [CoinPop.me](https://coinpop.me/) - Create shareable page for all your cryptocurrency donation addresses.
+* [Vaul.tyio](https://vaulty.io) - Accept any cryptocurrency for your website, blog, or for general personal use with just one link--For FREE!
 
 # Video
 ## YouTube Channels
