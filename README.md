@@ -175,6 +175,7 @@ Curated collection of blockchain &amp; cryptocurrency links.
 * [Beincrypto](https://beincrypto.com) - Aggregates all the crypto jobs from major job boards.
 * [Jobs by BlockRepublic](http://blockrepublic.io/blockchain-jobs/) - Useful filters, locations & categories.
 * [Crypto Jobs List](https://cryptojobslist.com/) - Curated jobs from top verified blockchain companies.
+* [Cryptocurrency Jobs](https://cryptocurrencyjobs.co/) - Find great jobs at startups that use blockchain technology.
 
 
 # Wallets
