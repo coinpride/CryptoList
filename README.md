@@ -109,6 +109,7 @@ Curated collection of blockchain &amp; cryptocurrency links.
 * [CryptoTrader](https://cryptrader.com/) - Cryptocurrency trading platform. Charts, news and trollbox. Add widgets to customize the look.
 * [Coin Daily Update](https://coindailyupdate.com) - Daily email update with price changes of customizable coins.
 * [Coindera](https://coindera.com/) - Real time cryptocurrency price alerts for 2,000+ coins on 25+ exchanges.
+* [Cryptocurrency 360](https://www.cryptocurrency360.com) - Entire list of cryptocurrencies with tons of market data including; Market cap, price history charts, trading volume, and more. 
 # ICO Trackers
 * [ICOtracker](https://icotracker.net) - Very informative and trusted tracker.
 * [The ICO digest](https://theicodigest.com) - Weekly ICO digest.
@@ -215,6 +216,7 @@ watch.
 * [BroBot](https://beta.brobot.tech/) - Personalized chatbot that controls your portfolio. Receive news and signal notifications.
 * [Vanitygen Plus](https://github.com/exploitagency/vanitygen-plus) - Generate custom key addresses for 90+ coins.
 * [CoinPop.me](https://coinpop.me/) - Create shareable page for all your cryptocurrency donation addresses.
+* [360 Bitcoin Accelerator](https://www.cryptocurrency360.com/bitcoin-accelerator/) - Free service to Speed up unconfirmed Bitcoin Transactions. All you need is your transaction ID.
 
 # Video
 ## YouTube Channels
