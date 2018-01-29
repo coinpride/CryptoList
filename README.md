@@ -257,6 +257,10 @@ invest in cryptocurrency.
 * [Udemy Course](https://www.udemy.com/bitcoin-or-how-i-learned-to-stop-worrying-and-love-crypto) - The definitive guide to understand what the bitcoin is and why we should care about them.
 * [Khan's Academy Course](https://www.khanacademy.org/economics-finance-domain/core-finance/money-and-banking/bitcoin/v/bitcoin-what-is-it) - The very basics of how blockchain, Bitcoin and encryption works. 
 * [Pluralsight Course](https://www.pluralsight.com/courses/bitcoin-decentralized-technology) - Introduction to Bitcoin and decentralized technology for beginners.
+
+# Taxation
+* [Coin Tax Guide](https://cointaxguide.com/) - Easy-to-understand tax guide for cryptocurrency traders, with lifetime updates for when tax laws change.
+
 ## Other
 * [CoinPride Newsletter](https://club.coinpride.com) - The most important crypto news and events. One handcrafted email per week.
 * [Bitcoin Wiki](https://en.bitcoin.it/wiki/Main_Page) - Technical specifications of the protocol as well as more basic information about how to buy, sell or use bitcoins.
