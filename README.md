@@ -98,6 +98,7 @@ Curated collection of blockchain &amp; cryptocurrency links.
 * [CoinsCalendar](http://www.coinscalendar.com/) - CoinsCalendar displays all upcoming coins events and updates.
 * [CoinDar](https://coindar.org/) - Be first to know about coming cryptocurrency news, updates, hard forks, meetups, coins listing on exchanges and other important events.
 * [BTCnews](https://itunes.apple.com/app/btcnews-bitcoin-cryptocurrency/id946903421) - Mature cryptocurrency news and charts app for iOS.
+* [K9 Crypto News](https://itunes.apple.com/my/app/k9-crypto-news/id1325652889?mt=8) - Aggregates Twitter tweets from official twitter accounts of top 80 coins.
 
 # Price Trackers
 * [Altcoins Racing](https://altcoins.racing/) - Altcoins Racing shows the price change winners and losers.
