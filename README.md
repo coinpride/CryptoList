@@ -230,6 +230,7 @@ watch.
 * [The Cryptoverse](https://www.youtube.com/channel/UCLnQ34ZBSjy2JQjeRudFEDw) - Your cryptocurrency news dose.
 * [World Crypto Network](https://www.youtube.com/user/WorldCryptoNetwork) - Informative news digests.
 * [Crypt0](https://www.youtube.com/user/obham001) -  Omar is one of the most popular crypto bloggers. He creates fascinating interviews.
+* [Cryptotips](https://www.youtube.com/cryptotips) -  Heidi provides you with insights into projects, ICOs and ecosystem, as well as creating videos for beginners.
 * [Ameer Rosic](https://www.youtube.com/user/AmeerRosic) -  News, interviews, podcasts and reviews. 
 * [aantonop](https://www.youtube.com/user/aantonop/featured) -  Presentations, discussions, QA by Andreas, the author of "Mastering Bitcoin".
 * [CoinSummit](https://www.youtube.com/channel/UCr4QRCZDXrCecaV2w4nuLeQ/) - CoinSummit records: startups showcases, discussions and presentations.
