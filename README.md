@@ -101,6 +101,7 @@ Curated collection of blockchain &amp; cryptocurrency links.
 * [CryptoAudio](http://cryptoaud.io) - A tool that creates news summaries from various sources and reads them using a text-to-speech technology.
 
 # Price Trackers
+* [Cryptab](http://cryptab.io/) - Top 100 Cryptos when you open a new tab (Chrome Extension).
 * [Altcoins Racing](https://altcoins.racing/) - Altcoins Racing shows the price change winners and losers.
 * [CoinMarketcap](https://coinmarketcap.com/) - Old and cool. All coins prices, graphs, market caps. API, widgets, tools. Used by 90M monthly users.
 * [Coincap](http://coincap.io/) - CoinCap tracks market data for hundreds of cryptocurrencies in real-time. They also have very useful mobile app.
