@@ -211,6 +211,7 @@
 * [RSIhunter](http://rsihunter.com/) - 找到“超卖”和“超买”加密货币。
 * [CryptoFinance](https://chrome.google.com/webstore/detail/cryptofinance/bhjnahcnhemcnnenhgbmmdapapblnlcn) - Google表格插件可以在电子表格中获取加密货币的价格。
 * [BroBot](https://beta.brobot.tech/) - 控制你的投资组合的个性化聊天机器人。接收新闻和信号通知。
+* [CryptoGraffiti.info](https://cryptograffiti.info) - Encode hidden messages into Bitcoin's blockchain.
 
 
 # 影像
