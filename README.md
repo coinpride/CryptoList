@@ -221,6 +221,9 @@ watch.
 * [QR Code Generator](https://bitcoinqrcodegenerator.win/) - With this free tool you can instantly generate QR code for your Bitcoin/Litecoin/Ethereum/Dogecoin address.
 * [Block Explorer](https://tradeblock.com/bitcoin/) - Discover the Bitcoin blockchain blocks online. Includes fees and miners information.
 * [EtherScan](https://etherscan.io) - Block Explorer and Analytics Platform for Ethereum.
+* [Ethplorer](https://ethplorer.io) - Block Explorer and Analytics Platform for Ethereum.
+* [EtherChain](https://etherchain.org) - Block Explorer and Analytics Platform for Ethereum.
+* [Trivial](https://trivial.co) - Network Explorer and Analytics Platform for Ethereum and ERC-20 Tokens.
 * [ETH Gas Station](http://ethgasstation.info) - Consumer oriented metrics for the Ethereum Gas Market.
 * [Metamask](https://metamask.io/) - Run Ethereum dApps right in your browser without running full node.
 * [ATM Map](https://bitcoinatmmap.com/) - Find Bitcoin ATM’s in your country.
