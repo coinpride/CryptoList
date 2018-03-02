@@ -231,6 +231,7 @@ watch.
 * [Vanitygen Plus](https://github.com/exploitagency/vanitygen-plus) - Generate custom key addresses for 90+ coins.
 * [CoinPop.me](https://coinpop.me/) - Create shareable page for all your cryptocurrency donation addresses.
 * [If You Had Bought Crypto](https://ifyouhadboughtcrypto.com) - How rich would you be if you had invested in your favourite Cryptocurrency?
+* [Bitcoin Flip Trading simulator](http://bitcoinflipapp.com) - 101% realistic and fun crypto trading Simulator for Beginners! 
 
 # Video
 ## YouTube Channels
