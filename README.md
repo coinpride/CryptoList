@@ -238,6 +238,7 @@ watch.
 * [Vaulty.io](https://vaulty.io) - Accept any cryptocurrency for your website, blog, or for general personal use with just one link.
 * [Ropsten Ethereum Faucet](https://faucet.bitfwd.xyz/) - Instantly Get Ropsten Ethereum To Experiment On Test Net.
 * [Bitcoin Flip Trading simulator](http://financeillustrated.com/go/bitcoinflip/) - 101% realistic and fun crypto trading Simulator for Beginners! 
+* [QWallet](http://qwallet.io/) - Search & view the value of any Ethereum wallet, create your own token portfolio.
 # Video
 ## YouTube Channels
 * [The Cryptoverse](https://www.youtube.com/channel/UCLnQ34ZBSjy2JQjeRudFEDw) - Your cryptocurrency news dose.
@@ -308,6 +309,7 @@ invest in cryptocurrency.
 * [Embark](https://github.com/iurimatias/embark-framework) - Framework for serverless Decentralized Applications using Ethereum, IPFS and other platforms. JS.
 * [Truffle](http://truffleframework.com/) - The most popular framework for Ethereum. JS.
 * [CCXT](https://github.com/ccxt/ccxt) - JS/Python / PHP library for cryptocurrency trading and e-commerce with support for many exchanges and merchant APIs.
+* [QuikNode](http://quiknode.io/) - Cloud-hosted Ethereum nodes for developers and investors.
 # Podcasts
 * [Bitcoin Knowledge](http://www.bitcoin.kn/) - Learn about blockchain and fintech.
 * [Bitcoin Uncensored](https://etherreview.info/tagged/podcast) - Exploring the verifiable computing space through the lens of Ethereum.
