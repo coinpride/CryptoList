@@ -247,6 +247,7 @@ watch.
 * [Bitcoin and Cryptocurrency Course](https://www.youtube.com/channel/UCNcSSleedtfyDuhBvOQzFzQ/videos) - Bitcoin and Cryptocurrency Technologies course. 12 videos, each 45-90 mins.
 * [CryptoPortfolio](https://www.youtube.com/channel/UCI9POyyP-f93JHfkhr2ma2g/featured) - YouTube channel reviewing ICOs and various cryptocurrencies.
 * [CryptoBud](https://www.youtube.com/channel/UCAEktd4wejD_N4aPyDPD3zw) - Technical and fundamental analysis on how to
+* [Cryptotips](https://www.youtube.com/cryptotips) -  Heidi provides you with insights into projects, ICOs and ecosystem, as well as creating videos for beginners.
 invest in cryptocurrency.
 * [EtherCasts](https://www.youtube.com/user/EtherCasts) - Ancient Ethereum news, reviews and interviews channel.
 * [Bitcoin Playlist](https://www.youtube.com/playlist?list=PL05dEp7goGNiKWYdiE4nurEPFMmF9XpzF) - Great list of 55 Bitcoin talks.
