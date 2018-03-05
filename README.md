@@ -235,6 +235,7 @@ watch.
 * [CoinPop.me](https://coinpop.me/) - Create shareable page for all your cryptocurrency donation addresses.
 * [If You Had Bought Crypto](https://ifyouhadboughtcrypto.com) - How rich would you be if you had invested in your favourite Cryptocurrency?
 * [Vaulty.io](https://vaulty.io) - Accept any cryptocurrency for your website, blog, or for general personal use with just one link.
+* [Ropsten Ethereum Faucet](https://faucet.bitfwd.xyz/) - Instantly Get Ropsten Ethereum To Experiment On Test Net.
 # Video
 ## YouTube Channels
 * [The Cryptoverse](https://www.youtube.com/channel/UCLnQ34ZBSjy2JQjeRudFEDw) - Your cryptocurrency news dose.
