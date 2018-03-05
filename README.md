@@ -117,6 +117,7 @@ Curated collection of blockchain &amp; cryptocurrency links.
 * [Cryptocurrency CLI](https://github.com/christ0ph3r/cryptocurrency-cli) - Cryptocurrency portfolio on the command line.
 * [ckandr](https://github.com/screwgoth/ckandr) - A command-line cryptocurrency price ticker specifically for popular Indian cryptocurrency exchanges.
 * [CoinAlyze](https://coinalyze.net) - Cryptocurrency real-time charts, price levels, statistics and candlestick patterns detection.
+* [Cryptomon](https://cryptomon.io) - Modern trading indicators and price predictions based on machine intelligence.
 # ICO Trackers
 * [ICOtracker](https://icotracker.net) - Very informative and trusted tracker.
 * [The ICO digest](https://theicodigest.com) - Weekly ICO digest.
