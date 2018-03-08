@@ -84,6 +84,7 @@ Curated collection of blockchain &amp; cryptocurrency links.
 
 ## Telegram Channels
 * [Best of CryptoHeresy](https://t.me/cryptoheresy) - Transmits best topics from CryptoHeresy forum.
+* [Telegram Crypto Groups](http://telegramcryptogroups.com) - A directory of all of the Telegram crypto related groups.
 * [Crypto Memes](https://t.me/join_cryptomemes) - Cryptoworld funny pictures.
 * [Crypto](https://t.me/Crypto) - The god of all crypto channels.
 * [UpcomingICOs](https://t.me/UpcomingICOs) - This channel is dedicated to informing people of up and coming ICO's.
