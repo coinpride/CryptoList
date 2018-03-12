@@ -100,6 +100,7 @@ Curated collection of blockchain &amp; cryptocurrency links.
 * [BTCnews](https://itunes.apple.com/app/btcnews-bitcoin-cryptocurrency/id946903421) - Mature cryptocurrency news and charts app for iOS.
 * [CryptoAudio](http://cryptoaud.io) - A tool that creates news summaries from various sources and reads them using a text-to-speech technology.
 * [CryptoFlash.io](https://cryptoflash.io) - Top 200+ cryptocurrencies news & rumors in real time!
+* [Cryptosnitch](https://cryptosnit.ch) - cryptosnit.ch is live price charts and news for cryptocurrency addicts.
 
 # Price Trackers
 * [Altcoins Racing](https://altcoins.racing/) - Altcoins Racing shows the price change winners and losers.
