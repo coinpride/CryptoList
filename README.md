@@ -289,6 +289,7 @@ invest in cryptocurrency.
 * [Bitcoin Forks](http://mapofcoins.com/bitcoin) - All bitcoin forks visualisation.
 * [Coin Demo](https://coindemo.io) - Visual demonstration of how bitcoin transactions work.
 * [Rhymes With Fiat](https://www.rhymeswithfiat.com) - Bitcoin webcomic (with educational notes).
+* [Unhashed Cryptocurrency Guides](https://unhashed.com/cryptocurrency-coin-guides/) - Beginner's guides on the most popular cryptocurrencies.
 # For Developers
 ## API
 * [Stripe Bitcoin](https://stripe.com/bitcoin/) - Accepting Bitcoin payments made easy. Great integration from Stripe.
