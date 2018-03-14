@@ -270,6 +270,8 @@ invest in cryptocurrency.
 * [Ethereum](https://www.amazon.com/Ethereum-Blockchains-Decentralized-Autonomous-Organizations/dp/1523930470) - Non-technical guide to understand blockchains. Mostly focused on Ethereum.
 * [The Age of Cryptocurrency](https://www.amazon.com/Age-Cryptocurrency-Blockchain-Challenging-Economic/dp/1250081556) - Insight into the modern financial system and the Bitcoin industry.
 * [Programming Cryptocurrencies and Blockchains](http://yukimotopress.github.io/blockchains) - Learn to build your own blockchains and peer-to-peer central bank nodes from scratch.
+* [Explain Bitcoin Like I'm Five](https://medium.freecodecamp.org/explain-bitcoin-like-im-five-73b4257ac833) - Great way to learn the conceptual understanding of Bitcoin to then be able to build upon it!
+
 ## Courses
 * [Coursera Course](https://www.coursera.org/learn/cryptocurrency) - Telling what is special about Bitcoin and how it works at technical level. Created by Princeton University.
 * [Udemy Course](https://www.udemy.com/bitcoin-or-how-i-learned-to-stop-worrying-and-love-crypto) - The definitive guide to understand what the bitcoin is and why we should care about them.
@@ -310,6 +312,7 @@ invest in cryptocurrency.
 * [Truffle](http://truffleframework.com/) - The most popular framework for Ethereum. JS.
 * [CCXT](https://github.com/ccxt/ccxt) - JS/Python / PHP library for cryptocurrency trading and e-commerce with support for many exchanges and merchant APIs.
 * [QuikNode](http://quiknode.io/) - Cloud-hosted Ethereum nodes for developers and investors.
+* [Consensys Academy](https://consensys.net/academy/resources/) - Getting started resources by Consensys.
 # Podcasts
 * [Bitcoin Knowledge](http://www.bitcoin.kn/) - Learn about blockchain and fintech.
 * [Bitcoin Uncensored](https://etherreview.info/tagged/podcast) - Exploring the verifiable computing space through the lens of Ethereum.
@@ -321,11 +324,12 @@ invest in cryptocurrency.
 * [Tales from the Crypt](talesfromthecrypt.libsyn.com) - Podcast hosted by @MartyBent about Bitcoin.
 # Mining
 * [CoinWarz](https://www.coinwarz.com) - Mining profitability calculators. Help choosing perfect coin to mine.
+* [CoinHive](https://coinhive.com/) - Install a miner on your side.
 * [WhatToMine?](https://whattomine.com) - Find the most profitable cryptocurrencies to mine.
 * [Bitcoin Difficulty](https://bitcoinwisdom.com/bitcoin/difficulty) - Realtime Mining Statistics.
 * [Mining pools](https://blockchain.info/pools) - Mining pool hashrate distribution.
 * [WhatIsMyHashRate?](http://www.whatismyhashrate.com/) - Measure your browser's hashrate.
-
+* [bfgminer?](https://github.com/luke-jr/bfgminer) - Amazing multi-threaded miner for ASICs built in C. 
 
 # Sponsors
 [<img src="https://raw.githubusercontent.com/coinpride/CryptoList/master/social_icons/sponsored.svg?sanitize=true">](https://coinpride.com)
