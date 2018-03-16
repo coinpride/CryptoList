@@ -67,6 +67,7 @@ Curated collection of blockchain &amp; cryptocurrency links.
 * [Bitrazzi](https://bitrazzi.com/) - Bitcoin, Cryptocurrency And Blockchain News.
 * [Bitfalls](https://bitfalls.com) - Technical news, solidity tutorials, and skeptical research. EN and HR languages.
 * [What Bitcoin Did](https://www.whatbitcoindid.com/) - Blog of accidental Bitcoin and Cryptocurrency investor, miner, blogger and podcaster. 
+* [1DayDude](https://www.1daydude.com/) - Bringing detailed information on the cryptocurrency and blockchain space to beginners and those that wish to learn more.
 ## Medium
 * [Vitalik Buterin](https://medium.com/@VitalikButerin) - Ethereum creator, cryptocurrency evangelist.
 * [Bitcoin Tech Talk](https://bitcointechtalk.com/) - All About Bitcoin Development.
