@@ -39,6 +39,8 @@ Curated collection of blockchain &amp; cryptocurrency links.
 - [For Developers](#for-developers)
   - [API](#api)
   - [Other](#other)
+- [Games](#games)
+  - [ETH](#eth)
 - [Podcasts](#podcasts)
 - [Mining](#mining)
 - [Sponsors](#sponsors)
@@ -310,6 +312,12 @@ invest in cryptocurrency.
 * [Truffle](http://truffleframework.com/) - The most popular framework for Ethereum. JS.
 * [CCXT](https://github.com/ccxt/ccxt) - JS/Python / PHP library for cryptocurrency trading and e-commerce with support for many exchanges and merchant APIs.
 * [QuikNode](http://quiknode.io/) - Cloud-hosted Ethereum nodes for developers and investors.
+
+# Games
+## ETH
+* [CryptoKitties](https://www.cryptokitties.co/) - Collect and trade CryptoKitties in one of the world's first blockchain games. Breed your rarest cats to create the purrfect furry friend. The future is meow!
+* [CryptoSoccr](https://cryptosoccr.com/) - Be the only owner around the world of a football player. One of your player got snatched? Double up your profit!
+
 # Podcasts
 * [Bitcoin Knowledge](http://www.bitcoin.kn/) - Learn about blockchain and fintech.
 * [Bitcoin Uncensored](https://etherreview.info/tagged/podcast) - Exploring the verifiable computing space through the lens of Ethereum.
@@ -325,7 +333,6 @@ invest in cryptocurrency.
 * [Bitcoin Difficulty](https://bitcoinwisdom.com/bitcoin/difficulty) - Realtime Mining Statistics.
 * [Mining pools](https://blockchain.info/pools) - Mining pool hashrate distribution.
 * [WhatIsMyHashRate?](http://www.whatismyhashrate.com/) - Measure your browser's hashrate.
-
 
 # Sponsors
 [<img src="https://raw.githubusercontent.com/coinpride/CryptoList/master/social_icons/sponsored.svg?sanitize=true">](https://coinpride.com)
