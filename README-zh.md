@@ -45,8 +45,8 @@
 - [贡献者](#contribute)
 - [协议](#license)
 
-# Media
-## Magazines and Blogs
+# 媒体资讯
+## 杂志&博客
 * [CryptoHackers](https://cryptohackers.party/) - Cryptoworld超级英雄采访。迷人的事实，团队内部和成功的故事。
 * [CoinTelegraph](https://cointelegraph.com/) - 提供最新消息，分析，专家意见，社区评论的主要刊物。成立于2013年。
 * [CoinDesk](https://www.coindesk.com/) - CoinDesk是全球数字货币新闻和信息的领导者。 17M用户。
@@ -97,7 +97,7 @@
 * [CoinDar](https://coindar.org/) - 第一个知道即将到来的加密货币新闻，更新，硬分叉，合并，在交易所上市的货币和其他重要事件。
 * [BTCnews](https://itunes.apple.com/app/btcnews-bitcoin-cryptocurrency/id946903421) - 适用于 iOS 的成熟加密货币新闻和图表应用程序。
 
-# 格追踪
+# 行情（价格追踪）
 * [Altcoins Racing](https://altcoins.racing/) - Altcoins Racing 显示价格变化。
 * [CoinMarketcap](https://coinmarketcap.com/) - 老而弥酷。汇集所有的硬币价格，图表，市场上限。 提供API，小部件，工具。每月 90M 用户使用。
 * [Coincap](http://coincap.io/) - CoinCap 实时跟踪数百种加密货币的市场数据。他们也有非常有用的移动应用程序。
@@ -109,7 +109,7 @@
 * [WorldCoinIndex](https://www.worldcoinindex.com/) - 实时加密货币价格监控工具。许多altcoins和许多法定货币。
 * [CryptoTrader](https://cryptrader.com/) - Cryptocurrency交易平台。图表，新闻和trollbox。添加小部件以自定义外观。
 * [Coin Daily Update](https://coindailyupdate.com) - 每日电子邮件更新与定制硬币的价格变化。
-# ICO Trackers
+# ICO 发行
 * [ICOtracker](https://icotracker.net) - 非常翔实和值得信赖的跟踪器。
 * [The ICO digest](https://theicodigest.com) - 每周ICO摘要。
 * [TokenData](https://www.tokendata.io/) - 查看ICO统计数据：投资回报率，总投资，状态和其他信息。
@@ -122,7 +122,7 @@
 * [TokenMarket](https://tokenmarket.net) - TokenMarket是代币，数字资产和区块链投资的市场。
 * [ICOdrops](https://icodrops.com/) - 不断更新看板样式的ICO板。
 * [ICO Whitelists](http://icowhitelists.com) - 关于ICO的文章。还跟踪ICO的200多个电报小组的增长情况。
-交易所
+
 # 交易所
 * [Local Bitcoins](https://localbitcoins.com/) - 在您附近买卖比特币。受每月10M用户的信任。
 * [Poloniex](https://www.poloniex.com/) - USA. Trust: 3.5/5. Tons of altcoins. 客服差。
@@ -136,9 +136,9 @@
 * [Cryptoradar](https://cryptoradar.co) - 比较来自超过 25 个交易所和经纪商的价格和特点。
 * [Binance](https://www.binance.com) - 现代交易所与最低的交易手续费用，有自己的代币。
 * [Kucoin](https://www.kucoin.com) - 现代。进化非常快。有它自己的代币。
-社区
+
 # 社区
-## 聊天组
+## 聊天群
 * [The Moon Trollbox](https://t.me/join_trollbox) - 热点新闻讨论，谣言和友好会谈。没有审查制度。
 * [The CHT Community](https://t.me/join_cht) - 正式CryptoHackers telegram 聊天。与您最喜爱的加密创业公司和应用程序的创始人交谈的地方。
 * [Crypto Aquarium](https://cryptoaquarium.com) - 伟大的社区（telegram， slack）。由Coindex创始人Joshua Petty策划。 800多个成员。
@@ -161,7 +161,7 @@
 * [Bitcoin on StackExchange](https://bitcoin.stackexchange.com/) - 比特币加密货币爱好者的问题和答案网站。
 * [/r/Bitcoin/](https://www.reddit.com/r/Bitcoin/) - 在Reddit上讨论比特币新闻。 300,000多位读者。
 * [Steemit](https://steemit.com) - 在区块链上运行的Fancy Reddit。发布赚取$。花$来宣传自己。
-# 工作
+# 相关岗位招聘网站
 * [Coinality](https://coinality.com/) - Coinality是连接加密雇主和求职者的免费服务。
 * [Cryptogrind](https://www.cryptogrind.com/) - 比特币自由职业者平台。
 * [Blockchain Dev Jobs](https://blockchaindevjobs.com/) - 为区块链工程师精心策划的网络工作清单。
@@ -188,7 +188,7 @@
 * [Samourai](https://samouraiwallet.com/) - 适用于Android的安全比特币钱包。
 * [WalletList](https://walletlist.me) - 展示您的公共数字货币地址。addresses.
 
-# Altfolio
+# 交易组合投资工具
 * [Blockfolio](https://www.blockfolio.com/) - 加密货币管理，使用易于使用的工具来跟踪所有的加密货币投资。漂亮的小部件。简单。安卓/ iOS版。
 * [ACrypto](https://dworks.in/acrypto) - 跟踪比特币和altcoins价格，自定义警报，详细的图表。灵活，许多设置，信息。适用于iOS和Android。
 * [Altpocket](http://www.altpocket.io) - 您展示，跟踪和分享您的加密货币投资所需的唯一工具。
@@ -200,7 +200,7 @@
 * [Crypto Central](https://cryptocentral.ai) - 适用于iOS / Android的Bitcoin＆加密货币投资组合追踪器。
 * [Cryptagon](https://cryptagon.io) - 强大的应用程序来跟踪投资组合。从交易所自动导入。
 * [Cryptonomy](https://www.cryptonomynow.com/) - 投资组合跟踪，社交，论坛，聊天，ico列表，新闻聚合器，加密学院。安卓/ iOS版。
-# 实用工具
+# 交易辅助工具
 * [QR Code Generator](https://bitcoinqrcodegenerator.win/) - 有了这个免费的工具，您可以立即生成您的比特币/莱特币/以太坊/狗币地址的QR码。
 * [Block Explorer](https://tradeblock.com/bitcoin/) - 在线发现比特币区块链块。包括费用和矿工信息。
 * [EtherScan](https://etherscan.io) - 以太坊的块浏览器和分析平台。
