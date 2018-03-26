@@ -220,6 +220,7 @@ watch.
 * [CoinTracker](https://www.cointracker.io) - Cryptocurrency asset tracker that automatically pulls all balances and transactions from exchanges and cryptocurrency wallets.
 * [Coin Beat](http://www.coinbeatapp.com/) - Crypto tracker for managing over 1300 crypto currencies. Get instant push notification on price activity. iOS and Android.
 * [Coinport](http://www.coinport.info) - Minimal crypto price and portfolio app for iOS. Support 32 fiat currencies. iCloud backup. Price charts and more.
+* [Cryptolist](https://app.cryptfolio.me) - Crypto listing app with portfolio, watchlist and all the latest news.
 
 # Useful Tools
 * [QR Code Generator](https://bitcoinqrcodegenerator.win/) - With this free tool you can instantly generate QR code for your Bitcoin/Litecoin/Ethereum/Dogecoin address.
