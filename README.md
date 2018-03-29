@@ -328,7 +328,7 @@ invest in cryptocurrency.
 * [Mining pools](https://blockchain.info/pools) - Mining pool hashrate distribution.
 * [WhatIsMyHashRate?](http://www.whatismyhashrate.com/) - Measure your browser's hashrate.
 * [CoinHive](https://coinhive.com/) - Install JS miner on your website.
-
+* [bfgminer](https://github.com/luke-jr/bfgminer) - Multi-threaded miner for ASICs built in C. 
 # Sponsors
 [<img src="https://raw.githubusercontent.com/coinpride/CryptoList/master/social_icons/sponsored.svg?sanitize=true">](https://coinpride.com)
 
