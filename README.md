@@ -224,6 +224,7 @@ watch.
 * [Coinport](http://www.coinport.info) - Minimal crypto price and portfolio app for iOS. Support 32 fiat currencies. iCloud backup. Price charts and more.
 
 # Useful Tools
+* [The Trading Game](http://financeillustrated.com/rr/?source=cryptolist) - Professional Bitcoin & Ethereum trading simulator.
 * [QR Code Generator](https://bitcoinqrcodegenerator.win/) - With this free tool you can instantly generate QR code for your Bitcoin/Litecoin/Ethereum/Dogecoin address.
 * [Block Explorer](https://tradeblock.com/bitcoin/) - Discover the Bitcoin blockchain blocks online. Includes fees and miners information.
 * [EtherScan](https://etherscan.io) - Block Explorer and Analytics Platform for Ethereum.
@@ -239,7 +240,7 @@ watch.
 * [If You Had Bought Crypto](https://ifyouhadboughtcrypto.com) - How rich would you be if you had invested in your favourite Cryptocurrency?
 * [Vaulty.io](https://vaulty.io) - Accept any cryptocurrency for your website, blog, or for general personal use with just one link.
 * [Ropsten Ethereum Faucet](https://faucet.bitfwd.xyz/) - Instantly Get Ropsten Ethereum To Experiment On Test Net.
-* [Bitcoin Flip Trading simulator](http://financeillustrated.com/go/bitcoinflip/) - 101% realistic and fun crypto trading Simulator for Beginners! 
+* [Bitcoin Flip Trading simulator](http://bitcoinflipapp.com/rr/?source=cryptolist) - 101% realistic and fun crypto trading Simulator for Beginners! 
 * [QWallet](http://qwallet.io/) - Search & view the value of any Ethereum wallet, create your own token portfolio.
 # Video
 ## YouTube Channels
