@@ -84,6 +84,7 @@ Curated collection of blockchain &amp; cryptocurrency links.
 
 ## Telegram Channels
 * [Best of CryptoHeresy](https://t.me/cryptoheresy) - Transmits best topics from CryptoHeresy forum.
+* [Telegram Crypto Groups](http://telegramcryptogroups.com) - A directory of all of the Telegram crypto related groups.
 * [Crypto Memes](https://t.me/join_cryptomemes) - Cryptoworld funny pictures.
 * [Crypto](https://t.me/Crypto) - The god of all crypto channels.
 * [UpcomingICOs](https://t.me/UpcomingICOs) - This channel is dedicated to informing people of up and coming ICO's.
@@ -238,6 +239,7 @@ watch.
 * [If You Had Bought Crypto](https://ifyouhadboughtcrypto.com) - How rich would you be if you had invested in your favourite Cryptocurrency?
 * [Vaulty.io](https://vaulty.io) - Accept any cryptocurrency for your website, blog, or for general personal use with just one link.
 * [Ropsten Ethereum Faucet](https://faucet.bitfwd.xyz/) - Instantly Get Ropsten Ethereum To Experiment On Test Net.
+* [Altcoin Fantasy - Free Crypto Trading Game](https://altcoinfantasy.com/) - Start with $100k virtual USD and trade your way to the top to win weekly prizes in Bitcoin and Altcoins. 
 * [Bitcoin Flip Trading simulator](http://financeillustrated.com/go/bitcoinflip/) - 101% realistic and fun crypto trading Simulator for Beginners! 
 * [QWallet](http://qwallet.io/) - Search & view the value of any Ethereum wallet, create your own token portfolio.
 # Video
