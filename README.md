@@ -57,6 +57,7 @@ Curated collection of blockchain &amp; cryptocurrency links.
 * [The Memory Pool](http://nakamotoinstitute.org/mempool/) - Satoshi Nakamoto Institute blog.
 * [Tim Swanson Blog](http://www.ofnumbers.com/category/bitcoin/) - Blog of director of market research at R3.
 * [Oleg Andreev Blog](http://blog.oleganza.com/) - Blog of hardcore developer, product architect at Chain.com.
+* [CoinGape](https://coingape.com) - Global blockchain, cryptocurrency, ICO news, updates, guides and analysis.
 * [Freedom to Tinker](https://freedom-to-tinker.com/tag/bitcoin/) - Princeton hosted tech blog: researches and experts commentaries.
 * [Money and State](http://moneyandstate.com/) - Blog of Erik Voorhees, CEO of leading digital asset exchange ShapeShift.io
 * [Gavin Andersesn Blog](http://gavinandresen.ninja/) - Blog of Bitcoin developer.
@@ -66,7 +67,7 @@ Curated collection of blockchain &amp; cryptocurrency links.
 * [Crypto Analyst](https://www.cryptoanalyst.co/) - World’s premier cryptocurrency news analysis.
 * [Bitrazzi](https://bitrazzi.com/) - Bitcoin, Cryptocurrency And Blockchain News.
 * [Bitfalls](https://bitfalls.com) - Technical news, solidity tutorials, and skeptical research. EN and HR languages.
-* [What Bitcoin Did](https://www.whatbitcoindid.com/) - Blog of accidental Bitcoin and Cryptocurrency investor, miner, blogger and podcaster. 
+* [What Bitcoin Did](https://www.whatbitcoindid.com/) - Blog of accidental Bitcoin and Cryptocurrency investor, miner, blogger and podcaster.
 ## Medium
 * [Vitalik Buterin](https://medium.com/@VitalikButerin) - Ethereum creator, cryptocurrency evangelist.
 * [Bitcoin Tech Talk](https://bitcointechtalk.com/) - All About Bitcoin Development.
