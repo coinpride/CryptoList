@@ -92,6 +92,7 @@ Curated collection of blockchain &amp; cryptocurrency links.
 * [Ethereum dapps](https://t.me/ethereumdapps) - Ethereum & DAPPS news and updates.
 * [Telegram Crypto Groups](http://telegramcryptogroups.com) - Directory of all of Telegram crypto related groups.
 # News Aggregators
+* [CryptoControl](https://cryptocontrol.io) - CryptoControl let's you visually see the entire crypto news in a very simple heatmap. Articles are colour-coded by categories and sized by importance.
 * [CoinBuzz](https://coinbuzz.stream/) - CoinBuzz aggregates news from many sources (Twitter, Reddit, Google Trends etc) and displays it in the Trello style.
 * [CryptoPanic](https://cryptopanic.com/) - CryptoPanic is news aggregator platform indicating impact on price and market for traders and cryptocurrency enthusiasts.
 * [ETHNews](https://www.ethnews.com) - ETHNews is emerging provider of Ethereum and Blockchain ecosystem news.
