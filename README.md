@@ -148,6 +148,7 @@ Curated collection of blockchain &amp; cryptocurrency links.
 * [Binance](https://www.binance.com) - Modern exchange with the lowest fees and it's own token.
 * [Kucoin](https://www.kucoin.com) - Modern. Evolving really fast. Has it's own token.
 * [Cryptopia](https://www.cryptopia.co.nz/) - NZ. Trades 400+ crypto currencies plus marketplace that lets you sell anything for cryptocurrency.
+* [ChangeNOW](https://changenow.io/) - Limitless and fast coin swaps free of custody.
 # Communities
 ## Chats
 * [The Moon Trollbox](https://t.me/join_trollbox) - Hot news discussions, rumors and friendly talks. No cersorship.
@@ -302,6 +303,7 @@ invest in cryptocurrency.
 * [Microsoft BaaS](https://azure.microsoft.com/en-in/solutions/blockchain/) - Blockchain as Service (BaaS) from Microsoft Azure.
 * [CoinMarketCap](https://coinmarketcap.com/api/) - Powerful JSON API covering 1000+ coins. Limit: 1 request per 6 sec.
 * [CoinCap](https://github.com/CoinCapDev/CoinCap.io) - Simple and informative. Lots of altcoins. History data. No limits.
+* [ChangeNOW](https://changenow.io/api/docs) - Easy integration of the cryptocurrency exchange. Limitless and fast coin swaps free of custody. 
 ## Other
 * [Bitpay](https://bitpay.com/) - Use BitPay's retail, ecommerce, billing, and donation tools to accept payments.
 * [Gekko](https://github.com/askmike/gekko) - Free and open source trading bot. GUI, CLI, NodeJS, nice docs. 18 exchanges (including Bitfinex, Bitstamp and Poloniex).
