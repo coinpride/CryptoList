@@ -148,6 +148,9 @@ Curated collection of blockchain &amp; cryptocurrency links.
 * [Binance](https://www.binance.com) - Modern exchange with the lowest fees and it's own token.
 * [Kucoin](https://www.kucoin.com) - Modern. Evolving really fast. Has it's own token.
 * [Cryptopia](https://www.cryptopia.co.nz/) - NZ. Trades 400+ crypto currencies plus marketplace that lets you sell anything for cryptocurrency.
+* [DDEX](https://www.ddex.io/) - Decentralized, non-custodial token to token trading powered by 0xproject and Hydro.
+* [EtherDelta](https://www.etherdelta.com/) - One of the earliest and still most popular decentralized exchanges.
+
 # Communities
 ## Chats
 * [The Moon Trollbox](https://t.me/join_trollbox) - Hot news discussions, rumors and friendly talks. No cersorship.
