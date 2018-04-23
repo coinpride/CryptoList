@@ -243,6 +243,7 @@ watch.
 * [Bitcoin Flip Trading simulator](http://financeillustrated.com/go/bitcoinflip/) - 101% realistic and fun crypto trading Simulator for Beginners! 
 * [QWallet](http://qwallet.io/) - Search & view the value of any Ethereum wallet, create your own token portfolio.
 * [Ethplorer](https://ethplorer.io) - Block explorer and analytics platform for Ethereum.
+* [EtherChain](https://etherchain.org) - Ethereum Blockchain Explorer.
 # Video
 ## YouTube Channels
 * [The Cryptoverse](https://www.youtube.com/channel/UCLnQ34ZBSjy2JQjeRudFEDw) - Your cryptocurrency news dose.
