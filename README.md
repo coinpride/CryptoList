@@ -174,6 +174,7 @@ Curated collection of blockchain &amp; cryptocurrency links.
 * [/r/Bitcoin/](https://www.reddit.com/r/Bitcoin/) - Discuss Bitcoin news on Reddit. 300,000+ readers.
 * [Steemit](https://steemit.com) - Fancy Reddit running on a blockchain. Post to earn $. Spend $ to promote yourself.
 * [Coinvision](https://coinvision.co/) - Get alerts about the most credible crypto coins and ICOs and also access private great community.
+* [coin-deck](https://coin-deck.com) - Mobile friendly extensive index with playful filter and sort options.  
 ## Twitter Users and Lists
 * [Quality Crypto](https://twitter.com/followingell/lists/quality-crypto) - List of >50 prominent, high signal-to-noise-ratio accounts.
 
