@@ -104,6 +104,7 @@ CryptoList has been under constant developing since mid 2017. Consider making a 
 * [CoinTerminal](https://site.cointerminal.co/) - CoinTerminal instantly aggregates, summarizes and analyzes market chatter for sentiment and streams it in real-time.
 * [CoinsCalendar](http://www.coinscalendar.com/) - CoinsCalendar displays all upcoming coins events and updates.
 * [CoinDar](https://coindar.org/) - Be first to know about coming cryptocurrency news, updates, hard forks, meetups, coins listing on exchanges and other important events.
+* [Blocknewsfeed](https://blocknewsfeed.com/) - Personalized cryptocurrency newsfeed and portfolio tracker with support for all cryptocurrencies and tokens. 
 * [BTCnews](https://itunes.apple.com/app/btcnews-bitcoin-cryptocurrency/id946903421) - Mature cryptocurrency news and charts app for iOS.
 * [CryptoAudio](http://cryptoaud.io) - A tool that creates news summaries from various sources and reads them using a text-to-speech technology.
 * [CryptoFlash.io](https://cryptoflash.io) - Top 200+ cryptocurrencies news & rumors in real time!
