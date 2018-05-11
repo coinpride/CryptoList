@@ -179,6 +179,7 @@ CryptoList has been under constant developing since mid 2017. Consider making a 
 * [/r/Bitcoin/](https://www.reddit.com/r/Bitcoin/) - Discuss Bitcoin news on Reddit. 300,000+ readers.
 * [Steemit](https://steemit.com) - Fancy Reddit running on a blockchain. Post to earn $. Spend $ to promote yourself.
 * [Coinvision](https://coinvision.co/) - Get alerts about the most credible crypto coins and ICOs and also access private great community.
+* [CryptoRival](https://cryptorival.com) - All things bitcoin and altcoin, featuring cryptocurrency mining profit calculators, news, live charts along with exchange, miner, wallet and card reviews.
 ## Twitter Users and Lists
 * [Quality Crypto](https://twitter.com/followingell/lists/quality-crypto) - List of >50 prominent, high signal-to-noise-ratio accounts.
 
