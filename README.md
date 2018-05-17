@@ -153,6 +153,7 @@ CryptoList has been under constant developing since mid 2017. Consider making a 
 * [Binance](https://www.binance.com) - Modern exchange with the lowest fees and it's own token.
 * [Kucoin](https://www.kucoin.com) - Modern. Evolving really fast. Has it's own token.
 * [Cryptopia](https://www.cryptopia.co.nz/) - NZ. Trades 400+ crypto currencies plus marketplace that lets you sell anything for cryptocurrency.
+* [CoinSwitch.co](https://www.coinswitch.co/) - Cryptocurrency exchange aggregator. Exchange more than 275 cryptos from CoinSwitch through the exchange of your choice.
 # Communities
 ## Chats
 * [The Moon Trollbox](https://t.me/join_trollbox) - Hot news discussions, rumors and friendly talks. No cersorship.
