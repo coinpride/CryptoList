@@ -339,7 +339,7 @@ invest in cryptocurrency.
 * [CoinHive](https://coinhive.com/) - Install JS miner on your website.
 * [bfgminer](https://github.com/luke-jr/bfgminer) - Multi-threaded miner for ASICs built in C. 
 # Sponsors
-[<img src="https://raw.githubusercontent.com/coinpride/CryptoList/master/social_icons/sponsored.svg?sanitize=true">](https://coinpride.com)
+[<img src="https://raw.githubusercontent.com/coinpride/CryptoList/master/sponsors/coinpride.svg?sanitize=true">](https://coinpride.com)
 
 # Contribute
 Found a nice link? Noticed a bug? Feel free to contribute! You are so much welcome! But read the [CONTRIBUTING.md](https://github.com/coinpride/CryptoList/blob/master/CONTRIBUTING.md) first.
