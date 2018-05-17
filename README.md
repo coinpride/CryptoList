@@ -302,7 +302,6 @@ invest in cryptocurrency.
 * [Rhymes With Fiat](https://www.rhymeswithfiat.com) - Bitcoin webcomic (with educational notes).
 # For Developers
 ## API
-* [Stripe Bitcoin](https://stripe.com/bitcoin/) - Accepting Bitcoin payments made easy. Great integration from Stripe.
 * [Shapeshift](https://info.shapeshift.io/api) - Embed exchange in your app. Trusted by hundreds of apps.
 * [Bittrex](https://bittrex.com/home/api) - Almighty API. You can do anything with it.
 * [Poloniex](https://poloniex.com/support/api/) - The biggest exchange API. PHP and Python wrapper.
