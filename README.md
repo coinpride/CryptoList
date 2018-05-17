@@ -52,6 +52,7 @@ CryptoList has been under constant developing since mid 2017. Consider making a 
 
 # Media
 ## Magazines and Blogs
+* [CryptoGround News](https://www.cryptoground.com/news) - Get latest news related to bitcoin, ethereum and other cryptocurrencies.
 * [CryptoHackers](https://cryptohackers.party/) - Cryptoworld superheroes interviews. Fascinating facts, teams insides and success stories.
 * [CoinTelegraph](https://cointelegraph.com/) - The leading publication offering latest news, analysis, expert opinions, community commentaries. Founded in 2013.
 * [CoinDesk](https://www.coindesk.com/) - CoinDesk is the world leader in news and information on digital currencies. 17M mothly users.
@@ -109,6 +110,7 @@ CryptoList has been under constant developing since mid 2017. Consider making a 
 * [CryptoFlash.io](https://cryptoflash.io) - Top 200+ cryptocurrencies news & rumors in real time!
 
 # Price Trackers
+* [CryptoGround Cryptocurrency Market](https://www.cryptoground.com/cryptocurrency-market) - Track latest price of bitcoin, ethereum and other cryptocurrencies.
 * [Altcoins Racing](https://altcoins.racing/) - Altcoins Racing shows the price change winners and losers.
 * [CoinMarketcap](https://coinmarketcap.com/) - Old and cool. All coins prices, graphs, market caps. API, widgets, tools. Used by 90M monthly users.
 * [Coincap](http://coincap.io/) - CoinCap tracks market data for hundreds of cryptocurrencies in real-time. They also have very useful mobile app.
@@ -173,6 +175,7 @@ CryptoList has been under constant developing since mid 2017. Consider making a 
 * [Token Daily](https://www.tokendaily.co) - Crypto news, launches, white papers and Q&A with experts 📈
 
 ## Other
+* [What If](https://www.cryptoground.com/what-if) - Check how much money you could have made or lost by investing in cryptocurrencies in past.
 * [Cryptocompare](https://www.cryptocompare.com) - CryptoCompare is interactive platform where you can discuss the latest crypto trends and monitor all markets streaming in real time. Also includes perfect altfoilio app.
 * [Trading View](https://www.tradingview.com/u/DLavrov/) - Follow pro traders and learn from their analyzes. (Mr. Lavrov is great specialist).
 * [Bitcoin on StackExchange](https://bitcoin.stackexchange.com/) - Question and answer site for Bitcoin crypto-currency enthusiasts.
