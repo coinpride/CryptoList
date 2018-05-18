@@ -73,6 +73,7 @@ CryptoList has been under constant developing since mid 2017. Consider making a 
 * [Bitrazzi](https://bitrazzi.com/) - Bitcoin, Cryptocurrency And Blockchain News.
 * [Bitfalls](https://bitfalls.com) - Technical news, solidity tutorials, and skeptical research. EN and HR languages.
 * [What Bitcoin Did](https://www.whatbitcoindid.com/) - Blog of accidental Bitcoin and Cryptocurrency investor, miner, blogger and podcaster.
+
 ## Medium
 * [Vitalik Buterin](https://medium.com/@VitalikButerin) - Ethereum creator, cryptocurrency evangelist.
 * [Bitcoin Tech Talk](https://bitcointechtalk.com/) - All About Bitcoin Development.
@@ -96,6 +97,7 @@ CryptoList has been under constant developing since mid 2017. Consider making a 
 * [CryptoNews](https://t.me/bitcoinnews) - Cryptocurrency news megafeed that is posted in real time, even before they hit social media.
 * [Ethereum dapps](https://t.me/ethereumdapps) - Ethereum & DAPPS news and updates.
 * [Telegram Crypto Groups](http://telegramcryptogroups.com) - Directory of all of Telegram crypto related groups.
+
 # News Aggregators
 * [CoinBuzz](https://coinbuzz.stream/) - CoinBuzz aggregates news from many sources (Twitter, Reddit, Google Trends etc) and displays it in the Trello style.
 * [CryptoPanic](https://cryptopanic.com/) - CryptoPanic is news aggregator platform indicating impact on price and market for traders and cryptocurrency enthusiasts.
@@ -126,6 +128,7 @@ CryptoList has been under constant developing since mid 2017. Consider making a 
 * [CoinAlyze](https://coinalyze.net) - Cryptocurrency real-time charts, price levels, statistics and candlestick patterns detection.
 * [Cryptomon](https://cryptomon.io) - Modern trading indicators and price predictions based on machine intelligence.
 * [MoonHash](https://chrome.google.com/webstore/detail/%E2%97%90-moonhash-crypto-portfol/clbooohlcomlhgkfencdenfiadhkefff?hl=en-US) - Cryptocurrency portfolio, price monitoring and telegram monitoring Google Chrome Extension
+
 # ICO Trackers
 * [ICOtracker](https://icotracker.net) - Very informative and trusted tracker.
 * [The ICO digest](https://theicodigest.com) - Weekly ICO digest.
@@ -139,6 +142,7 @@ CryptoList has been under constant developing since mid 2017. Consider making a 
 * [TokenMarket](https://tokenmarket.net) - TokenMarket is marketplace for tokens, digital assets and blockchain based investing.
 * [ICOdrops](https://icodrops.com/) - Constantly updating kanban style ICO board.
 * [ICO Whitelists](http://icowhitelists.com) - Articles on ICOs. Also tracks growth of 200+ Telegram groups for ICOs.
+
 # Exchanges
 * [Local Bitcoins](https://localbitcoins.com/) - Buy and sell bitcoins near you. Trusted by 10M monthly users.
 * [Poloniex](https://www.poloniex.com/) - USA. Trust: 3.5/5. Tons of altcoins. Poor support.
@@ -153,6 +157,7 @@ CryptoList has been under constant developing since mid 2017. Consider making a 
 * [Binance](https://www.binance.com) - Modern exchange with the lowest fees and it's own token.
 * [Kucoin](https://www.kucoin.com) - Modern. Evolving really fast. Has it's own token.
 * [Cryptopia](https://www.cryptopia.co.nz/) - NZ. Trades 400+ crypto currencies plus marketplace that lets you sell anything for cryptocurrency.
+
 # Communities
 ## Chats
 * [The Moon Trollbox](https://t.me/join_trollbox) - Hot news discussions, rumors and friendly talks. No cersorship.
@@ -164,6 +169,7 @@ CryptoList has been under constant developing since mid 2017. Consider making a 
 * [Blockstack](https://docs.google.com/forms/d/e/1FAIpQLSed5Mnu0G5ZMJdWs6cTO_8sTJfUVfe1sYL6WFDcD51_XuQkZw/viewform) - Official Blockstack Slack community. 3000+ members.
 * [CryptoMinded](http://community.cryptominded.com/) - All things crypto: events, jobs, trades, news. 1000+ Slack members.
 * [IRC #bitcoin channel](https://webchat.freenode.net/?channels=bitcoin&uio=d4/) - Old good IRC. The channel of 200 silent people.
+
 ## Forums
 * [CryptoHeresy ⚡️](https://cryptoheresy.com) - Fresh Bitcoin forum with focus on cryptocurrency tools and resources.
 * [Bitcoin Talk](https://bitcoinTalk.org/) - Homepage of the Bitcoin community from the start. Made by Satoshi Nakamoto in 2009.
@@ -179,6 +185,7 @@ CryptoList has been under constant developing since mid 2017. Consider making a 
 * [/r/Bitcoin/](https://www.reddit.com/r/Bitcoin/) - Discuss Bitcoin news on Reddit. 300,000+ readers.
 * [Steemit](https://steemit.com) - Fancy Reddit running on a blockchain. Post to earn $. Spend $ to promote yourself.
 * [Coinvision](https://coinvision.co/) - Get alerts about the most credible crypto coins and ICOs and also access private great community.
+
 ## Twitter Users and Lists
 * [Quality Crypto](https://twitter.com/followingell/lists/quality-crypto) - List of >50 prominent, high signal-to-noise-ratio accounts.
 
@@ -192,7 +199,6 @@ CryptoList has been under constant developing since mid 2017. Consider making a 
 * [Beincrypto](https://beincrypto.com) - Aggregates all the crypto jobs from major job boards.
 * [Jobs by BlockRepublic](http://blockrepublic.io/blockchain-jobs/) - Useful filters, locations & categories.
 * [Crypto Jobs List](https://cryptojobslist.com/) - Curated jobs from top verified blockchain companies.
-
 
 # Wallets
 * [Bitcoin Core](https://bitcoin.org/en/download) - Bitcoin Core is MIT licensed open source Bitcoin wallet. It runs own full node so 145GG of free disk space is required. OSX/Linux/Windows/Ubuntu.
@@ -228,6 +234,7 @@ watch.
 * [CoinTracker](https://www.cointracker.io) - Cryptocurrency asset tracker that automatically pulls all balances and transactions from exchanges and cryptocurrency wallets.
 * [Coin Beat](http://www.coinbeatapp.com/) - Crypto tracker for managing over 1300 crypto currencies. Get instant push notification on price activity. iOS and Android.
 * [Coinport](http://www.coinport.info) - Minimal crypto price and portfolio app for iOS. Support 32 fiat currencies. iCloud backup. Price charts and more.
+* [CryptFolio](https://cryptfolio.com) - Track 1700+ currencies, set up notifications, generate reports for your portfolio. Automatic exchange import.
 
 # Useful Tools
 * [QR Code Generator](https://bitcoinqrcodegenerator.win/) - With this free tool you can instantly generate QR code for your Bitcoin/Litecoin/Ethereum/Dogecoin address.
@@ -250,6 +257,7 @@ watch.
 * [Ethplorer](https://ethplorer.io) - Block explorer and analytics platform for Ethereum.
 * [EtherChain](https://etherchain.org) - Ethereum Blockchain Explorer.
 * [Trivial.co](https://trivial.co) - Network explorer and analytics platform for Ethereum and ERC-20 tokens.
+
 # Video
 ## YouTube Channels
 * [The Cryptoverse](https://www.youtube.com/channel/UCLnQ34ZBSjy2JQjeRudFEDw) - Your cryptocurrency news dose.
@@ -274,6 +282,7 @@ invest in cryptocurrency.
 * [Ulterior States](http://www.iamsatoshi.com/) - Real-life conversations with some thought leaders within the Bitcoin ecosystem. The film took 3 years to complete.
 * [The Bitcoin Doco](https://vimeo.com/112223859) - Fascinating story focusing on the emergence of new world wide currency.
 * [Life Inside Secret Chinese Bitcoin Mine](https://www.youtube.com/watch?v=K8kua5B5K3I) - Interesting story about the miners of the new millenium.
+
 # Learning
 ## Books
 * [Mastering Bitcoin](https://github.com/bitcoinbook/bitcoinbook) - Mostly for developers. The second edition was published in June 2017.
@@ -300,6 +309,7 @@ invest in cryptocurrency.
 * [Bitcoin Forks](http://mapofcoins.com/bitcoin) - All bitcoin forks visualisation.
 * [Coin Demo](https://coindemo.io) - Visual demonstration of how bitcoin transactions work.
 * [Rhymes With Fiat](https://www.rhymeswithfiat.com) - Bitcoin webcomic (with educational notes).
+
 # For Developers
 ## API
 * [Shapeshift](https://info.shapeshift.io/api) - Embed exchange in your app. Trusted by hundreds of apps.
@@ -309,6 +319,8 @@ invest in cryptocurrency.
 * [Microsoft BaaS](https://azure.microsoft.com/en-in/solutions/blockchain/) - Blockchain as Service (BaaS) from Microsoft Azure.
 * [CoinMarketCap](https://coinmarketcap.com/api/) - Powerful JSON API covering 1000+ coins. Limit: 1 request per 6 sec.
 * [CoinCap](https://github.com/CoinCapDev/CoinCap.io) - Simple and informative. Lots of altcoins. History data. No limits.
+* [CryptFolio](https://cryptfolio.com/api) - Integrate 1700+ cryptocurrencies and wallets into your application.
+
 ## Other
 * [Bitpay](https://bitpay.com/) - Use BitPay's retail, ecommerce, billing, and donation tools to accept payments.
 * [Gekko](https://github.com/askmike/gekko) - Free and open source trading bot. GUI, CLI, NodeJS, nice docs. 18 exchanges (including Bitfinex, Bitstamp and Poloniex).
@@ -320,6 +332,7 @@ invest in cryptocurrency.
 * [Truffle](http://truffleframework.com/) - The most popular framework for Ethereum. JS.
 * [CCXT](https://github.com/ccxt/ccxt) - JS/Python / PHP library for cryptocurrency trading and e-commerce with support for many exchanges and merchant APIs.
 * [QuikNode](http://quiknode.io/) - Cloud-hosted Ethereum nodes for developers and investors.
+
 # Podcasts
 * [Bitcoin Knowledge](http://www.bitcoin.kn/) - Learn about blockchain and fintech.
 * [Bitcoin Uncensored](https://etherreview.info/tagged/podcast) - Exploring the verifiable computing space through the lens of Ethereum.
@@ -329,6 +342,7 @@ invest in cryptocurrency.
 * [Flippening](https://p.nomics.com/podcast/) - Weekly discussion of the cryptocurrency economy and investment strategies.
 * [ICO Alert Podcast](https://www.icoalert.com/podcast) - Podcast from the popular ICO tracking platform.
 * [Tales from the Crypt](talesfromthecrypt.libsyn.com) - Podcast hosted by @MartyBent about Bitcoin.
+
 # Mining
 * [CoinWarz](https://www.coinwarz.com) - Mining profitability calculators. Help choosing perfect coin to mine.
 * [WhatToMine?](https://whattomine.com) - Find the most profitable cryptocurrencies to mine.
@@ -337,6 +351,7 @@ invest in cryptocurrency.
 * [WhatIsMyHashRate?](http://www.whatismyhashrate.com/) - Measure your browser's hashrate.
 * [CoinHive](https://coinhive.com/) - Install JS miner on your website.
 * [bfgminer](https://github.com/luke-jr/bfgminer) - Multi-threaded miner for ASICs built in C. 
+
 # Sponsors
 [<img src="https://raw.githubusercontent.com/coinpride/CryptoList/master/sponsors/coinpride.svg?sanitize=true">](https://coinpride.com)
 
