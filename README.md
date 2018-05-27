@@ -12,7 +12,7 @@ Curated collection of blockchain &amp; cryptocurrency links.
 [<img src="https://raw.githubusercontent.com/coinpride/CryptoList/master/social_icons/telegram_join.svg?sanitize=true">](https://t.me/join_cht)
 
 # Make a Donation
-CryptoList has been under constant developing since mid 2017. Consider making a small donation to support the project.
+CryptoList has been under constant developing since mid 2017. Consider making a small donation to support the project. If you **donate more than $150** your projects' **logo will be placed** in the Sponsors section forever.
 
 [<img src="https://github.com/coinpride/CryptoList/blob/master/donate_cryptolist.png?raw=true" width="">](https://walletlist.me/@alexanderisora)
 
