@@ -147,6 +147,7 @@ CryptoList has been under constant developing since mid 2017. Consider making a 
 * [Bittrex](https://www.bittrex.com) - USA. Trust: 3.8/5. Many altcoins.
 * [CEX.IO](https://cex.io/) - UK. Trust: 5/5. Fiat. Newbie friendly.
 * [BestBitcoinExchange](https://www.bestbitcoinexchange.io/) - Curated list of 35 popular exchanges. Looks SEOish but does the job well.
+* [Guarda Exchange](https://guarda.co/exchange) - Exchanges made quick and easy. No Limits, Anonymous, Fair.
 * [Shapeshift](https://shapeshift.io) - No login, fast, awesome API.
 * [Changelly](https://changelly.com/) - Fiat, nice affiliate program.
 * [Cryptoradar](https://cryptoradar.co) - Compares prices and features from > 25 exchanges and brokers.
@@ -199,6 +200,7 @@ CryptoList has been under constant developing since mid 2017. Consider making a 
 * [Blockchain.info](https://blockchain.info/wallet/#/) - World’s most popular digital wallet. Mobile apps included.
 * [Electrum](https://electrum.org/#home) - Thin Bitcoin client. Opensource, MIT, has 100+ contributors.
 * [Exodus](https://www.exodus.io) - Exodus is the first desktop multi-asset wallet with ShapeShift built in.
+* [Guarda Wallet](https://guarda.co/web-wallet) - Web-based multi-currency wallet for Top Blockchains: Bitcoin, Ethereum and lots more.
 * [MyEtherWallet](https://www.myetherwallet.com) - Opensource webapp to access Ethereum. Old and reliable. ERC20 support. Loved by phishers!
 * [Coinomi](https://coinomi.com/) - Supports many altcoins, fast and has perfect UI ([closed source now](https://github.com/bitcoin-dot-org/bitcoin.org/issues/1622)).
 * [Jaxx](https://jaxx.io) - Reliable, Jaxx supports many of the leading cryptocurrency platforms. Crossplatform.
@@ -245,7 +247,7 @@ watch.
 * [If You Had Bought Crypto](https://ifyouhadboughtcrypto.com) - How rich would you be if you had invested in your favourite Cryptocurrency?
 * [Vaulty.io](https://vaulty.io) - Accept any cryptocurrency for your website, blog, or for general personal use with just one link.
 * [Ropsten Ethereum Faucet](https://faucet.bitfwd.xyz/) - Instantly Get Ropsten Ethereum To Experiment On Test Net.
-* [Bitcoin Flip Trading simulator](http://financeillustrated.com/go/bitcoinflip/) - 101% realistic and fun crypto trading Simulator for Beginners! 
+* [Bitcoin Flip Trading simulator](http://financeillustrated.com/go/bitcoinflip/) - 101% realistic and fun crypto trading Simulator for Beginners!
 * [QWallet](http://qwallet.io/) - Search & view the value of any Ethereum wallet, create your own token portfolio.
 * [Ethplorer](https://ethplorer.io) - Block explorer and analytics platform for Ethereum.
 * [EtherChain](https://etherchain.org) - Ethereum Blockchain Explorer.
@@ -336,7 +338,7 @@ invest in cryptocurrency.
 * [Mining pools](https://blockchain.info/pools) - Mining pool hashrate distribution.
 * [WhatIsMyHashRate?](http://www.whatismyhashrate.com/) - Measure your browser's hashrate.
 * [CoinHive](https://coinhive.com/) - Install JS miner on your website.
-* [bfgminer](https://github.com/luke-jr/bfgminer) - Multi-threaded miner for ASICs built in C. 
+* [bfgminer](https://github.com/luke-jr/bfgminer) - Multi-threaded miner for ASICs built in C.
 # Sponsors
 [<img src="https://raw.githubusercontent.com/coinpride/CryptoList/master/sponsors/coinpride.svg?sanitize=true">](https://coinpride.com)
 
