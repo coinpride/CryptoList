@@ -112,6 +112,7 @@ CryptoList has been under constant developing since mid 2017. Consider making a 
 * [Altcoins Racing](https://altcoins.racing/) - Altcoins Racing shows the price change winners and losers.
 * [CoinMarketcap](https://coinmarketcap.com/) - Old and cool. All coins prices, graphs, market caps. API, widgets, tools. Used by 90M monthly users.
 * [Coincap](http://coincap.io/) - CoinCap tracks market data for hundreds of cryptocurrencies in real-time. They also have very useful mobile app.
+* [CurrencyCrypto](https://currencycrypto.io/) - Cryptocurrency prices, markets, charts, news, ICO launches and more. Signup free to track your portfolio.
 * [Cryptowatch](https://cryptowat.ch) - Live price charts and market data for Bitcoin, Ethereum, and more. Many exchanges, flexible settings and cool API.
 * [Bfxdata](https://www.bfxdata.com/) - Charts and Stats for Bitfinex market data and margin funding.
 * [Bitcoinwisdom](https://bitcoinwisdom.com) - Live Bitcoin/Litecoin charts with EMA, MACD and other indicators. Support many exchanges (Bitfinex, Bitstamp, Coinbase, Bittrex, Poloniex etc).
