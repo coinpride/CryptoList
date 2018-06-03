@@ -339,6 +339,7 @@ invest in cryptocurrency.
 * [CoinHive](https://coinhive.com/) - Install JS miner on your website.
 * [bfgminer](https://github.com/luke-jr/bfgminer) - Multi-threaded miner for ASICs built in C.
 # Games
+* [CryptoKitties](https://www.cryptokitties.co/) - Collect, breed and trade rare kitties in one of the world's first blockchain games. 
 # Sponsors
 [<img src="https://raw.githubusercontent.com/coinpride/CryptoList/master/sponsors/coinpride.svg?sanitize=true">](https://coinpride.com)
 
