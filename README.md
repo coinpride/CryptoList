@@ -322,6 +322,8 @@ invest in cryptocurrency.
 * [Kovan Ethereum Faucet](https://gitter.im/kovan-testnet) - Instantly get ether to experiment on the Kovan testnet.
 * [CCXT](https://github.com/ccxt/ccxt) - JS/Python / PHP library for cryptocurrency trading and e-commerce with support for many exchanges and merchant APIs.
 * [QuikNode](http://quiknode.io/) - Cloud-hosted Ethereum nodes for developers and investors.
+* [Consensys Academy](https://consensys.net/academy/resources/) - Getting started resources by Consensys.
+
 # Podcasts
 * [Bitcoin Knowledge](http://www.bitcoin.kn/) - Learn about blockchain and fintech.
 * [Bitcoin Uncensored](https://etherreview.info/tagged/podcast) - Exploring the verifiable computing space through the lens of Ethereum.
