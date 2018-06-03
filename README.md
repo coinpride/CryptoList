@@ -46,6 +46,7 @@ CryptoList has been under constant developing since mid 2017. Consider making a 
   - [Other](#other)
 - [Podcasts](#podcasts)
 - [Mining](#mining)
+- [Games](#games)
 - [Sponsors](#sponsors)
 - [Contribute](#contribute)
 - [License](#license)
@@ -336,7 +337,8 @@ invest in cryptocurrency.
 * [Mining pools](https://blockchain.info/pools) - Mining pool hashrate distribution.
 * [WhatIsMyHashRate?](http://www.whatismyhashrate.com/) - Measure your browser's hashrate.
 * [CoinHive](https://coinhive.com/) - Install JS miner on your website.
-* [bfgminer](https://github.com/luke-jr/bfgminer) - Multi-threaded miner for ASICs built in C. 
+* [bfgminer](https://github.com/luke-jr/bfgminer) - Multi-threaded miner for ASICs built in C.
+# Games
 # Sponsors
 [<img src="https://raw.githubusercontent.com/coinpride/CryptoList/master/sponsors/coinpride.svg?sanitize=true">](https://coinpride.com)
 
