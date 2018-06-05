@@ -326,6 +326,7 @@ invest in cryptocurrency.
 * [CCXT](https://github.com/ccxt/ccxt) - JS/Python / PHP library for cryptocurrency trading and e-commerce with support for many exchanges and merchant APIs.
 * [QuikNode](http://quiknode.io/) - Cloud-hosted Ethereum nodes for developers and investors.
 * [Consensys Academy](https://consensys.net/academy/resources/) - Getting started resources by Consensys.
+* [Top Cryptocurrency APIs](https://blog.rapidapi.com/bitcoin-blockchain-cryptocurrency-apis/) - List of Cryptocurrency related APIs to get started with.
 
 # Podcasts
 * [Bitcoin Knowledge](http://www.bitcoin.kn/) - Learn about blockchain and fintech.
