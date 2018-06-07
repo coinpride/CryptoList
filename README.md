@@ -74,6 +74,7 @@ CryptoList has been under constant developing since mid 2017. Consider making a 
 * [Bitrazzi](https://bitrazzi.com/) - Bitcoin, Cryptocurrency And Blockchain News.
 * [Bitfalls](https://bitfalls.com) - Technical news, solidity tutorials, and skeptical research. EN and HR languages.
 * [What Bitcoin Did](https://www.whatbitcoindid.com/) - Blog of accidental Bitcoin and Cryptocurrency investor, miner, blogger and podcaster.
+* [Prosphero Ratings](https://www.prosphero.io/) - Deep researches&analytics of cryptomarket, in common based on data&numbers.
 ## Medium
 * [Vitalik Buterin](https://medium.com/@VitalikButerin) - Ethereum creator, cryptocurrency evangelist.
 * [Bitcoin Tech Talk](https://bitcointechtalk.com/) - All About Bitcoin Development.
