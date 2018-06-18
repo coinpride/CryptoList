@@ -136,6 +136,7 @@
 * [Cryptoradar](https://cryptoradar.co) - 比较来自超过 25 个交易所和经纪商的价格和特点。
 * [Binance](https://www.binance.com) - 现代交易所与最低的交易手续费用，有自己的代币。
 * [Kucoin](https://www.kucoin.com) - 现代。进化非常快。有它自己的代币。
+* [Buda.com](https://www.buda.com) - 南美最大的交易所。
 
 # 社区
 ## 聊天群
