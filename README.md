@@ -157,6 +157,7 @@ CryptoList has been under constant developing since mid 2017. Consider making a 
 * [Kucoin](https://www.kucoin.com) - Modern. Evolving really fast. Has it's own token.
 * [Cryptopia](https://www.cryptopia.co.nz/) - NZ. Trades 400+ crypto currencies plus marketplace that lets you sell anything for cryptocurrency.
 * [Guarda Exchange](https://guarda.co/exchange) - Anonymous crypto exchange and wallet.
+* [Buda.com](https://www.buda.com) - South America's biggest crypto exchange.
 # Communities
 ## Chats
 * [The Moon Trollbox](https://t.me/join_trollbox) - Hot news discussions, rumors and friendly talks. No cersorship.
