@@ -90,8 +90,8 @@ CryptoList is supported by [OpenCrypto](https://opencrypto.space/) - the marketp
 * [The Midas Guide](https://medium.com/the-midas-guide) - Blockchain & crypto original researches.
 
 ## Telegram Channels
-* [Best of CryptoHeresy](https://t.me/cryptoheresy) - Transmits best topics from CryptoHeresy forum.
 * [Crypto Memes](https://t.me/join_cryptomemes) - Cryptoworld funny pictures.
+* [OpenCrypto ✨](https://t.me/opencrypto) - Buy and sell cryptocurrency domains, websites and social profiles.
 * [Crypto](https://t.me/Crypto) - The god of all crypto channels.
 * [UpcomingICOs](https://t.me/UpcomingICOs) - This channel is dedicated to informing people of up and coming ICO's.
 * [CryptoNews](https://t.me/bitcoinnews) - Cryptocurrency news megafeed that is posted in real time, even before they hit social media.
