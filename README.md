@@ -128,6 +128,8 @@ CryptoList has been under constant developing since mid 2017. Consider making a 
 * [Cryptomon](https://cryptomon.io) - Modern trading indicators and price predictions based on machine intelligence.
 * [MoonHash](https://chrome.google.com/webstore/detail/%E2%97%90-moonhash-crypto-portfol/clbooohlcomlhgkfencdenfiadhkefff?hl=en-US) - Cryptocurrency portfolio, price monitoring and telegram monitoring Google Chrome Extension
 * [Coincall](https://coincall.io) - Simplest web-based crypto price and portfolio tracker.
+* [Owl Crypto](https://owlcrypto.com) - Cryptocurrency percentage change monitor.
+
 # ICO Trackers
 * [ICOtracker](https://icotracker.net) - Very informative and trusted tracker.
 * [The ICO digest](https://theicodigest.com) - Weekly ICO digest.
