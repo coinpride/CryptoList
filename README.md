@@ -11,6 +11,11 @@ Curated collection of blockchain &amp; cryptocurrency links.
 [<img src="https://raw.githubusercontent.com/coinpride/CryptoList/master/social_icons/newsletter.svg?sanitize=true">](https://club.coinpride.com/)
 [<img src="https://raw.githubusercontent.com/coinpride/CryptoList/master/social_icons/telegram_join.svg?sanitize=true">](https://t.me/join_cht)
 
+# Make a Donation
+CryptoList has been under constant developing since mid 2017. Consider making a small donation to support the project. If you **donate more than $150** your projects' **logo will be placed** in the Sponsors section forever.
+
+[<img src="https://github.com/coinpride/CryptoList/blob/master/donate_cryptolist.png?raw=true" width="">](https://walletlist.me/@alexanderisora)
+
 # Contents
 - [Media](#media)
   - [Magazines and Blogs](#magazines-and-blogs)
@@ -41,6 +46,7 @@ Curated collection of blockchain &amp; cryptocurrency links.
   - [Other](#other)
 - [Podcasts](#podcasts)
 - [Mining](#mining)
+- [Games](#games)
 - [Sponsors](#sponsors)
 - [Contribute](#contribute)
 - [License](#license)
@@ -121,6 +127,7 @@ Curated collection of blockchain &amp; cryptocurrency links.
 * [CoinAlyze](https://coinalyze.net) - Cryptocurrency real-time charts, price levels, statistics and candlestick patterns detection.
 * [Cryptomon](https://cryptomon.io) - Modern trading indicators and price predictions based on machine intelligence.
 * [MoonHash](https://chrome.google.com/webstore/detail/%E2%97%90-moonhash-crypto-portfol/clbooohlcomlhgkfencdenfiadhkefff?hl=en-US) - Cryptocurrency portfolio, price monitoring and telegram monitoring Google Chrome Extension
+* [Coincall](https://coincall.io) - Simplest web-based crypto price and portfolio tracker.
 # ICO Trackers
 * [ICOtracker](https://icotracker.net) - Very informative and trusted tracker.
 * [The ICO digest](https://theicodigest.com) - Weekly ICO digest.
@@ -134,6 +141,7 @@ Curated collection of blockchain &amp; cryptocurrency links.
 * [TokenMarket](https://tokenmarket.net) - TokenMarket is marketplace for tokens, digital assets and blockchain based investing.
 * [ICOdrops](https://icodrops.com/) - Constantly updating kanban style ICO board.
 * [ICO Whitelists](http://icowhitelists.com) - Articles on ICOs. Also tracks growth of 200+ Telegram groups for ICOs.
+* [ICOAlarm](http://icoalarmapp.com) - ICO discovery, analysis, and alerts crossplatform mobile application.
 # Exchanges
 * [Local Bitcoins](https://localbitcoins.com/) - Buy and sell bitcoins near you. Trusted by 10M monthly users.
 * [Poloniex](https://www.poloniex.com/) - USA. Trust: 3.5/5. Tons of altcoins. Poor support.
@@ -148,6 +156,7 @@ Curated collection of blockchain &amp; cryptocurrency links.
 * [Binance](https://www.binance.com) - Modern exchange with the lowest fees and it's own token.
 * [Kucoin](https://www.kucoin.com) - Modern. Evolving really fast. Has it's own token.
 * [Cryptopia](https://www.cryptopia.co.nz/) - NZ. Trades 400+ crypto currencies plus marketplace that lets you sell anything for cryptocurrency.
+* [Guarda Exchange](https://guarda.co/exchange) - Anonymous crypto exchange and wallet.
 # Communities
 ## Chats
 * [The Moon Trollbox](https://t.me/join_trollbox) - Hot news discussions, rumors and friendly talks. No cersorship.
@@ -239,10 +248,11 @@ watch.
 * [CoinPop.me](https://coinpop.me/) - Create shareable page for all your cryptocurrency donation addresses.
 * [If You Had Bought Crypto](https://ifyouhadboughtcrypto.com) - How rich would you be if you had invested in your favourite Cryptocurrency?
 * [Vaulty.io](https://vaulty.io) - Accept any cryptocurrency for your website, blog, or for general personal use with just one link.
-* [Ropsten Ethereum Faucet](https://faucet.bitfwd.xyz/) - Instantly Get Ropsten Ethereum To Experiment On Test Net.
-* [Bitcoin Flip Trading simulator](http://financeillustrated.com/go/bitcoinflip/) - 101% realistic and fun crypto trading Simulator for Beginners! 
+* [Bitcoin Flip Trading simulator](http://financeillustrated.com/go/bitcoinflip/) - 101% realistic and fun crypto trading Simulator for Beginners!
 * [QWallet](http://qwallet.io/) - Search & view the value of any Ethereum wallet, create your own token portfolio.
-* [Portis](https://portis.io/) - JavaScript SDK that lets people run your Ethereum DApp in the browser, using the same account on all their devices.
+* [Ethplorer](https://ethplorer.io) - Block explorer and analytics platform for Ethereum.
+* [EtherChain](https://etherchain.org) - Ethereum Blockchain Explorer.
+* [Trivial.co](https://trivial.co) - Network explorer and analytics platform for Ethereum and ERC-20 tokens.
 # Video
 ## YouTube Channels
 * [The Cryptoverse](https://www.youtube.com/channel/UCLnQ34ZBSjy2JQjeRudFEDw) - Your cryptocurrency news dose.
@@ -295,7 +305,6 @@ invest in cryptocurrency.
 * [Rhymes With Fiat](https://www.rhymeswithfiat.com) - Bitcoin webcomic (with educational notes).
 # For Developers
 ## API
-* [Stripe Bitcoin](https://stripe.com/bitcoin/) - Accepting Bitcoin payments made easy. Great integration from Stripe.
 * [Shapeshift](https://info.shapeshift.io/api) - Embed exchange in your app. Trusted by hundreds of apps.
 * [Bittrex](https://bittrex.com/home/api) - Almighty API. You can do anything with it.
 * [Poloniex](https://poloniex.com/support/api/) - The biggest exchange API. PHP and Python wrapper.
@@ -312,8 +321,13 @@ invest in cryptocurrency.
 * [GETH](https://www.ethereum.org/cli) - CLI tools for Ethereum. Python, C++, Go implementations.
 * [Embark](https://github.com/iurimatias/embark-framework) - Framework for serverless Decentralized Applications using Ethereum, IPFS and other platforms. JS.
 * [Truffle](http://truffleframework.com/) - The most popular framework for Ethereum. JS.
+* [Ropsten Ethereum Faucet](https://faucet.bitfwd.xyz/) - Instantly get ether to experiment on the Ropsten testnet.
+* [Kovan Ethereum Faucet](https://gitter.im/kovan-testnet) - Instantly get ether to experiment on the Kovan testnet.
 * [CCXT](https://github.com/ccxt/ccxt) - JS/Python / PHP library for cryptocurrency trading and e-commerce with support for many exchanges and merchant APIs.
 * [QuikNode](http://quiknode.io/) - Cloud-hosted Ethereum nodes for developers and investors.
+* [Consensys Academy](https://consensys.net/academy/resources/) - Getting started resources by Consensys.
+* [Portis](https://portis.io/) - JavaScript SDK that lets people run your Ethereum DApp in the browser, using the same account on all their devices.
+
 # Podcasts
 * [Bitcoin Knowledge](http://www.bitcoin.kn/) - Learn about blockchain and fintech.
 * [Bitcoin Uncensored](https://etherreview.info/tagged/podcast) - Exploring the verifiable computing space through the lens of Ethereum.
@@ -330,9 +344,13 @@ invest in cryptocurrency.
 * [Mining pools](https://blockchain.info/pools) - Mining pool hashrate distribution.
 * [WhatIsMyHashRate?](http://www.whatismyhashrate.com/) - Measure your browser's hashrate.
 * [CoinHive](https://coinhive.com/) - Install JS miner on your website.
-* [bfgminer](https://github.com/luke-jr/bfgminer) - Multi-threaded miner for ASICs built in C. 
+* [bfgminer](https://github.com/luke-jr/bfgminer) - Multi-threaded miner for ASICs built in C.
+# Games
+* [CryptoKitties](https://www.cryptokitties.co/) - Collect, breed and trade rare kitties in one of the world's first blockchain games. 
 # Sponsors
-[<img src="https://raw.githubusercontent.com/coinpride/CryptoList/master/social_icons/sponsored.svg?sanitize=true">](https://coinpride.com)
+[<img src="https://raw.githubusercontent.com/coinpride/CryptoList/master/sponsors/coinpride.svg?sanitize=true">](https://coinpride.com)
+
+[<img src="https://raw.githubusercontent.com/coinpride/CryptoList/master/sponsors/findbitcoinatm_sponsor_logo.png?sanitize=true">](https://www.findbitcoinatm.com.au/)
 
 # Contribute
 Found a nice link? Noticed a bug? Feel free to contribute! You are so much welcome! But read the [CONTRIBUTING.md](https://github.com/coinpride/CryptoList/blob/master/CONTRIBUTING.md) first.
