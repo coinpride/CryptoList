@@ -161,6 +161,7 @@ CryptoList has been under constant developing since mid 2017. Consider making a 
 * [Guarda Exchange](https://guarda.co/exchange) - Anonymous crypto exchange and wallet.
 * [DDEX](https://www.ddex.io/) - Decentralized, non-custodial token to token trading powered by 0xproject and Hydro.
 * [EtherDelta](https://www.etherdelta.com/) - One of the earliest and still most popular decentralized exchanges.
+* [ChangeNOW](https://changenow.io/) - Limitless and fast coin swaps free of custody.
 
 # Communities
 ## Chats
@@ -317,6 +318,7 @@ invest in cryptocurrency.
 * [Microsoft BaaS](https://azure.microsoft.com/en-in/solutions/blockchain/) - Blockchain as Service (BaaS) from Microsoft Azure.
 * [CoinMarketCap](https://coinmarketcap.com/api/) - Powerful JSON API covering 1000+ coins. Limit: 1 request per 6 sec.
 * [CoinCap](https://github.com/CoinCapDev/CoinCap.io) - Simple and informative. Lots of altcoins. History data. No limits.
+* [ChangeNOW](https://changenow.io/api/docs) - Easy integration of the cryptocurrency exchange. Limitless and fast coin swaps free of custody. 
 ## Other
 * [Bitpay](https://bitpay.com/) - Use BitPay's retail, ecommerce, billing, and donation tools to accept payments.
 * [Gekko](https://github.com/askmike/gekko) - Free and open source trading bot. GUI, CLI, NodeJS, nice docs. 18 exchanges (including Bitfinex, Bitstamp and Poloniex).
