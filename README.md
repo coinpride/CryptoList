@@ -326,6 +326,7 @@ invest in cryptocurrency.
 * [CCXT](https://github.com/ccxt/ccxt) - JS/Python / PHP library for cryptocurrency trading and e-commerce with support for many exchanges and merchant APIs.
 * [QuikNode](http://quiknode.io/) - Cloud-hosted Ethereum nodes for developers and investors.
 * [Consensys Academy](https://consensys.net/academy/resources/) - Getting started resources by Consensys.
+* [Portis](https://portis.io/) - JavaScript SDK that lets people run your Ethereum DApp in the browser, using the same account on all their devices.
 
 # Podcasts
 * [Bitcoin Knowledge](http://www.bitcoin.kn/) - Learn about blockchain and fintech.
