@@ -262,6 +262,8 @@ watch.
 * [Ethplorer](https://ethplorer.io) - Block explorer and analytics platform for Ethereum.
 * [EtherChain](https://etherchain.org) - Ethereum Blockchain Explorer.
 * [Trivial.co](https://trivial.co) - Network explorer and analytics platform for Ethereum and ERC-20 tokens.
+* [Cryptocurrency Alerting](https://cryptocurrencyalerting.com/) - Set alerts on important crypto metrics.  Track new coin listings, price alerts, wallet transactions, and network health.
+
 # Video
 ## YouTube Channels
 * [The Cryptoverse](https://www.youtube.com/channel/UCLnQ34ZBSjy2JQjeRudFEDw) - Your cryptocurrency news dose.
