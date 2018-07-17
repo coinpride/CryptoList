@@ -240,6 +240,7 @@ watch.
 * [CoinTracker](https://www.cointracker.io) - Cryptocurrency asset tracker that automatically pulls all balances and transactions from exchanges and cryptocurrency wallets.
 * [Coin Beat](http://www.coinbeatapp.com/) - Crypto tracker for managing over 1300 crypto currencies. Get instant push notification on price activity. iOS and Android.
 * [Coinport](http://www.coinport.info) - Minimal crypto price and portfolio app for iOS. Support 32 fiat currencies. iCloud backup. Price charts and more.
+* [Stakestrategy](https://stakestrategy.com) - Share your crypto portfolio and find the portfolios from others. Portfolios are ranked by a calculated reputation based on achieved results.
 
 # Useful Tools
 * [OpenCrypto ✨](https://opencrypto.space/) - Marketplace of rare cryptocurrency domains, websites and social profiles.
