@@ -313,6 +313,7 @@ invest in cryptocurrency.
 * [Bitcoin Forks](http://mapofcoins.com/bitcoin) - All bitcoin forks visualisation.
 * [Coin Demo](https://coindemo.io) - Visual demonstration of how bitcoin transactions work.
 * [Rhymes With Fiat](https://www.rhymeswithfiat.com) - Bitcoin webcomic (with educational notes).
+* [Bitcoin Debit Cards](https://coinvigilance.com/bitcoin-debit-cards-prepaid-visa-and-mastercard-comparison/) - Crowd-sourced and crowd-verified list of all Bitcoin debit card providers, their terms and availability.
 # For Developers
 ## API
 * [Shapeshift](https://info.shapeshift.io/api) - Embed exchange in your app. Trusted by hundreds of apps.
