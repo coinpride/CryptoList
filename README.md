@@ -366,7 +366,7 @@ invest in cryptocurrency.
 
 [<img src="https://raw.githubusercontent.com/coinpride/CryptoList/master/sponsors/findbitcoinatm_sponsor_logo.png?sanitize=true">](https://www.findbitcoinatm.com.au/)
 
-[<img height="70" src="https://raw.githubusercontent.com/coinpride/CryptoList/master/sponsors/crypto_weekly.png">](https://cryptoweekly.co/list/?ref=coinpride)
+[<img height="70" src="https://raw.githubusercontent.com/coinpride/CryptoList/master/sponsors/crypto_weekly_list.png">](https://cryptoweekly.co/list/?ref=coinpride)
 
 # Contribute
 Found a nice link? Noticed a bug? Feel free to contribute! You are so much welcome! But read the [CONTRIBUTING.md](https://github.com/coinpride/CryptoList/blob/master/CONTRIBUTING.md) first.
