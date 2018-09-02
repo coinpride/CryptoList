@@ -164,6 +164,7 @@ CryptoList is supported by [OpenCrypto](https://opencrypto.space/) - the marketp
 * [DDEX](https://www.ddex.io/) - Decentralized, non-custodial token to token trading powered by 0xproject and Hydro.
 * [EtherDelta](https://www.etherdelta.com/) - One of the earliest and still most popular decentralized exchanges.
 * [ChangeNOW](https://changenow.io/) - Limitless and fast coin swaps free of custody.
+* [Exchangify](https://exchangify.io/) - Cryptocurrency exchange comparator for traders and investors.
 
 # Communities
 ## Chats
