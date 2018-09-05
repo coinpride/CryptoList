@@ -116,6 +116,7 @@ CryptoList is supported by [OpenCrypto](https://opencrypto.space/) - the marketp
 * [CoinMarketcap](https://coinmarketcap.com/) - Old and cool. All coins prices, graphs, market caps. API, widgets, tools. Used by 90M monthly users.
 * [Coincap](http://coincap.io/) - CoinCap tracks market data for hundreds of cryptocurrencies in real-time. They also have very useful mobile app.
 * [Cryptowatch](https://cryptowat.ch) - Live price charts and market data for Bitcoin, Ethereum, and more. Many exchanges, flexible settings and cool API.
+* [Cryptocurrency List](https://cryptocurrencylist.io/) - Real-time updates on 1500+ cryptocurrencies with price, price changes (1H, 24H, 7D), coin market cap, volume in the past 24H and available supply with price graphs for each cryptocurrency.
 * [Bfxdata](https://www.bfxdata.com/) - Charts and Stats for Bitfinex market data and margin funding.
 * [Bitcoinwisdom](https://bitcoinwisdom.com) - Live Bitcoin/Litecoin charts with EMA, MACD and other indicators. Support many exchanges (Bitfinex, Bitstamp, Coinbase, Bittrex, Poloniex etc).
 * [Flippening Watch](http://www.flippening.watch/) - When will Ethereum overtake Bitcoin and become the most important cryptocurrency?
