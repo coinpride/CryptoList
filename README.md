@@ -112,6 +112,7 @@ CryptoList is supported by [OpenCrypto](https://opencrypto.space/) - the marketp
 * [CryptoFlash.io](https://cryptoflash.io) - Top 200+ cryptocurrencies news & rumors in real time!
 
 # Price Trackers
+* [CoinData](https://CoinData.co.za) - An alternative to coinmarketcap. A no bells and whistles layout approach for quick navigation. Also features a portfolio tracker and customized alerts.
 * [Altcoins Racing](https://altcoins.racing/) - Altcoins Racing shows the price change winners and losers.
 * [CoinMarketcap](https://coinmarketcap.com/) - Old and cool. All coins prices, graphs, market caps. API, widgets, tools. Used by 90M monthly users.
 * [Coincap](http://coincap.io/) - CoinCap tracks market data for hundreds of cryptocurrencies in real-time. They also have very useful mobile app.
