@@ -208,7 +208,7 @@ CryptoList is supported by [OpenCrypto](https://opencrypto.space/) - the marketp
 
 # Wallets
 * [Bitcoin Core](https://bitcoin.org/en/download) - Bitcoin Core is MIT licensed open source Bitcoin wallet. It runs own full node so 145GG of free disk space is required. OSX/Linux/Windows/Ubuntu.
-* [Blockchain.info](https://blockchain.info/wallet/#/) - World’s most popular digital wallet. Mobile apps included.
+* [Blockchain.com](https://www.blockchain.com/wallet) - World’s most popular digital wallet. Mobile apps included.
 * [Electrum](https://electrum.org/#home) - Thin Bitcoin client. Opensource, MIT, has 100+ contributors.
 * [Exodus](https://www.exodus.io) - Exodus is the first desktop multi-asset wallet with ShapeShift built in.
 * [MyEtherWallet](https://www.myetherwallet.com) - Opensource webapp to access Ethereum. Old and reliable. ERC20 support. Loved by phishers!
