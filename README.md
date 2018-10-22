@@ -110,6 +110,7 @@ CryptoList is supported by [OpenCrypto](https://opencrypto.space/) - the marketp
 * [BTCnews](https://itunes.apple.com/app/btcnews-bitcoin-cryptocurrency/id946903421) - Mature cryptocurrency news and charts app for iOS.
 * [CryptoAudio](http://cryptoaud.io) - A tool that creates news summaries from various sources and reads them using a text-to-speech technology.
 * [CryptoFlash.io](https://cryptoflash.io) - Top 200+ cryptocurrencies news & rumors in real time!
+* [BitcoinNEWS.blog](https://bitcoinnews.blog) - Crypto-news aggregator, information about all cryptocurrencies, free publications for blockchain projects!
 
 # Price Trackers
 * [Altcoins Racing](https://altcoins.racing/) - Altcoins Racing shows the price change winners and losers.
