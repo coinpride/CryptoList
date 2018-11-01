@@ -359,7 +359,9 @@ invest in cryptocurrency.
 * [CoinHive](https://coinhive.com/) - Install JS miner on your website.
 * [bfgminer](https://github.com/luke-jr/bfgminer) - Multi-threaded miner for ASICs built in C.
 # Games
-* [CryptoKitties](https://www.cryptokitties.co/) - Collect, breed and trade rare kitties in one of the world's first blockchain games. 
+* [CryptoKitties](https://www.cryptokitties.co/) - Collect, breed and trade rare kitties in one of the world's first blockchain games.
+* [Spells of Genesis](https://spellsofgenesis.com/) - Launched in 2014, Spells of Genesis is the original crypto card trading game.
+* [Bitcorn Crops](https://bitcorns.com/) - Blockchain farming game that combines aspects of idle games, strategy games, and collecting.
 # Sponsors
 [<img src="https://raw.githubusercontent.com/coinpride/CryptoList/master/sponsors/opencrypto_sponsor.png?sanitize=true">](https://opencrypto.space/)
 
