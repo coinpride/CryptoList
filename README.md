@@ -157,6 +157,7 @@ CryptoList is supported by [OpenCrypto](https://opencrypto.space/) - the marketp
 * [BestBitcoinExchange](https://www.bestbitcoinexchange.io/) - Curated list of 35 popular exchanges. Looks SEOish but does the job well.
 * [Shapeshift](https://shapeshift.io) - No login, fast, awesome API.
 * [Changelly](https://changelly.com/) - Fiat, nice affiliate program.
+* [BittyBot](https://bittybot.co/) - Impartial bitcoin (BTC) price comparison website (compares > 85 websites).
 * [Cryptoradar](https://cryptoradar.co) - Compares prices and features from > 25 exchanges and brokers.
 * [Binance](https://www.binance.com) - Modern exchange with the lowest fees and it's own token.
 * [Kucoin](https://www.kucoin.com) - Modern. Evolving really fast. Has it's own token.
