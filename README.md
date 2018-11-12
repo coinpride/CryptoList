@@ -192,6 +192,7 @@ CryptoList is supported by [OpenCrypto](https://opencrypto.space/) - the marketp
 * [/r/Bitcoin/](https://www.reddit.com/r/Bitcoin/) - Discuss Bitcoin news on Reddit. 300,000+ readers.
 * [Steemit](https://steemit.com) - Fancy Reddit running on a blockchain. Post to earn $. Spend $ to promote yourself.
 * [Coinvision](https://coinvision.co/) - Get alerts about the most credible crypto coins and ICOs and also access private great community.
+* [Coinformant.com](https://coinformant.com/) - Community rated cryoptocurrency products, tools, icos, exchanges, and resources. Features "Best of Cryptocurrency" yearly awards.
 ## Twitter Users and Lists
 * [Quality Crypto](https://twitter.com/followingell/lists/quality-crypto) - List of >50 prominent, high signal-to-noise-ratio accounts.
 
