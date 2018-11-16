@@ -369,6 +369,8 @@ invest in cryptocurrency.
 
 [<img height="70" src="https://raw.githubusercontent.com/coinpride/CryptoList/master/sponsors/crypto_weekly_list.png">](https://cryptoweekly.co/list/?ref=coinpride)
 
+[<img width="240" src="https://raw.githubusercontent.com/coinpride/CryptoList/master/sponsors/quadency.jpg">](https://quadency.com/?utm_source=GitHubCL&utm_medium=Sponsorship&utm_campaign=CryptoList)
+
 # Contribute
 Found a nice link? Noticed a bug? Feel free to contribute! You are so much welcome! But read the [CONTRIBUTING.md](https://github.com/coinpride/CryptoList/blob/master/CONTRIBUTING.md) first.
 # License
