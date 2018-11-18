@@ -41,6 +41,7 @@ CryptoList is supported by [OpenCrypto](https://opencrypto.space/) - the marketp
   - [Books](#books)
   - [Courses](#courses)
   - [Other](#other)
+- [Trading Tools](#trading-tools)
 - [For Developers](#for-developers)
   - [API](#api)
   - [Other](#other)
