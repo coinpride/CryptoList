@@ -315,6 +315,8 @@ invest in cryptocurrency.
 * [Coin Demo](https://coindemo.io) - Visual demonstration of how bitcoin transactions work.
 * [Rhymes With Fiat](https://www.rhymeswithfiat.com) - Bitcoin webcomic (with educational notes).
 * [Whitepaper.io](https://whitepaper.io) - All whitepapers in one place.
+# Trading Tools
+* [Quadency](https://quadency.com) - Crypto trading and real-time portfolio analytics.
 # For Developers
 ## API
 * [Shapeshift](https://info.shapeshift.io/api) - Embed exchange in your app. Trusted by hundreds of apps.
