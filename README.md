@@ -133,6 +133,7 @@ CryptoList is supported by [OpenCrypto](https://opencrypto.space/) - the marketp
 * [MoonHash](https://chrome.google.com/webstore/detail/%E2%97%90-moonhash-crypto-portfol/clbooohlcomlhgkfencdenfiadhkefff?hl=en-US) - Cryptocurrency portfolio, price monitoring and telegram monitoring Google Chrome Extension
 * [Coincall](https://coincall.io) - Simplest web-based crypto price and portfolio tracker.
 * [Owl Crypto](https://owlcrypto.com) - Cryptocurrency percentage change monitor.
+* [CoinGecko](https://www.coingecko.com/) - Prices and information of thousands of cryptocurrencies - Market caps, Graphs, API and Widgets.
 
 # ICO Trackers
 * [ICOtracker](https://icotracker.net) - Very informative and trusted tracker.
