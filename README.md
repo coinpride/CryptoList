@@ -330,6 +330,7 @@ invest in cryptocurrency.
 * [CoinCap](https://github.com/CoinCapDev/CoinCap.io) - Simple and informative. Lots of altcoins. History data. No limits.
 * [ChangeNOW](https://changenow.io/api/docs) - Easy integration of the cryptocurrency exchange. Limitless and fast coin swaps free of custody. 
 ## Other
+* [Apirone](https://apirone.com/) - Bitcoin payment Gateway, ecommerce, RestAPI ro accept payments. Blockchain Explorer with SegWit.
 * [Bitpay](https://bitpay.com/) - Use BitPay's retail, ecommerce, billing, and donation tools to accept payments.
 * [Gekko](https://github.com/askmike/gekko) - Free and open source trading bot. GUI, CLI, NodeJS, nice docs. 18 exchanges (including Bitfinex, Bitstamp and Poloniex).
 * [Zenbot](https://github.com/carlos8f/zenbot) - Free and open source trading bot. CLI, NodeJS. GDAX, Poloniex, Kraken, Bittrex, Quadriga and Gemini.
