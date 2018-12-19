@@ -362,6 +362,7 @@ invest in cryptocurrency.
 * [WhatIsMyHashRate?](http://www.whatismyhashrate.com/) - Measure your browser's hashrate.
 * [CoinHive](https://coinhive.com/) - Install JS miner on your website.
 * [bfgminer](https://github.com/luke-jr/bfgminer) - Multi-threaded miner for ASICs built in C.
+* [Mining Pool Review](https://miningpool.review) - Find mining pools based on user reviews, location, fee and supported coin(s) or mining algorithm(s).
 # Games
 * [CryptoKitties](https://www.cryptokitties.co/) - Collect, breed and trade rare kitties in one of the world's first blockchain games. 
 # Sponsors
