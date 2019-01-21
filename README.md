@@ -303,7 +303,7 @@ invest in cryptocurrency.
 * [Khan's Academy Course](https://www.khanacademy.org/economics-finance-domain/core-finance/money-and-banking/bitcoin/v/bitcoin-what-is-it) - The very basics of how blockchain, Bitcoin and encryption works.
 * [Pluralsight Course](https://www.pluralsight.com/courses/bitcoin-decentralized-technology) - Introduction to Bitcoin and decentralized technology for beginners.
 * [University of Nicosia MOOC](https://digitalcurrency.unic.ac.cy/free-introductory-mooc/) - University of Nicosia´s free MOOC (Massive Open Online Course) DFIN-511: Introduction to Digital Currencies.
-* [Ethereum Dapps In Motion: Build a decentralized exchange for ERC20 tokens  with Solidity](https://www.manning.com/livevideo/ethereum-dapps-in-motion)
+* [Ethereum Dapps In Motion](https://www.manning.com/livevideo/ethereum-dapps-in-motion) - Build a decentralized exchange for ERC20 tokens with Solidity
 
 ## Other
 * [CoinPride Newsletter](https://club.coinpride.com) - The most important crypto news and events. One handcrafted email per week.
