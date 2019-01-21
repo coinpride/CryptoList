@@ -285,6 +285,7 @@ invest in cryptocurrency.
 * [BiteSizeBitcoin](https://www.youtube.com/channel/UCnePINazJJpbn9FWaq_skQA/featured) - Great beginner guides. Trading and investing advices, podcasts and meetups.
 * [Decentralized TV](https://www.youtube.com/channel/UCueLJ4vLHTwMpYILmdBjRlg) - Blockchain, Bitcoin, and Cryptocurrency News, Culture, and Entertainment.
 * [Crypto Daily](https://www.youtube.com/channel/UC67AEEecqFEc92nVvcqKdhA/) - Crypto news on (mostly) daily basis.
+* [EatTheBlocks](https://www.youtube.com/c/eattheblocks) - Developer tutorials for Solidity smart contracts & Ethereum Dapps + Weekly newsletter on recent news for Ethereum developers
 
 ## Movies
 * [Ulterior States](http://www.iamsatoshi.com/) - Real-life conversations with some thought leaders within the Bitcoin ecosystem. The film took 3 years to complete.
