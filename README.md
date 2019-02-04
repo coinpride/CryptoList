@@ -3,10 +3,11 @@ Curated collection of blockchain &amp; cryptocurrency links.
 
 [<img src="https://github.com/coinpride/CryptoList/blob/master/cryptolist_logo.png?raw=true" width="500">](https://github.com/coinpride/CryptoList)
 
-# Grand Sponsor
-CryptoList is supported by [OpenCrypto](https://opencrypto.space/) - the marketplace of cryptocurrency domains, websites and social profiles. Buy and sell rare items for free.
+# Sponsors and Backers
+CryptoList is maintained by enthusiasts.
+Support the project by making an [Open Collective](https://opencollective.com/cryptolist) donation.
 
-[<img src="https://github.com/coinpride/CryptoList/blob/master/sponsors/opencrypto.png?raw=true" width="450">](https://opencrypto.space/)
+[<img src="https://github.com/coinpride/CryptoList/blob/master/sponsors/opencollective2.png?raw=true" width="416">](https://opencollective.com/cryptolist)
 
 # Contents
 - [Media](#media)
