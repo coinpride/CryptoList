@@ -229,6 +229,7 @@ Support the project by making an [Open Collective](https://opencollective.com/cr
 * [BitWorth](http://www.bitworth.io/) - Cryptocurrency Net Worth Tracker for iOS.
 * [CoinDex](https://coindexapp.com) - iOS app that lets you stay up to date with the cryptocurrency markets you want to
 watch.
+* [Coin Market Manager](https://www.coinmarketman.com) - Smart, accurate, Portfolio tracking. Realtime Breakeven and Profit Loss features.
 * [Delta](https://getdelta.io/) -  Ultimate cryptocurrency portfolio tracker tool for iOS & Android.
 * [Crypto Central](https://cryptocentral.ai) - Bitcoin & cryptocurrency portfolio tracker for iOS/Android.
 * [Cryptagon](https://cryptagon.io) - Powerful app to track portfolio. Automatic imports from exchanges.
