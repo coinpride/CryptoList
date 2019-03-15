@@ -160,6 +160,7 @@ Support the project by making an [Open Collective](https://opencollective.com/cr
 * [DDEX](https://www.ddex.io/) - Decentralized, non-custodial token to token trading powered by 0xproject and Hydro.
 * [EtherDelta](https://www.etherdelta.com/) - One of the earliest and still most popular decentralized exchanges.
 * [ChangeNOW](https://changenow.io/) - Limitless and fast coin swaps free of custody.
+* [XCH4NGE] (https://www.xch4nge.com) - Fiat to Crypto Made Easy. P2P platform that supports GBP pairs for BTC, XRP, LTC, BCH, & ETH.
 
 # Communities
 ## Chats
