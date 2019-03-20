@@ -219,6 +219,7 @@ Support the project by making an [Open Collective](https://opencollective.com/cr
 * [WalletList](https://walletlist.me) - Showcase your public cryptocurrency addresses.
 * [WalletGenerator.net](https://walletgenerator.net) - Universal JavaScript client-side wallet generator for 100+ coins.
 * [Wallt](http://wallt.co) - Create a shareable list of your cryptocurrency addresses.
+* [Berrywallet](https://berrywallet.io) - Safe multi-wallet with smart & intuitive UI/UX. Supports BTC/ETH/LTC/DASH. Open source.
 
 # Altfolio
 * [Blockfolio](https://www.blockfolio.com/) - Cryptocurrency management, with easy to use tools to keep track of all your cryptocurrency investments. Nice widgets. Simple. Android/iOS.
