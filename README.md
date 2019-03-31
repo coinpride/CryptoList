@@ -360,11 +360,11 @@ invest in cryptocurrency.
 # Games
 * [CryptoKitties](https://www.cryptokitties.co/) - Collect, breed and trade rare kitties in one of the world's first blockchain games. 
 # Sponsors
-[<img src="https://raw.githubusercontent.com/coinpride/CryptoList/master/sponsors/opencrypto_sponsor.png?sanitize=true">](https://opencrypto.space/)
+[<img src="https://raw.githubusercontent.com/coinpride/CryptoList/master/sponsors/opencrypto_sponsor.png">](https://opencrypto.space/)
 
 [<img src="https://raw.githubusercontent.com/coinpride/CryptoList/master/sponsors/coinpride.svg?sanitize=true">](https://coinpride.com)
 
-[<img src="https://raw.githubusercontent.com/coinpride/CryptoList/master/sponsors/findbitcoinatm_sponsor_logo.png?sanitize=true">](https://www.findbitcoinatm.com.au/)
+[<img src="https://raw.githubusercontent.com/coinpride/CryptoList/master/sponsors/findbitcoinatm_sponsor_logo.png">](https://www.findbitcoinatm.com.au/)
 
 [<img height="70" src="https://raw.githubusercontent.com/coinpride/CryptoList/master/sponsors/crypto_weekly_list.png">](https://cryptoweekly.co/list/?ref=coinpride)
 
