@@ -223,6 +223,7 @@ Support the project by making an [Open Collective](https://opencollective.com/cr
 
 # Altfolio
 * [Blockfolio](https://www.blockfolio.com/) - Cryptocurrency management, with easy to use tools to keep track of all your cryptocurrency investments. Nice widgets. Simple. Android/iOS.
+* [BitcoinCrazYness](http://www.bitcoincrazyness.com/) - Advanced alerting and portfolio app. Alert on price, market cap, and volume. Alert on MACD/RSI. Interactive charts with advanced indicators. Coin query. Portfolio and true gain/loss calculation. 
 * [ACrypto](https://dworks.in/acrypto) - Track bitcoin and altcoins prices, custom alarms, detailed charts. Flexible, many settings, informative. Available for iOS & Android.
 * [Altpocket](http://www.altpocket.io) - The only tool you need for showcasing, tracking and sharing your cryptocurrency investments.
 * [Coinfyi](https://coin.fyi) - Track your performance, news & market signals related to your cryptocurrency investments. Anonymous. Simple. Free.
