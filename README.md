@@ -69,7 +69,6 @@ Support the project by making an [Open Collective](https://opencollective.com/cr
 * [Bitfalls](https://bitfalls.com) - Technical news, solidity tutorials, and skeptical research. EN and HR languages.
 * [What Bitcoin Did](https://www.whatbitcoindid.com/) - Blog of accidental Bitcoin and Cryptocurrency investor, miner, blogger and podcaster.
 * [CryptoGround](https://www.cryptoground.com) - Get latest news related to Bitcoin, Ethereum and other cryptocurrencies.
-* [Why Bitcoin Matters](https://hackernoon.com/why-bitcoin-matters-c8bf733b9fad) - Why bitcoin matters, it's more important than you think
 
 ## Medium
 * [Vitalik Buterin](https://medium.com/@VitalikButerin) - Ethereum creator, cryptocurrency evangelist.
@@ -85,6 +84,7 @@ Support the project by making an [Open Collective](https://opencollective.com/cr
 * [Fred Ehrsam](https://medium.com/@FEhrsam) - Previously co-founder @Coinbase, trader @GoldmanSachs, computer science @DukeU.
 * [Token Economy](https://tokeneconomy.co/) - Making sense of the latest in crypto-land: cryptocurrencies, blockchains, ICOs, dapps & the growing token economy.
 * [The Midas Guide](https://medium.com/the-midas-guide) - Blockchain & crypto original researches.
+* [Aleks Svetski](https://medium.com/@AleksandarSvetski) - Bitcoin, Money, Philosophy, Business, Startups & Entrepreneurship. 
 
 ## Telegram Channels
 * [Crypto Memes](https://t.me/join_cryptomemes) - Cryptoworld funny pictures.
