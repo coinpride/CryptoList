@@ -73,8 +73,8 @@ Support the project by making an [Open Collective](https://opencollective.com/cr
 - [Bitrazzi](https://bitrazzi.com/) - Bitcoin, Cryptocurrency And Blockchain News.
 - [Bitfalls](https://bitfalls.com) - Technical news, solidity tutorials, and skeptical research. EN and HR languages.
 - [What Bitcoin Did](https://www.whatbitcoindid.com/) - Blog of accidental Bitcoin and Cryptocurrency investor, miner, blogger and podcaster.
-- [CryptoGround](https://www.cryptoground.com) - Get latest news related to Bitcoin, Ethereum and other cryptocurrencies.
-- [Bitcoin Times](https://github.com/coinpride/CryptoList) - Publication dedicated to Bitcoin, as a concept and as a monetary phenomenon.
+- [CryptoGround](https://www.cryptoground.com) - Get latest news related to Bitcoin, Ethereum and other cryptocurrencies.ß
+- [Bitcoin Times](https://bitcointimes.news/) - Publication dedicated to Bitcoin, as a concept and as a monetary phenomenon.
 
 ## Medium
 
