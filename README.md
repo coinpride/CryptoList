@@ -105,6 +105,7 @@ Support the project by making an [Open Collective](https://opencollective.com/cr
 * [CryptoAudio](http://cryptoaud.io) - A tool that creates news summaries from various sources and reads them using a text-to-speech technology.
 * [CryptoFlash.io](https://cryptoflash.io) - Top 200+ cryptocurrencies news & rumors in real time!
 * [AmuletPlatform](https://amuletplatform.com/data/coin/1211) - Real-time sentiment analysis of 24M+ posts about crypto from Reddit and Bitcointalk
+* [InTokenWeTrust](https://intwt.com/) - News aggregator platform with all media and blogs about cryptocurrency.
 
 # Price Trackers
 * [Altcoins Racing](https://altcoins.racing/) - Altcoins Racing shows the price change winners and losers.
