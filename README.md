@@ -317,6 +317,7 @@ invest in cryptocurrency.
 * [Quadency](https://quadency.com) - Crypto trading and real-time portfolio analytics.
 # For Developers
 ## API
+* [CCXT-REST](https://ccxt-rest.io) - Open Source Unified REST API of 100+ Crypto Exchange Sites. Built-on top of the powerful [ccxt](https://ccxt.trade) open source project. Available as docker image or a standalone node service.
 * [Shapeshift](https://info.shapeshift.io/api) - Embed exchange in your app. Trusted by hundreds of apps.
 * [Bittrex](https://bittrex.com/home/api) - Almighty API. You can do anything with it.
 * [Poloniex](https://poloniex.com/support/api/) - The biggest exchange API. PHP and Python wrapper.
