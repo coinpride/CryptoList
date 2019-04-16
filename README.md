@@ -84,6 +84,7 @@ Support the project by making an [Open Collective](https://opencollective.com/cr
 * [Fred Ehrsam](https://medium.com/@FEhrsam) - Previously co-founder @Coinbase, trader @GoldmanSachs, computer science @DukeU.
 * [Token Economy](https://tokeneconomy.co/) - Making sense of the latest in crypto-land: cryptocurrencies, blockchains, ICOs, dapps & the growing token economy.
 * [The Midas Guide](https://medium.com/the-midas-guide) - Blockchain & crypto original researches.
+* [Aleks Svetski](https://medium.com/@AleksandarSvetski) - Bitcoin, Money, Philosophy, Business, Startups & Entrepreneurship. 
 
 ## Telegram Channels
 * [Crypto Memes](https://t.me/join_cryptomemes) - Cryptoworld funny pictures.
