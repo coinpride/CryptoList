@@ -162,6 +162,7 @@ Support the project by making an [Open Collective](https://opencollective.com/cr
 * [DDEX](https://www.ddex.io/) - Decentralized, non-custodial token to token trading powered by 0xproject and Hydro.
 * [EtherDelta](https://www.etherdelta.com/) - One of the earliest and still most popular decentralized exchanges.
 * [ChangeNOW](https://changenow.io/) - Limitless and fast coin swaps free of custody.
+* [n.exchange](https://n.exchange/) - Open source non-custodial exchange with fiat, a great API and a non-custodial cross chain order book.
 
 # Communities
 ## Chats
