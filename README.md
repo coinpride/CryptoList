@@ -325,6 +325,7 @@ invest in cryptocurrency.
 * [CoinMarketCap](https://coinmarketcap.com/api/) - Powerful JSON API covering 1000+ coins. Limit: 1 request per 6 sec.
 * [CoinCap](https://github.com/CoinCapDev/CoinCap.io) - Simple and informative. Lots of altcoins. History data. No limits.
 * [ChangeNOW](https://changenow.io/api/docs) - Easy integration of the cryptocurrency exchange. Limitless and fast coin swaps free of custody. 
+* [BlockMarkets](https://www.blockmarkets.io) - Institutional-grade cryptocurrency market data API. Real-time and historical data. Fast, reliable and accurate.
 ## Other
 * [Bitpay](https://bitpay.com/) - Use BitPay's retail, ecommerce, billing, and donation tools to accept payments.
 * [Gekko](https://github.com/askmike/gekko) - Free and open source trading bot. GUI, CLI, NodeJS, nice docs. 18 exchanges (including Bitfinex, Bitstamp and Poloniex).
