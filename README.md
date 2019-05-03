@@ -205,8 +205,8 @@ Support the project by making an [Open Collective](https://opencollective.com/cr
 * [Jobs by BlockRepublic](http://blockrepublic.io/blockchain-jobs/) - Useful filters, locations & categories.
 * [Crypto Jobs List](https://cryptojobslist.com/) - Curated jobs from top verified blockchain companies.
 
-
 # Wallets
+* [Badger Wallet](https://badger.bitcoin.com/) - Browser based secure wallet & payment platform that supports BCH and SLP tokens.
 * [Bitcoin Core](https://bitcoin.org/en/download) - Bitcoin Core is MIT licensed open source Bitcoin wallet. It runs own full node so 145GG of free disk space is required. OSX/Linux/Windows/Ubuntu.
 * [Blockchain.info](https://blockchain.info/wallet/#/) - World’s most popular digital wallet. Mobile apps included.
 * [Electrum](https://electrum.org/#home) - Thin Bitcoin client. Opensource, MIT, has 100+ contributors.
