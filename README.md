@@ -213,6 +213,7 @@ Support the project by making an [Open Collective](https://opencollective.com/cr
 * [Exodus](https://www.exodus.io) - Exodus is the first desktop multi-asset wallet with ShapeShift built in.
 * [MyEtherWallet](https://www.myetherwallet.com) - Opensource webapp to access Ethereum. Old and reliable. ERC20 support. Loved by phishers!
 * [Coinomi](https://coinomi.com/) - Supports many altcoins, fast and has perfect UI ([closed source now](https://github.com/bitcoin-dot-org/bitcoin.org/issues/1622)).
+* [Crescent Cash](https://crescent.cash/) - Mobile Android wallet for Bitcoin Cash with support for SLP tokens.
 * [Jaxx](https://jaxx.io) - Reliable, Jaxx supports many of the leading cryptocurrency platforms. Crossplatform.
 * [Ledger Hardware](https://www.ledgerwallet.com) - Reliable hardware wallet. Supports BTC/ETH/ETC/DASH/DOGE and many more coins and ERC20 tokens.
 * [Trezor Hardware](https://trezor.io) - The first & most secure hardware wallet. Supports BTC/ETH/ETC/DASH/ and many more coins and ERC20 tokens.
