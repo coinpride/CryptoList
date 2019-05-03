@@ -188,6 +188,7 @@ Support the project by making an [Open Collective](https://opencollective.com/cr
 * [Trading View](https://www.tradingview.com/u/DLavrov/) - Follow pro traders and learn from their analyzes. (Mr. Lavrov is great specialist).
 * [Bitcoin on StackExchange](https://bitcoin.stackexchange.com/) - Question and answer site for Bitcoin crypto-currency enthusiasts.
 * [/r/Bitcoin/](https://www.reddit.com/r/Bitcoin/) - Discuss Bitcoin news on Reddit. 300,000+ readers.
+* [/r/btc](https://www.reddit.com/r/btc) - uncensored platform to discuss Bitcoin and it's various forks 250,000+ members
 * [Steemit](https://steemit.com) - Fancy Reddit running on a blockchain. Post to earn $. Spend $ to promote yourself.
 * [Coinvision](https://coinvision.co/) - Get alerts about the most credible crypto coins and ICOs and also access private great community.
 ## Twitter Users and Lists
