@@ -242,6 +242,7 @@ watch.
 * [Coinport](http://www.coinport.info) - Minimal crypto price and portfolio app for iOS. Support 32 fiat currencies. iCloud backup. Price charts and more.
 
 # Useful Tools
+* [AllPrivateKeys.com](https://allprivatekeys.com/whose-bitcoin-address.php) - Find address owner, mentions about Bitcoin address on the Internet, forums, scam alerts, and other metadata. Leaked private keys and some fun.
 * [OpenCrypto ✨](https://opencrypto.space/) - Marketplace of rare cryptocurrency domains, websites and social profiles.
 * [QR Code Generator](https://bitcoinqrcodegenerator.win/) - With this free tool you can instantly generate QR code for your Bitcoin/Litecoin/Ethereum/Dogecoin address.
 * [Block Explorer](https://tradeblock.com/bitcoin/) - Discover the Bitcoin blockchain blocks online. Includes fees and miners information.
