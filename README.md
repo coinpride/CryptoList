@@ -166,7 +166,7 @@ Support the project by making an [Open Collective](https://opencollective.com/cr
 
 # Communities
 ## Chats
-* [The Moon Trollbox](https://t.me/join_trollbox) - Hot news discussions, rumors and friendly talks. No cersorship.
+* [The Moon Trollbox](https://t.me/join_trollbox) - Hot news discussions, rumors and friendly talks. No censorship.
 * [The CHT Community](https://t.me/join_cht) - Official CryptoHackers Telegram chat. The place to talk to founders of your favourite crypto startups & apps.
 * [Crypto Aquarium](https://cryptoaquarium.com) - Great community (Telegram, Slack). Curated by Joshua Petty, the Coindex creator. 800+ members.
 * [Bitpam](https://discordapp.com/invite/VpPrGmF?ref=cryptominded) - Friendly Discord community. 300+ members.
