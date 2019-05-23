@@ -99,7 +99,11 @@ Support the project by making an [Open Collective](https://opencollective.com/cr
 * [CoinsCalendar](http://www.coinscalendar.com/) - CoinsCalendar displays all upcoming coins events and updates.
 * [CoinDar](https://coindar.org/) - Be first to know about coming cryptocurrency news, updates, hard forks, meetups, coins listing on exchanges and other important events.
 * [BTCnews](https://itunes.apple.com/app/btcnews-bitcoin-cryptocurrency/id946903421) - Mature cryptocurrency news and charts app for iOS.
+* [CryptoAudio](http://cryptoaud.io) - A tool that creates news summaries from various sources and reads them using a text-to-speech technology.
+* [CryptoFlash.io](https://cryptoflash.io) - Top 200+ cryptocurrencies news & rumors in real time!
 * [AmuletPlatform](https://amuletplatform.com/data/) - Real-time sentiment analysis of 24M+ posts about crypto from Reddit and Bitcointalk
+* [InTokenWeTrust](https://intwt.com/) - News aggregator platform with all media and blogs about cryptocurrency.
+
 
 # Price Trackers
 * [CoinMarketcap](https://coinmarketcap.com/) - Old and cool. All coins prices, graphs, market caps. API, widgets, tools. Used by 90M monthly users.
@@ -119,6 +123,7 @@ Support the project by making an [Open Collective](https://opencollective.com/cr
 * [MoonHash](https://chrome.google.com/webstore/detail/%E2%97%90-moonhash-crypto-portfol/clbooohlcomlhgkfencdenfiadhkefff?hl=en-US) - Cryptocurrency portfolio, price monitoring and telegram monitoring Google Chrome Extension
 * [Coincall](https://coincall.io) - Simplest web-based crypto price and portfolio tracker.
 * [Owl Crypto](https://owlcrypto.com) - Cryptocurrency percentage change monitor.
+* [Coin Market Manager](https://www.coinmarketman.com) - Smart, accurate, Portfolio tracking. Realtime Breakeven and Profit Loss features.
 
 # ICO Trackers
 * [ICOtracker](https://icotracker.net) - Very informative and trusted tracker.
@@ -153,6 +158,7 @@ Support the project by making an [Open Collective](https://opencollective.com/cr
 * [DDEX](https://www.ddex.io/) - Decentralized, non-custodial token to token trading powered by 0xproject and Hydro.
 * [ForkDelta](https://forkdelta.app/) - One of the earliest and still most popular decentralized exchanges.
 * [ChangeNOW](https://changenow.io/) - Limitless and fast coin swaps free of custody.
+* [n.exchange](https://n.exchange/) - Open source non-custodial exchange with fiat, a great API and a non-custodial cross chain order book.
 
 # Communities
 ## Chats
@@ -352,11 +358,11 @@ Support the project by making an [Open Collective](https://opencollective.com/cr
 * [CryptoKitties](https://www.cryptokitties.co/) - Collect, breed and trade rare kitties in one of the world's first blockchain games.
 
 # Sponsors
-[<img src="https://raw.githubusercontent.com/coinpride/CryptoList/master/sponsors/opencrypto_sponsor.png?sanitize=true">](https://opencrypto.space/)
+[<img src="https://raw.githubusercontent.com/coinpride/CryptoList/master/sponsors/opencrypto_sponsor.png">](https://opencrypto.space/)
 
 [<img src="https://raw.githubusercontent.com/coinpride/CryptoList/master/sponsors/coinpride.svg?sanitize=true">](https://coinpride.com)
 
-[<img src="https://raw.githubusercontent.com/coinpride/CryptoList/master/sponsors/findbitcoinatm_sponsor_logo.png?sanitize=true">](https://www.findbitcoinatm.com.au/)
+[<img src="https://raw.githubusercontent.com/coinpride/CryptoList/master/sponsors/findbitcoinatm_sponsor_logo.png">](https://www.findbitcoinatm.com.au/)
 
 [<img height="70" src="https://raw.githubusercontent.com/coinpride/CryptoList/master/sponsors/crypto_weekly_list.png">](https://cryptoweekly.co/list/?ref=coinpride)
 
