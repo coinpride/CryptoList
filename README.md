@@ -253,6 +253,7 @@ Support the project by making an [Open Collective](https://opencollective.com/cr
 * [EtherChain](https://etherchain.org) - Ethereum Blockchain Explorer.
 * [Trivial.co](https://trivial.co) - Network explorer and analytics platform for Ethereum and ERC-20 tokens.
 * [HappyDApps](https://happydapps.net) - Web 3.0 browser compatibility check.
+* [Crypto Directory](https://crypthena.com) - The best Crypto Currency Directory at the moment. Browse through hundreds of resources and leave your reviews about them.
 
 # Video
 ## YouTube Channels
