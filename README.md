@@ -168,6 +168,7 @@ Support the project by making an [Open Collective](https://opencollective.com/cr
 * [Blockstack](https://docs.google.com/forms/d/e/1FAIpQLSed5Mnu0G5ZMJdWs6cTO_8sTJfUVfe1sYL6WFDcD51_XuQkZw/viewform) - Official Blockstack Slack community. 3000+ members.
 * [CryptoMinded](https://community.cryptominded.com/) - All things crypto: events, jobs, trades, news. 1000+ Slack members.
 * [IRC #bitcoin channel](https://webchat.freenode.net/?channels=bitcoin&uio=d4/) - Old good IRC. The channel of 200 silent people.
+* [DeFi](https://t.me/de_fi) - An Open Community of Decentralized Finance Platforms
 
 ## Forums
 * [CryptoHeresy ⚡️](https://cryptoheresy.com) - Fresh Bitcoin forum with focus on cryptocurrency tools and resources.
@@ -185,6 +186,7 @@ Support the project by making an [Open Collective](https://opencollective.com/cr
 * [/r/Bitcoin/](https://www.reddit.com/r/Bitcoin/) - Discuss Bitcoin news on Reddit. 300,000+ readers.
 * [Steemit](https://steemit.com) - Fancy Reddit running on a blockchain. Post to earn $. Spend $ to promote yourself.
 * [Coinvision](https://www.coinvision.co/) - Get alerts about the most credible crypto coins and ICOs and also access private great community.
+* [Defiprime](https://defiprime.com) - Curated list of best DeFi products. 
 
 ## Twitter Users and Lists
 * [Quality Crypto](https://twitter.com/followingell/lists/quality-crypto) - List of >50 prominent, high signal-to-noise-ratio accounts.
@@ -352,6 +354,7 @@ Support the project by making an [Open Collective](https://opencollective.com/cr
 * [WhatIsMyHashRate?](http://www.whatismyhashrate.com/) - Measure your browser's hashrate.
 * [CoinHive](https://coinhive.com/) - Install JS miner on your website.
 * [bfgminer](https://github.com/luke-jr/bfgminer) - Multi-threaded miner for ASICs built in C.
+* [2cryptocalc.com](http://2cryptocalc.com) - Mining profitability calculator for pool and solo mining. 
 
 # Games
 * [CryptoKitties](https://www.cryptokitties.co/) - Collect, breed and trade rare kitties in one of the world's first blockchain games.
