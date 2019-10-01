@@ -291,6 +291,7 @@ Support the project by making an [Open Collective](https://opencollective.com/cr
 * [Khan's Academy Course](https://www.khanacademy.org/economics-finance-domain/core-finance/money-and-banking/bitcoin/v/bitcoin-what-is-it) - The very basics of how blockchain, Bitcoin and encryption works.
 * [Pluralsight Course](https://www.pluralsight.com/courses/bitcoin-decentralized-technology) - Introduction to Bitcoin and decentralized technology for beginners.
 * [University of Nicosia MOOC](https://digitalcurrency.unic.ac.cy/free-introductory-mooc/) - University of Nicosia´s free MOOC (Massive Open Online Course) DFIN-511: Introduction to Digital Currencies.
+* [CryptoZombies](https://cryptozombies.io/) - Learn to Code Ethereum DApps By Building Your Own Game
 
 ## Other
 * [CoinPride Newsletter](https://coinpride.com/) - The most important crypto news and events. One handcrafted email per week.
