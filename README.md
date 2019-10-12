@@ -292,6 +292,10 @@ Support the project by making an [Open Collective](https://opencollective.com/cr
 * [Pluralsight Course](https://www.pluralsight.com/courses/bitcoin-decentralized-technology) - Introduction to Bitcoin and decentralized technology for beginners.
 * [University of Nicosia MOOC](https://digitalcurrency.unic.ac.cy/free-introductory-mooc/) - University of Nicosia´s free MOOC (Massive Open Online Course) DFIN-511: Introduction to Digital Currencies.
 
+## Conferences
+* [Decentralized](https://www.decentralized.com/) - The Premier Blockchain Conference in Europe.
+* [Consensus](https://www.coindesk.com/events/consensus-2020) - The annual gathering of the cryptocurrency and blockchain technology world.
+
 ## Other
 * [CoinPride Newsletter](https://coinpride.com/) - The most important crypto news and events. One handcrafted email per week.
 * [Bitcoin Wiki](https://en.bitcoin.it/wiki/Main_Page) - Technical specifications of the protocol as well as more basic information about how to buy, sell or use bitcoins.
