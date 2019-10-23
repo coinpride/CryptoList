@@ -308,6 +308,7 @@ Support the project by making an [Open Collective](https://opencollective.com/cr
 
 # Trading Tools
 * [Quadency](https://quadency.com) - Crypto trading and real-time portfolio analytics.
+* [Wall Of Traders](https://walloftraders.com) - 3 in 1 Free Smart Trading, Portfolio & Copy Trading.
 
 # For Developers
 ## API
