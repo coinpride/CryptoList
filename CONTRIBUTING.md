@@ -9,8 +9,9 @@ Please ensure your pull request adheres to the following guidelines:
 - Keep descriptions short and simple, but descriptive. Do not use the articles `a` and `an` in the descriptions.
 - End all descriptions with a full stop/period.
 - Add only the links you truly like.
-- New link are added below the existing.
+- New links are to be added below the existing.
 - Check your spelling and grammar.
 - Make sure your text editor is set to remove trailing whitespace.
+- No faucets, gambling and ponzi stuff.
 
-Thank you for your suggestions! 🎉
+Thank you for your suggestions! 
