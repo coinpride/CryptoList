@@ -248,6 +248,7 @@ Curated collection of blockchain &amp; cryptocurrency links.
 * [EtherChain](https://etherchain.org) - Ethereum Blockchain Explorer.
 * [Trivial.co](https://trivial.co) - Network explorer and analytics platform for Ethereum and ERC-20 tokens.
 * [HappyDApps](https://happydapps.net) - Web 3.0 browser compatibility check.
+* [Bitcoin Halving Dates](http://bitcoinhalvingdates.com/) - Bitcoin halving countdown timer.
 
 # Video
 ## YouTube Channels
