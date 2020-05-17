@@ -64,6 +64,7 @@ Curated collection of blockchain &amp; cryptocurrency links.
 * [Bitfalls](https://bitfalls.com) - Technical news, solidity tutorials, and skeptical research. EN and HR languages.
 * [What Bitcoin Did](https://www.whatbitcoindid.com/) - Blog of accidental Bitcoin and Cryptocurrency investor, miner, blogger and podcaster.
 * [CryptoGround](https://www.cryptoground.com) - Get latest news related to Bitcoin, Ethereum and other cryptocurrencies.
+* [CoinGrades](https://coingrades.us) - Professional Insights and Trusted Reviews of cryptocurrencies.
 
 ## Medium
 * [Vitalik Buterin](https://medium.com/@VitalikButerin) - Ethereum creator, cryptocurrency evangelist.
@@ -98,6 +99,7 @@ Curated collection of blockchain &amp; cryptocurrency links.
 * [CryptoFlash.io](https://cryptoflash.io) - Top 200+ cryptocurrencies news & rumors in real time!
 * [AmuletPlatform](https://amuletplatform.com/data/) - Real-time sentiment analysis of 24M+ posts about crypto from Reddit and Bitcointalk
 * [InTokenWeTrust](https://intwt.com/) - News aggregator platform with all media and blogs about cryptocurrency.
+* [The Crypto Paper](https://thecryptopaper.com/) - Simple and straightforward highlights of the most impactful news stories from the world of cryptocurrency, delivered weekly.
 
 
 # Price Trackers
