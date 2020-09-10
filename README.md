@@ -330,6 +330,7 @@ Curated collection of blockchain &amp; cryptocurrency links.
 * [QuikNode](https://quiknode.io/) - Cloud-hosted Ethereum nodes for developers and investors.
 * [Consensys Academy](https://consensys.net/academy/resources/) - Getting started resources by Consensys.
 * [Portis](https://portis.io/) - JavaScript SDK that lets people run your Ethereum DApp in the browser, using the same account on all their devices.
+* [Rivet](https://rivet.cloud/) - Ethereum and Ethereum Classic APIs as a service, powered by open source software.
 
 # Podcasts (Updated October, 2019)
 * [Epicenter](https://epicenter.tv/) - The Podcast at the Forefront of the Decentralized Technology Revolution.
