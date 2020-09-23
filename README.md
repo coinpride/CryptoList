@@ -289,6 +289,7 @@ Curated collection of blockchain &amp; cryptocurrency links.
 
 ## Other
 * [CoinPride Newsletter](https://coinpride.com/) - The most important crypto news and events. One handcrafted email per week.
+* [Cryptowiki](https://github.com/serejandmyself/cryptowiki/blob/master/cryptowiki.md) - A collection of useful crypto resources
 * [Bitcoin Wiki](https://en.bitcoin.it/wiki/Main_Page) - Technical specifications of the protocol as well as more basic information about how to buy, sell or use bitcoins.
 * [Blockchain Demo](https://blockchaindemo.io/) - This interactive demo will guide you through each component of blockchain step-by-step.
 * [MyCryptoGuide](https://mycrypto.guide/) - The guide is meant to serve as both easy-to-understand introduction to the world of cryptocurrencies.
@@ -331,10 +332,11 @@ Curated collection of blockchain &amp; cryptocurrency links.
 * [Consensys Academy](https://consensys.net/academy/resources/) - Getting started resources by Consensys.
 * [Portis](https://portis.io/) - JavaScript SDK that lets people run your Ethereum DApp in the browser, using the same account on all their devices.
 
-# Podcasts (Updated October, 2019)
+# Podcasts (Updated Septmeber, 2020)
 * [Epicenter](https://epicenter.tv/) - The Podcast at the Forefront of the Decentralized Technology Revolution.
 * [Bitcoin Knowledge](http://www.bitcoin.kn/) - Learn about blockchain and fintech.
 * [BlockChannel](https://soundcloud.com/blockchannelshow) - Dedicated to educating the world on the power of blockchain based technologies like Bitcoin, Ethereum, and ZCash.
+* [Citizen Cosmos](https://www.citizencosmos.space/) - Discovering the masterminds of the Cosmos blockchain ecosystem and web3 
 * [Off The Chain] (https://blockworksgroup.io/off-the-chain-podcast) - Host Anthony “Pomp” Pompliano talks to some of the most respected names in crypto and Wall Street to find out how intelligent investors from the new and old financial system are thinking about digital assets.
 * [Unchained: Your No-Hype Resource for All Things Crypto] (https://unchainedpodcast.com) - This weekly, hour-long podcast with host Laura Shin dives deep into the people building the decentralized internet, the details of this technology that could underpin our future, and some of the thorniest topics in crypto, such as regulation, security and privacy.
 * [What Grinds My Gears] (https://blockworksgroup.io/what-grinds-my-gears-podcast) - From Meltem Demirors and Jill Carlson, What Grinds My Gears is a podcast about the bizarre and buzzworthy happenings in the world of cryptocurrency. Each week, they delve into one key theme in crypto, and examine this theme through a broader financial, political, and cultural lens
