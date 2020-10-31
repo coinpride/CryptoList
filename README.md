@@ -320,6 +320,7 @@ Curated collection of blockchain &amp; cryptocurrency links.
 * [Gekko](https://github.com/askmike/gekko) - Free and open source trading bot. GUI, CLI, NodeJS, nice docs. 18 exchanges (including Bitfinex, Bitstamp and Poloniex).
 * [Zenbot](https://github.com/DeviaVir/zenbot) - Free and open source trading bot. CLI, NodeJS. GDAX, Poloniex, Kraken, Bittrex, Quadriga and Gemini.
 * [Web3.js](https://github.com/ethereum/web3.js) - Ethereum JS API. Requires nodejs, npm and running node.
+* [Eosjs](https://github.com/EOSIO/eosjs) - Javscript API used to interact with EOS Blockchain.
 * [OpenZeppelin](https://openzeppelin.org) - OpenZeppelin is open framework of reusable and secure smart contracts in the Solidity language. 1500+ Slack community members.
 * [GETH](https://www.ethereum.org/cli) - CLI tools for Ethereum. Python, C++, Go implementations.
 * [Embark](https://github.com/iurimatias/embark-framework) - Framework for serverless Decentralized Applications using Ethereum, IPFS and other platforms. JS.
