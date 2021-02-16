@@ -327,6 +327,7 @@ Curated collection of blockchain &amp; cryptocurrency links.
 * [Ropsten Ethereum Faucet](http://faucet.bitfwd.xyz/) - Instantly get ether to experiment on the Ropsten testnet.
 * [Kovan Ethereum Faucet](https://gitter.im/kovan-testnet) - Instantly get ether to experiment on the Kovan testnet.
 * [CCXT](https://github.com/ccxt/ccxt) - JS/Python/PHP library for cryptocurrency trading and e-commerce with support for many exchanges and merchant APIs.
+* [Chainstack](https://chainstack.com) - free and dedicated Ethereum & Bitcoin nodes, consortium nodes (HL Fabric, Corda, Quorum) and API service.
 * [QuikNode](https://quiknode.io/) - Cloud-hosted Ethereum nodes for developers and investors.
 * [Consensys Academy](https://consensys.net/academy/resources/) - Getting started resources by Consensys.
 * [Portis](https://portis.io/) - JavaScript SDK that lets people run your Ethereum DApp in the browser, using the same account on all their devices.
