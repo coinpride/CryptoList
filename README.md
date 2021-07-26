@@ -65,6 +65,7 @@ Curated collection of blockchain &amp; cryptocurrency links.
 * [Bitfalls](https://bitfalls.com) - Technical news, solidity tutorials, and skeptical research. EN and HR languages.
 * [What Bitcoin Did](https://www.whatbitcoindid.com/) - Blog of accidental Bitcoin and Cryptocurrency investor, miner, blogger and podcaster.
 * [CryptoGround](https://www.cryptoground.com) - Get latest news related to Bitcoin, Ethereum and other cryptocurrencies.
+* [Why Bitcoin Matters](https://hackernoon.com/why-bitcoin-matters-c8bf733b9fad) - Why bitcoin matters, it's more important than you think
 
 ## Medium
 * [Vitalik Buterin](https://medium.com/@VitalikButerin) - Ethereum creator, cryptocurrency evangelist.
