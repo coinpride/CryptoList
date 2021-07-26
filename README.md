@@ -65,6 +65,7 @@ Curated collection of blockchain &amp; cryptocurrency links.
 * [Bitfalls](https://bitfalls.com) - Technical news, solidity tutorials, and skeptical research. EN and HR languages.
 * [What Bitcoin Did](https://www.whatbitcoindid.com/) - Blog of accidental Bitcoin and Cryptocurrency investor, miner, blogger and podcaster.
 * [CryptoGround](https://www.cryptoground.com) - Get latest news related to Bitcoin, Ethereum and other cryptocurrencies.
+* [Bitcoin Times](https://bitcointimes.news/) - Publication dedicated to Bitcoin, as a concept and as a monetary phenomenon.
 
 ## Medium
 * [Vitalik Buterin](https://medium.com/@VitalikButerin) - Ethereum creator, cryptocurrency evangelist.
