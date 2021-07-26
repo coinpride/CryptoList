@@ -331,6 +331,7 @@ Curated collection of blockchain &amp; cryptocurrency links.
 * [QuikNode](https://quiknode.io/) - Cloud-hosted Ethereum nodes for developers and investors.
 * [Consensys Academy](https://consensys.net/academy/resources/) - Getting started resources by Consensys.
 * [Portis](https://portis.io/) - JavaScript SDK that lets people run your Ethereum DApp in the browser, using the same account on all their devices.
+* [Tai](https://github.com/fremantle-capital/tai) - Free and open source composable, real time, market data and trade execution toolkit. Built with Elixir, runs on the Erlang virtual machine.
 
 # Podcasts (Updated October, 2019)
 * [Epicenter](https://epicenter.tv/) - The Podcast at the Forefront of the Decentralized Technology Revolution.
