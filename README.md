@@ -267,6 +267,7 @@ Curated collection of blockchain &amp; cryptocurrency links.
 * [Bitcoin Playlist](https://www.youtube.com/playlist?list=PL05dEp7goGNiKWYdiE4nurEPFMmF9XpzF) - Great list of 55 Bitcoin talks.
 * [Decentralized TV](https://www.youtube.com/channel/UCueLJ4vLHTwMpYILmdBjRlg) - Blockchain, Bitcoin, and Cryptocurrency News, Culture, and Entertainment.
 * [Crypto Daily](https://www.youtube.com/channel/UC67AEEecqFEc92nVvcqKdhA/) - Crypto news on (mostly) daily basis.
+* [EatTheBlocks](https://www.youtube.com/c/eattheblocks) - Developer tutorials for Solidity smart contracts & Ethereum Dapps + Weekly newsletter on recent news for Ethereum developers
 
 ## Movies
 * [Ulterior States](http://www.iamsatoshi.com/) - Real-life conversations with some thought leaders within the Bitcoin ecosystem. The film took 3 years to complete.
