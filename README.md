@@ -287,6 +287,7 @@ Curated collection of blockchain &amp; cryptocurrency links.
 * [Khan's Academy Course](https://www.khanacademy.org/economics-finance-domain/core-finance/money-and-banking/bitcoin/v/bitcoin-what-is-it) - The very basics of how blockchain, Bitcoin and encryption works.
 * [Pluralsight Course](https://www.pluralsight.com/courses/bitcoin-decentralized-technology) - Introduction to Bitcoin and decentralized technology for beginners.
 * [University of Nicosia MOOC](https://digitalcurrency.unic.ac.cy/free-introductory-mooc/) - University of Nicosia´s free MOOC (Massive Open Online Course) DFIN-511: Introduction to Digital Currencies.
+* [EatTheBlocks Pro](http://pro.eattheblocks.com) - Largest course / screencast on Ethereum & Solidity smart contracts. Beginner to advanced levels. 1 new video a day.
 
 ## Other
 * [CoinPride Newsletter](https://coinpride.com/) - The most important crypto news and events. One handcrafted email per week.
