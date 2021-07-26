@@ -149,6 +149,7 @@ Curated collection of blockchain &amp; cryptocurrency links.
 * [Changelly](https://changelly.com/) - Fiat, nice affiliate program.
 * [Cryptoradar](https://cryptoradar.co) - Compares prices and features from > 25 exchanges and brokers.
 * [Binance](https://www.binance.com) - Modern exchange with the lowest fees and it's own token.
+* [KryptoCheck](https://kryptocheck.de/) - German real-time price comparison website for buying crypto at a low rate.
 * [Kucoin](https://www.kucoin.com) - Modern. Evolving really fast. Has it's own token.
 * [Guarda Exchange](https://guarda.co/exchange) - Anonymous crypto exchange and wallet.
 * [DDEX](https://www.ddex.io/) - Decentralized, non-custodial token to token trading powered by 0xproject and Hydro.
