@@ -136,6 +136,7 @@ Curated collection of blockchain &amp; cryptocurrency links.
 * [ICO Whitelists](https://icowhitelists.com) - Articles on ICOs. Also tracks growth of 200+ Telegram groups for ICOs.
 * [ICOAlarm](http://www.icoalarmapp.com/) - ICO discovery, analysis, and alerts crossplatform mobile application.
 * [ICO Toplist](https://icotoplist.com) - List, review and rate all ICOs: Past, Active and Upcoming ones.
+* [CryptoTotem](https://cryptototem.com/) - Live STOs, IEOs, ETOs, DAICOs, ICOs to Invest in 2020.
 
 # Exchanges
 * [Local Bitcoins](https://localbitcoins.com/) - Buy and sell bitcoins near you. Trusted by 10M monthly users.
