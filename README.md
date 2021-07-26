@@ -304,6 +304,7 @@ Curated collection of blockchain &amp; cryptocurrency links.
 
 # Trading Tools
 * [Quadency](https://quadency.com) - Crypto trading and real-time portfolio analytics.
+* [Coinrule](https://coinrule.com) - Rules-based automated trading platform
 
 # For Developers
 ## API
