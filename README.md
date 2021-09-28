@@ -155,6 +155,7 @@ Curated collection of blockchain &amp; cryptocurrency links.
 * [ForkDelta](https://forkdelta.app/) - One of the earliest and still most popular decentralized exchanges.
 * [ChangeNOW](https://changenow.io/) - Limitless and fast coin swaps free of custody.
 * [n.exchange](https://n.exchange/) - Open source non-custodial exchange with fiat, a great API and a non-custodial cross chain order book.
+* [KryptoCheck](https://kryptocheck.de/) - Compares prices and features from many crypto exchanges and brokers in real-time.
 
 # Communities
 ## Chats
