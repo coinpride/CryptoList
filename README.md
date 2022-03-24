@@ -331,6 +331,7 @@ Curated collection of blockchain &amp; cryptocurrency links.
 * [QuikNode](https://quiknode.io/) - Cloud-hosted Ethereum nodes for developers and investors.
 * [Consensys Academy](https://consensys.net/academy/resources/) - Getting started resources by Consensys.
 * [Portis](https://portis.io/) - JavaScript SDK that lets people run your Ethereum DApp in the browser, using the same account on all their devices.
+* [Cryptocurrency Languages](https://github.com/Nanra/cryptocurrency-languages) - List of Programming Language used by Cryptocurrency for Developing Core Network, Smart Contract or Applications.
 
 # Podcasts (Updated October, 2019)
 * [Epicenter](https://epicenter.tv/) - The Podcast at the Forefront of the Decentralized Technology Revolution.
