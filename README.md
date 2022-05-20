@@ -105,6 +105,7 @@ Curated collection of blockchain &amp; cryptocurrency links.
 * [CoinMarketcap](https://coinmarketcap.com/) - Old and cool. All coins prices, graphs, market caps. API, widgets, tools. Used by 90M monthly users.
 * [Coincap](http://coincap.io/) - CoinCap tracks market data for hundreds of cryptocurrencies in real-time. They also have very useful mobile app.
 * [Cryptowatch](https://cryptowat.ch) - Live price charts and market data for Bitcoin, Ethereum, and more. Many exchanges, flexible settings and cool API.
+* [Bidya](htts://www.bidya.com) - Prices, charts, stats, news, research, tools and free no-registration watchlist.
 * [Bitcoinwisdom](https://bitcoinwisdom.com) - Live Bitcoin/Litecoin charts with EMA, MACD and other indicators. Support many exchanges (Bitfinex, Bitstamp, Coinbase, Bittrex, Poloniex etc).
 * [Flippening Watch](https://www.flippening.watch/) - When will Ethereum overtake Bitcoin and become the most important cryptocurrency?
 * [Coindex](https://itunes.apple.com/us/app/coindex/id1251487103) - Beautiful cryptocurrency price tracker for iOS.
