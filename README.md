@@ -228,6 +228,7 @@ Curated collection of blockchain &amp; cryptocurrency links.
 * [wallmine](https://wallmine.com/stocks-and-cryptocurrency-portfolio-tracker) - Track both cryptocurrencies and stocks; screeners, heatmaps, news, push notifications.
 * [CoinTracker](https://www.cointracker.io) - Cryptocurrency asset tracker that automatically pulls all balances and transactions from exchanges and cryptocurrency wallets.
 * [Coin Beat](http://www.coinbeatapp.com/) - Crypto tracker for managing over 1300 crypto currencies. Get instant push notification on price activity. iOS and Android.
+* [All My Coin](https://allmyco.in/) - Free Ethereum and Binance Smart Chain portfolio tracker.
 
 # Useful Tools
 * [QR Code Generator](https://bitcoinqrcodegenerator.win/) - With this free tool you can instantly generate QR code for your Bitcoin/Litecoin/Ethereum/Dogecoin address.
