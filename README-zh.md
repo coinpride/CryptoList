@@ -169,6 +169,7 @@
 * [/r/Jobs4Bitcoins/](https://www.reddit.com/r/Jobs4Bitcoins/) - 在Reddit上提供你的才能和技能，以换取世界上增长最快的货币。
 * [Crypto.jobs](https://crypto.jobs) - 很好分类的工作列表。所有者做了很多推广。
 * [Beincrypto](https://beincrypto.com) - 汇总来自主要工作委员会的所有加密货币工作。
+* [Finnuggets.net](https://www.finnuggets.net) - 对加密、金融和 NFT 的实时无偏见报道。
 * [Jobs by BlockRepublic](http://blockrepublic.io/blockchain-jobs/) - 有用的过滤器，位置和类别。
 * [Crypto Jobs List](https://cryptojobslist.com/) - 从经过验证的区块链公司筛选出的工作。
 
