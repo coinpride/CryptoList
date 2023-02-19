@@ -239,10 +239,8 @@ Curated collection of blockchain &amp; cryptocurrency links.
 * [Statoshi](https://statoshi.info) - Realtime Bitcoin node stats. Made by Jameson Lopp.
 * [RSIhunter](https://rsihunter.com/) - Find "oversold" and "overbought" cryptocurrencies.
 * [CryptoFinance](https://cryptofinance.ai/) - Google Sheets add-on to get cryptocurrencies rate in spreadsheets.
-* [Vanitygen Plus](https://github.com/exploitagency/vanitygen-plus) - Generate custom key addresses for 90+ coins.
 * [CoinPop.me](https://coinpop.me/) - Create shareable page for all your cryptocurrency donation addresses.
 * [If You Had Bought Crypto](https://ifyouhadboughtcrypto.com) - How rich would you be if you had invested in your favourite Cryptocurrency?
-* [Vaulty.io](https://vaulty.io) - Accept any cryptocurrency for your website, blog, or for general personal use with just one link.
 * [Bitcoin Flip Trading simulator](https://bitcoinflip.app/) - 101% realistic and fun crypto trading Simulator for Beginners!
 * [QWallet](https://qwallet.io/) - Search & view the value of any Ethereum wallet, create your own token portfolio.
 * [Ethplorer](https://ethplorer.io) - Block explorer and analytics platform for Ethereum.
@@ -307,6 +305,7 @@ Curated collection of blockchain &amp; cryptocurrency links.
 
 # For Developers
 ## API
+* [Apirone](https://apirone.com/) - Bitcoin and Altcoins payment Gateway. CMS plugins, donation widget, invoice, API, etc.
 * [Shapeshift](https://docs.shapeshift.io/) - Embed exchange in your app. Trusted by hundreds of apps.
 * [Bittrex](https://bittrex.github.io) - Almighty API. You can do anything with it.
 * [Poloniex](https://docs.poloniex.com) - The biggest exchange API. PHP and Python wrapper.
@@ -317,6 +316,7 @@ Curated collection of blockchain &amp; cryptocurrency links.
 * [ChangeNOW](https://changenow.io/api/docs) - Easy integration of the cryptocurrency exchange. Limitless and fast coin swaps free of custody.
 
 ## Other
+* [VanityGen](https://vanitygen.net/) - Vanity Bitcoin Generator. Use it for your site, donation page or cold storage.
 * [Bitpay](https://bitpay.com/) - Use BitPay's retail, ecommerce, billing, and donation tools to accept payments.
 * [Gekko](https://github.com/askmike/gekko) - Free and open source trading bot. GUI, CLI, NodeJS, nice docs. 18 exchanges (including Bitfinex, Bitstamp and Poloniex).
 * [Zenbot](https://github.com/DeviaVir/zenbot) - Free and open source trading bot. CLI, NodeJS. GDAX, Poloniex, Kraken, Bittrex, Quadriga and Gemini.
