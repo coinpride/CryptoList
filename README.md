@@ -47,6 +47,7 @@ Curated collection of blockchain &amp; cryptocurrency links.
 * [CoinTelegraph](https://cointelegraph.com/) - The leading publication offering latest news, analysis, expert opinions, community commentaries. Founded in 2013.
 * [CoinDesk](https://www.coindesk.com/) - CoinDesk is the world leader in news and information on digital currencies. 17M mothly users.
 * [CryptoCoins News](https://www.cryptocoinsnews.com/) - Fresh news and analysis. This huge blog posts very frequently. Approx. 7M readers monthly.
+* [Coinfomania](https://coinfomania.com/new-crypto-to-buy-now-for-100x-gains/) - Planning to know which new crypto is most likely to turn $100 into $10,000 this year? You have come to the right place!
 * [Bitcoin Magazine](https://bitcoinmagazine.com/) - Bitcoin Magazine is the oldest and most established source of news, information and expert commentaries. Sometimes posts deep and very interesting articles.
 * [99 Bitcoins](https://99bitcoins.com/) - 99 Bitcoins is the largest information source for non technical newbies.
 * [Coin Speaker](https://www.coinspeaker.com/) - Founded in 2014, CoinSpeaker is one of the most influentional news source.
