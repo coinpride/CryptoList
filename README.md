@@ -232,6 +232,7 @@ Curated collection of blockchain &amp; cryptocurrency links.
 # Useful Tools
 * [QR Code Generator](https://bitcoinqrcodegenerator.win/) - With this free tool you can instantly generate QR code for your Bitcoin/Litecoin/Ethereum/Dogecoin address.
 * [Block Explorer](https://tradeblock.com/bitcoin/) - Discover the Bitcoin blockchain blocks online. Includes fees and miners information.
+* [Bitcoin Fee Calculator - All-In-One](https://www.btcbench.com/calculator.html) - Estimate Bitcoin transaction costs, benchmark them against real‑time network data, and uncover over-payment on your wallet’s fee estimates.
 * [EtherScan](https://etherscan.io) - Block Explorer and Analytics Platform for Ethereum.
 * [ETH Gas Station](https://ethgasstation.info) - Consumer oriented metrics for the Ethereum Gas Market.
 * [Metamask](https://metamask.io/) - Run Ethereum dApps right in your browser without running full node.
