@@ -86,6 +86,7 @@ Curated collection of blockchain &amp; cryptocurrency links.
 * [CryptoNews](https://t.me/bitcoinnews) - Cryptocurrency news megafeed that is posted in real time, even before they hit social media.
 * [Ethereum dapps](https://t.me/ethereumdapps) - Ethereum & DAPPS news and updates.
 * [Telegram Crypto Groups](http://telegramcryptogroups.com) - Directory of all of Telegram crypto related groups.
+* [NoxBaseBot](https://t.me/NoxBaseBot) - Free Base chain Telegram bot with real-time prices, whale alerts, gas tracker, portfolio tools, and DeFi analytics. Open source.
 
 # News Aggregators
 * [CryptoControl](https://cryptocontrol.io/en/social) - CryptoControl aggregates news from many sources (Twitter, Reddit, Google Trends etc) and displays it in the Trello style.
