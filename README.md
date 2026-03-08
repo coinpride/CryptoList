@@ -310,6 +310,7 @@ Curated collection of blockchain &amp; cryptocurrency links.
 * [Shapeshift](https://docs.shapeshift.io/) - Embed exchange in your app. Trusted by hundreds of apps.
 * [Bittrex](https://bittrex.github.io) - Almighty API. You can do anything with it.
 * [Poloniex](https://docs.poloniex.com) - The biggest exchange API. PHP and Python wrapper.
+* [ProofBets](https://proofbets.com) - Data-driven crypto casino reviews with on-chain verification, prediction market fee comparison (Polymarket, Kalshi, Azuro), and a free 16-endpoint API
 * [CryptoWatch](https://cryptowat.ch/docs/api) - Public REST API, providing basic information about all markets on Cryptowatch.
 * [Microsoft BaaS](https://azure.microsoft.com/en-in/solutions/blockchain/) - Blockchain as Service (BaaS) from Microsoft Azure.
 * [CoinMarketCap](https://coinmarketcap.com/api/) - Powerful JSON API covering 1000+ coins. Limit: 1 request per 6 sec.
