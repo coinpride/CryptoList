@@ -230,6 +230,8 @@ Curated collection of blockchain &amp; cryptocurrency links.
 * [Coin Beat](http://www.coinbeatapp.com/) - Crypto tracker for managing over 1300 crypto currencies. Get instant push notification on price activity. iOS and Android.
 
 # Useful Tools
+* [RowBTC](https://rowbtc.com/) - Open analytics Bitcoin Blockchain explorer. 
+* [Apirone](https://apirone.com) - Crypto Payment Processing.
 * [QR Code Generator](https://bitcoinqrcodegenerator.win/) - With this free tool you can instantly generate QR code for your Bitcoin/Litecoin/Ethereum/Dogecoin address.
 * [Block Explorer](https://tradeblock.com/bitcoin/) - Discover the Bitcoin blockchain blocks online. Includes fees and miners information.
 * [EtherScan](https://etherscan.io) - Block Explorer and Analytics Platform for Ethereum.
@@ -240,6 +242,7 @@ Curated collection of blockchain &amp; cryptocurrency links.
 * [RSIhunter](https://rsihunter.com/) - Find "oversold" and "overbought" cryptocurrencies.
 * [CryptoFinance](https://cryptofinance.ai/) - Google Sheets add-on to get cryptocurrencies rate in spreadsheets.
 * [Vanitygen Plus](https://github.com/exploitagency/vanitygen-plus) - Generate custom key addresses for 90+ coins.
+* [VanityGen](https://vanitygen.net/) - Generate vanity Bitcoin address.
 * [CoinPop.me](https://coinpop.me/) - Create shareable page for all your cryptocurrency donation addresses.
 * [If You Had Bought Crypto](https://ifyouhadboughtcrypto.com) - How rich would you be if you had invested in your favourite Cryptocurrency?
 * [Vaulty.io](https://vaulty.io) - Accept any cryptocurrency for your website, blog, or for general personal use with just one link.
