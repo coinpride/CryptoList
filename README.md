@@ -314,6 +314,8 @@ Curated collection of blockchain &amp; cryptocurrency links.
 * [Microsoft BaaS](https://azure.microsoft.com/en-in/solutions/blockchain/) - Blockchain as Service (BaaS) from Microsoft Azure.
 * [CoinMarketCap](https://coinmarketcap.com/api/) - Powerful JSON API covering 1000+ coins. Limit: 1 request per 6 sec.
 * [CoinCap](https://docs.coincap.io/) - Simple and informative. Lots of altcoins. History data. No limits.
+* [CoinPaprika](https://api.coinpaprika.com) - Free crypto market data. 12,000+ coins, 350+ exchanges, tickers, OHLCV, historical prices. No API key for free tier.
+* [DexPaprika](https://api.dexpaprika.com) - Free DEX data across 34 blockchains. 30M+ pools, 27M+ tokens, real-time SSE streaming. No API key, no rate limits.
 * [ChangeNOW](https://changenow.io/api/docs) - Easy integration of the cryptocurrency exchange. Limitless and fast coin swaps free of custody.
 
 ## Other
