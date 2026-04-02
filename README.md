@@ -315,6 +315,7 @@ Curated collection of blockchain &amp; cryptocurrency links.
 * [CoinMarketCap](https://coinmarketcap.com/api/) - Powerful JSON API covering 1000+ coins. Limit: 1 request per 6 sec.
 * [CoinCap](https://docs.coincap.io/) - Simple and informative. Lots of altcoins. History data. No limits.
 * [ChangeNOW](https://changenow.io/api/docs) - Easy integration of the cryptocurrency exchange. Limitless and fast coin swaps free of custody.
+* [Microverse Systems](https://microversesystems.com) - Free real-time order book data from 21 crypto exchanges via WebSocket. Sub-millisecond latency.
 
 ## Other
 * [Bitpay](https://bitpay.com/) - Use BitPay's retail, ecommerce, billing, and donation tools to accept payments.
