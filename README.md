@@ -250,6 +250,8 @@ Curated collection of blockchain &amp; cryptocurrency links.
 * [Trivial.co](https://trivial.co) - Network explorer and analytics platform for Ethereum and ERC-20 tokens.
 * [HappyDApps](https://happydapps.net) - Web 3.0 browser compatibility check.
 
+* [Bitcoin Bottom Score](https://bitcoinbottom.app) - Free Bitcoin cycle bottom probability tracker. Aggregates 25 on-chain signals (MVRV, Puell Multiple, Hash Ribbon, Fear & Greed, etc.) into a daily score.
+
 # Video
 ## YouTube Channels
 * [The Cryptoverse](https://www.youtube.com/channel/UCLnQ34ZBSjy2JQjeRudFEDw) - Your cryptocurrency news dose.
