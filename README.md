@@ -304,7 +304,7 @@ Curated collection of blockchain &amp; cryptocurrency links.
 
 # Trading Tools
 * [Quadency](https://quadency.com) - Crypto trading and real-time portfolio analytics.
-
+ [CoinPrediction.ai](https://coinprediction.ai) - AI-powered Solana meme coin analyzer with on-chain risk scoring (RugCheck integration), trust scores, and rug-pull predictions. Free.
 # For Developers
 ## API
 * [Shapeshift](https://docs.shapeshift.io/) - Embed exchange in your app. Trusted by hundreds of apps.
