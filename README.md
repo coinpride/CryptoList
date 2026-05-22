@@ -283,6 +283,7 @@ Curated collection of blockchain &amp; cryptocurrency links.
 
 ## Courses
 * [Coursera Course](https://www.coursera.org/learn/cryptocurrency) - Telling what is special about Bitcoin and how it works at technical level. Created by Princeton University.
+* [TutorialSearch](https://tutorialsearch.io/browse/blockchain-web3) - Free cross-platform search engine indexing 50,000+ tutorials from Udemy, Skillshare, Pluralsight, and other major learning platforms across 45+ categories.
 * [Udemy Course](https://www.udemy.com/bitcoin-or-how-i-learned-to-stop-worrying-and-love-crypto) - The definitive guide to understand what the bitcoin is and why we should care about them.
 * [Khan's Academy Course](https://www.khanacademy.org/economics-finance-domain/core-finance/money-and-banking/bitcoin/v/bitcoin-what-is-it) - The very basics of how blockchain, Bitcoin and encryption works.
 * [Pluralsight Course](https://www.pluralsight.com/courses/bitcoin-decentralized-technology) - Introduction to Bitcoin and decentralized technology for beginners.
