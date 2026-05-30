@@ -303,6 +303,7 @@ Curated collection of blockchain &amp; cryptocurrency links.
 * [Whitepaper.io](https://whitepaper.io) - All whitepapers in one place.
 
 # Trading Tools
+* [SENTINEL Research](https://sentinelresearch.app) - Crypto perp factor-stack scanner for Bybit. Combines funding rate, open interest delta, volume, BTC regime, and breadth into one score per symbol, with public per-tier performance and per-signal receipts (misses included).
 * [Quadency](https://quadency.com) - Crypto trading and real-time portfolio analytics.
 
 # For Developers
