@@ -303,6 +303,7 @@ Curated collection of blockchain &amp; cryptocurrency links.
 * [Whitepaper.io](https://whitepaper.io) - All whitepapers in one place.
 
 # Trading Tools
+* [INDICIA DESK](https://indiciadesk.com/en/) - Measured (not estimated) BTC/ETH whale liquidation map from real Hyperliquid positions, plus an options-based fear & greed index. Free.
 * [Quadency](https://quadency.com) - Crypto trading and real-time portfolio analytics.
 
 # For Developers
