@@ -249,6 +249,7 @@ Curated collection of blockchain &amp; cryptocurrency links.
 * [EtherChain](https://etherchain.org) - Ethereum Blockchain Explorer.
 * [Trivial.co](https://trivial.co) - Network explorer and analytics platform for Ethereum and ERC-20 tokens.
 * [HappyDApps](https://happydapps.net) - Web 3.0 browser compatibility check.
+* [Paygate Explorer](https://paygate.love/explorer) - Free multi-chain explorer for BTC, LTC, DOGE, ETH, BSC, TON, TRON and Solana with address/tx lookup and rich lists.
 
 # Video
 ## YouTube Channels
