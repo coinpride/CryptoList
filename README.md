@@ -249,6 +249,7 @@ Curated collection of blockchain &amp; cryptocurrency links.
 * [EtherChain](https://etherchain.org) - Ethereum Blockchain Explorer.
 * [Trivial.co](https://trivial.co) - Network explorer and analytics platform for Ethereum and ERC-20 tokens.
 * [HappyDApps](https://happydapps.net) - Web 3.0 browser compatibility check.
+* [HostDeFi](https://hostdefi.com) - Free multi-chain token risk scanner: instant on-chain safety grades for Solana + 7 EVM chains (mint/freeze authorities, liquidity, holder concentration, honeypot checks).
 
 # Video
 ## YouTube Channels
