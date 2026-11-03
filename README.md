@@ -212,6 +212,7 @@ Curated collection of blockchain &amp; cryptocurrency links.
 * [Samourai](https://samouraiwallet.com/) - Secure Bitcoin wallet for Android.
 * [WalletList](https://walletlist.me) - Showcase your public cryptocurrency addresses.
 * [WalletGenerator.net](https://walletgenerator.net) - Universal JavaScript client-side wallet generator for 100+ coins.
+* [Oath Wallet](https://oathwallet.org/) - Native iPhone and iPad wallet for Bitcoin, Ethereum, Solana and other supported networks, with balances, transaction history, send/receive and watch-only addresses.
 
 # Altfolio
 * [Blockfolio](https://blockfolio.com/) - Cryptocurrency management, with easy to use tools to keep track of all your cryptocurrency investments. Nice widgets. Simple. Android/iOS.
